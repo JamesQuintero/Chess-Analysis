@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.05"]
+[Round "?"]
+[White "srulrish"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "759"]
+[BlackElo "793"]
+[TimeControl "600"]
+[EndTime "20:33:04 PDT"]
+[Termination "srulrish won by resignation"]
+[CurrentPosition "4Q3/2p3kp/p2b2p1/1p6/1P6/P2P4/2P2PB1/6K1 b - - 0 27"]
+
+1.Nf3 d5 { A06: Reti Opening: 1...d5 } 2.e3 Nc6 3.a3 e5 4.d3 Bg4 5.h3 Bxf3 6.gxf3 { (-0.07 → -0.66) Inaccuracy. A better move was 6. Qxf3. } ( 6.Qxf3 6...a5 7.c4 7...d4 8.Qd5 8...dxe3 9.Qxd8+ 9...Rxd8 10.fxe3 10...Bc5 ) 6...Nf6 7.Nc3 a6 8.b4 d4 9.exd4 exd4 10.Ne2 Qe7 11.Bb2 { (-0.17 → -0.87) Inaccuracy. A better move was 11. Bg2. } ( 11.Bg2 11...O-O-O 12.O-O 12...Nd5 13.f4 13...g6 14.Rb1 14...f5 15.Re1 15...Qf6 ) 11...b5 { (-0.93 → +0.07) Inaccuracy. A better move was 11... O-O-O. } ( 11...O-O-O 12.Bg2 12...Nxb4 13.O-O 13...Nc6 14.f4 14...Qd7 15.Bxc6 15...Qxc6 16.Nxd4 ) 12.Bg2 Qe6 { (+0.31 → +1.31) Inaccuracy. A better move was 12... Nd5. } ( 12...Nd5 13.O-O 13...Qf6 14.f4 14...O-O-O 15.Re1 15...Kb8 16.Qc1 16...h5 17.c4 ) 13.f4 g6 { (+1.12 → +2.87) Mistake. The best move was 13... Nd5. } ( 13...Nd5 14.O-O 14...O-O-O 15.Bxd4 15...Kb8 16.Re1 16...Nxd4 17.Nxd4 17...Qb6 18.Ne2 ) 14.O-O Bd6 { (+2.61 → +9.61) Blunder. The best move was 14... Be7. } ( 14...Be7 15.Re1 15...Qd7 16.Bxc6 16...Qxc6 17.Nxd4 17...Qd6 18.Qe2 18...Kf8 19.c4 ) 15.Bxc6+ Ke7 16.Nxd4 Qxh3 17.Re1+ Kf8 18.Ne6+ { (+11.06 → +5.85) Mistake. The best move was 18. Bxa8. } ( 18.Bxa8 18...Qh4 19.Bg2 19...h5 20.Qf3 20...Kg7 21.Ne2 21...Rb8 22.Qd5 22...Kg8 ) 18...fxe6 19.Rxe6 { (+6.04 → +0.92) Blunder. The best move was 19. Bxa8. } ( 19.Bxa8 19...Kf7 20.Bg2 20...Qh4 21.Qf3 21...Re8 22.Qg3 22...Qxf4 23.Qxf4 23...Bxf4 ) 19...Qxe6 20.Bxa8 Kg7 21.Bg2 Bxf4 { (+0.72 → +1.50) Inaccuracy. A better move was 21... Re8. } ( 21...Re8 22.Bc6 22...Re7 23.Qf3 23...Qf5 24.a4 24...Bxf4 25.axb5 25...axb5 26.Kf1 ) 22.Qf3 Qe5 { (+1.33 → +8.06) Blunder. The best move was 22... g5. } ( 22...g5 23.Bh3 23...Qe7 24.Qc6 24...g4 25.Bxg4 25...Be5 26.d4 26...Bh2+ 27.Kxh2 ) 23.Bxe5 Bxe5 24.Re1 Bd6 25.Qc6 Re8 26.Rxe8 Nxe8 27.Qxe8  1-0

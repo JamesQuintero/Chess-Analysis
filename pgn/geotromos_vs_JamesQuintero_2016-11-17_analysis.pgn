@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.17"]
+[Round "?"]
+[White "geotromos"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "1213"]
+[BlackElo "781"]
+[TimeControl "180"]
+[EndTime "22:05:14 PST"]
+[Termination "geotromos won by resignation"]
+[CurrentPosition "7r/2pk3p/p4p2/2Nn2p1/1p1N4/2P1P2P/PP3KP1/4R3 b - - 0 24"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bg4 6.h3 { C68: Ruy Lopez Opening: Morphy Defense, Exchange, Normal Variation, 5...Bg4 6.h3 } 6...Be6 { (+0.54 → +1.37) Inaccuracy. A better move was 6... Bxf3. } ( 6...Bxf3 7.Qxf3 7...Nf6 8.d3 8...Bc5 9.Nd2 9...O-O 10.Nc4 10...Nd7 11.Bd2 ) 7.Nxe5 Qe7 { (+0.43 → +1.58) Inaccuracy. A better move was 7... Qd4. } ( 7...Qd4 8.Nf3 8...Qxe4 9.Re1 9...Qg6 10.Nd4 10...Bd6 11.Nxe6 11...fxe6 12.d3 ) 8.d4 Rd8 9.c3 f6 10.Nf3 b5 { (+1.87 → +2.94) Inaccuracy. A better move was 10... Kd7. } ( 10...Kd7 11.d5 11...Kc8 12.c4 12...Bxh3 13.gxh3 13...Qxe4 14.Nd4 14...cxd5 15.Nc3 ) 11.Be3 g5 12.d5 { (+2.44 → +0.77) Mistake. The best move was 12. Nbd2. } ( 12.Nbd2 12...h5 13.Ne1 13...Qg7 14.Nd3 14...Bc4 15.Nxc4 15...bxc4 16.Ne1 16...Ne7 ) 12...cxd5 13.exd5 Bxd5 { (+1.41 → +2.52) Inaccuracy. A better move was 13... Rxd5. } ( 13...Rxd5 14.Nbd2 14...Nh6 15.Re1 15...Bg7 16.Nd4 16...O-O 17.Bxg5 17...Rxd4 18.Bxh6 ) 14.Qe2 { (+2.37 → -0.17) Blunder. The best move was 14. Re1. } ( 14.Re1 14...Be6 15.Nbd2 15...h5 16.Nd4 16...Rd6 17.Qc2 17...c5 18.Nf5 18...Bxf5 ) 14...Bc4 15.Qe1 Bxf1 16.Kxf1 Rd3 { (-1.08 → +0.29) Mistake. The best move was 16... Nh6. } ( 16...Nh6 17.Nd4 17...Qd7 18.Bxg5+ 18...Kf7 19.Bf4 19...c5 20.Nf3 20...Nf5 21.Nbd2 ) 17.Nbd2 { (+0.70 → +0.14) Inaccuracy. A better move was 17. a4. } ( 17.a4 17...h5 18.Qe2 18...Rxe3 19.fxe3 19...g4 20.Nd4 20...gxh3 21.gxh3 21...c5 ) 17...Rxe3 18.Qxe3 Qxe3 19.fxe3 Ne7 20.Kf2 Nd5 21.Nd4 Bc5 22.Re1 Kd7 23.Ne4 b4 { (+0.10 → +5.52) Blunder. The best move was 23... Bb6. } ( 23...Bb6 24.Rd1 24...c6 25.Kf3 25...h5 26.Nf5 26...Ke6 27.Nd4+ 27...Kd7 28.Nf5 ) 24.Nxc5+  1-0

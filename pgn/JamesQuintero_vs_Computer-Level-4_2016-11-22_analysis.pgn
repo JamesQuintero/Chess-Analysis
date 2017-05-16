@@ -1,0 +1,12 @@
+[Event "Vs. Computer"]
+[Site "Chess.com"]
+[Date "2016.11.22"]
+[Round "1"]
+[White "JamesQuintero"]
+[Black "Computer Level 4"]
+[Result "0-1"]
+[ECO "C02"]
+[CurrentPosition "rn1qkbnr/pp1b1ppp/4p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 2 5"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Bd7 5.Nf3 c4 6.b3 b5 7.b4 Bc6 8.Bg5 Qc7 9.Na3 h6 10.Bf4 Nd7 11.Qc2 Be7 12.Bg3 Nb6 13.Be2 Nd7 14.O-O h5 15.Bh4 a6 16.Qd1 Nh6 17.Ng5 Nf5 18.Bxh5 O-O-O 19.Nxf7 Nxh4 20.Nxh8 Rxh8 21.Bg4 Nf5 22.Bh5 g5 23.Bf7 Rh6 24.h3 Qb7 25.Nc2 Ng7 26.Qg4 Nb6 27.Rac1 Rh4 28.Qf3 Rf4 29.Qg3 Rxf7 30.Ne3 Qc7 31.Ng4 Rf4 32.h4 Kb8 33.Nh2 Rf8 34.Rce1 Rg8 35.f4 gxh4 36.Qg4 Na4 37.Rc1 Be8 38.f5 Bh5 39.Qf4 Nxf5 40.Qf2 h3 41.Qd2 Bg5 42.Qe1 Be3+ 43.Rf2 Rxg2+ 44.Kh1 Ng3# 
+0-1

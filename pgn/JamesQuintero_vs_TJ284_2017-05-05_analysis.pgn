@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.05"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "TJ284"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "775"]
+[BlackElo "614"]
+[TimeControl "600"]
+[EndTime "20:09:09 PDT"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "6n1/pp5p/6b1/6k1/3p4/3P2QP/PPP5/4RRK1 b - - 1 26"]
+
+1.e4 d5 2.Nc3 { B01: Scandinavian Defense: Closed } 2...d4 3.Nd5 f5 4.e5 { (-0.16 → -2.85) Blunder. The best move was 4. d3. } ( 4.d3 4...Nf6 5.Nxf6+ 5...exf6 6.Nf3 6...Nc6 7.Be2 7...Bb4+ 8.Bd2 8...Qe7 ) 4...Qxd5 5.d3 Nc6 { (-4.47 → -3.28) Inaccuracy. A better move was 5... Qxe5+. } ( 5...Qxe5+ 6.Be2 6...Qd6 7.c3 7...Nc6 8.cxd4 8...Nxd4 9.Nf3 9...e5 10.Bd2 ) 6.Nf3 f4 { (-4.30 → -2.45) Mistake. The best move was 6... Nxe5. } ( 6...Nxe5 7.Nxe5 7...Qxe5+ 8.Be2 8...Qd6 9.c3 9...e5 10.O-O 10...Nf6 11.Qb3 ) 7.Bxf4 Bg4 8.h3 Bh5 { (-3.11 → -1.98) Inaccuracy. A better move was 8... Bxf3. } ( 8...Bxf3 9.Qxf3 9...Qa5+ 10.Kd1 10...O-O-O 11.g3 11...e6 12.Bg2 12...Nge7 13.Qg4 ) 9.g4 Bg6 10.Bg2 O-O-O 11.O-O e6 12.Ng5 Nxe5 { (-2.57 → +5.28) Blunder. From winning to losing. The best move was 12... Qd7. } ( 12...Qd7 13.c4 13...dxc3 14.Qb3 14...Bxd3 15.Rfd1 15...c2 16.Rd2 16...Na5 17.Qxe6 ) 13.Bxd5 Rxd5 14.Qe1 Be7 { (+3.95 → +8.90) Mistake. The best move was 14... Bd6. } ( 14...Bd6 15.Bxe5 15...Rxe5 16.Ne4 16...Rd5 17.f4 17...h5 18.f5 18...exf5 19.gxf5 ) 15.Bxe5 Bxg5 16.Bxg7 Bf6 17.Qxe6+ Kd8 { (+10.53 → +23.18) Inaccuracy. A better move was 17... Rd7. } ( 17...Rd7 18.Bxf6 18...Nxf6 19.Qxf6 19...Rhd8 20.Rae1 20...b6 21.f4 21...c5 22.Re7 ) 18.Qxd5+ Ke7 { (+25.14 → ♔ Mate in 3) Mistake. The best move was 18... Kc8. } ( 18...Kc8 19.Bxh8 19...Ne7 20.Qe6+ 20...Kb8 21.Bxf6 21...Nc8 22.Bxd4 22...a6 23.Ba7+ ) 19.Bxh8 { (♔ Mate in 3 → +23.77) Missed mate. Checkmate after 19. Rae1+ . } ( 19.Rae1+ 19...Be4 20.Rxe4+ 20...Be5 21.Rxe5# ) 19...Bxh8 20.Rae1+ Kf8 21.Qd8+ Kg7 22.Qxc7+ Kh6 23.f4 Bf6 { (+29.16 → ♔ Mate in 9) Mistake. The best move was 23... Nf6. } ( 23...Nf6 24.g5+ 24...Kh5 25.Qe5 25...Ng4 26.Qe2 26...Bf5 27.hxg4+ 27...Bxg4 28.Qe8+ ) 24.g5+ Bxg5 25.fxg5+ Kxg5 26.Qg3+ { (♔ Mate in 4 → ♔ Mate in 5) Excellent. Faster mate A better move was 26. Qf4+. } ( 26.Qf4+ 26...Kh5 27.Re5+ 27...Bf5 28.Rxf5+ 28...Kg6 29.Qg5# )  1-0

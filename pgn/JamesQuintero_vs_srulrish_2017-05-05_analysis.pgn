@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.05"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "srulrish"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "819"]
+[BlackElo "729"]
+[TimeControl "600"]
+[EndTime "20:23:52 PDT"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "k4n2/1Q4pp/p7/NpP5/6P1/7P/P4P1K/8 b - - 2 36"]
+
+1.e4 e5 2.Nf3 Qf6 { C40: King's Pawn Opening: King's Knight, McConnell Defense } 3.d4 { (+1.25 → +0.60) Inaccuracy. A better move was 3. Nc3. } ( 3.Nc3 3...Nc6 4.Bc4 4...d6 5.d3 5...Qd8 6.O-O 6...Be7 7.d4 7...Bg4 ) 3...Bb4+ { (+0.81 → +2.33) Inaccuracy. A better move was 3... exd4. } ( 3...exd4 4.c3 4...dxc3 5.Nxc3 5...Bb4 6.Bd2 6...Ne7 7.Bd3 7...O-O 8.O-O ) 4.c3 Ba5 5.Bg5 { (+2.62 → +1.46) Inaccuracy. A better move was 5. dxe5. } ( 5.dxe5 5...Qg6 6.Bd3 6...Bb6 7.O-O 7...Nc6 8.Na3 8...Nge7 9.b4 9...d6 ) 5...Qf4 { (+1.70 → +9.49) Blunder. The best move was 5... Qg6. } ( 5...Qg6 6.dxe5 6...Nc6 7.Nbd2 7...Nxe5 8.Bf4 8...Nxf3+ 9.Qxf3 9...d6 10.Bd3 ) 6.Bxf4 exf4 7.e5 Nc6 8.b4 Bb6 9.Bb5 a6 10.Bxc6 dxc6 11.Nbd2 Bf5 12.h3 f6 13.g4 Bd3 14.Nb3 Bc4 15.Nc5 O-O-O 16.Nd2 fxe5 17.Nxc4 Bxc5 18.bxc5 exd4 19.cxd4 Nf6 20.Qf3 { (+13.21 → +9.27) Inaccuracy. A better move was 20. Rb1. } ( 20.Rb1 20...Rhe8+ 21.Kf1 21...Rd5 22.Qb3 22...b5 23.cxb6 23...Rb5 24.Qd3 24...Nd5 ) 20...Rd5 21.Qxf4 Re8+ 22.Kf1 b5 23.Na5 { (+19.13 → +11.50) Mistake. The best move was 23. cxb6. } ( 23.cxb6 23...Rd7 24.bxc7 24...Nd5 25.Nd6+ 25...Rxd6 26.Qxd6 26...Nxc7 27.Rb1 27...Re6 ) 23...Re4 24.Qf3 Rexd4 25.Kg2 Rd3 26.Qe2 R3d4 27.Rad1 { (+26.87 → +13.27) Mistake. The best move was 27. Qe6+. } ( 27.Qe6+ 27...Rd7 28.Qxc6 28...Re7 29.Rad1 29...Ree4 30.Rxd4 30...Rxd4 31.Qe6+ 31...Kb8 ) 27...Rxd1 { (+13.59 → ♔ Mate in 9) Mistake. The best move was 27... Re4. } ( 27...Re4 28.Qc2 28...Rg5 29.Nxc6 29...Kb7 30.Nd8+ 30...Ka7 31.Rhe1 31...Rxe1 32.Rxe1 ) 28.Rxd1 { (♔ Mate in 7 → +16.80) Missed mate. Checkmate after 28. Qe6+ . } ( 28.Qe6+ 28...Rd7 29.Rxd1 29...Nd5 30.Rxd5 30...cxd5 31.Qxa6+ 31...Kd8 32.Nc6+ 32...Ke8 33.Qc8+ 33...Rd8 34.Qe6+ 34...Kf8 35.Nxd8 35...g5 36.Qf7# ) 28...Rxd1 29.Qxd1 Nd5 { (+27.29 → ♔ Mate in 9) Mistake. The best move was 29... b4. } ( 29...b4 30.Nxc6 30...Kb7 31.Nd8+ 31...Kb8 32.Ne6 32...Kb7 33.Nd8+ 33...Kb8 34.Ne6 ) 30.Nxc6 Nf4+ 31.Kh2 { (♔ Mate in 7 → ♔ Mate in 7) Excellent. Faster mate A better move was 31. Kh1. } ( 31.Kh1 31...Ne6 32.Ne7+ 32...Kb8 33.Qd7 33...Nd4 34.Qxd4 34...Kb7 35.Qd8 35...Ka7 36.Qc8 36...c6 37.Nxc6# ) 31...Ne6 32.Qd5 Nf8 33.Qd8+ Kb7 34.Na5+ Ka7 35.Qxc7+ Ka8 36.Qb7#  1-0

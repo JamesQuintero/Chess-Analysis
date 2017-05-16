@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.23"]
+[Round "?"]
+[White "sebnipples"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "801"]
+[BlackElo "756"]
+[TimeControl "600"]
+[EndTime "20:01:31 PST"]
+[Termination "sebnipples won by resignation"]
+[CurrentPosition "rnb1k1nr/pppp1ppp/8/2b1p3/2B1N3/6P1/PPPP1P1P/RNBQ1RK1 b kq - 0 7"]
+
+1.e4 e5 2.Nf3 Bc5 { C40: King's Pawn Opening: King's Knight, Busch-Gass Gambit } 3.Bc4 Qh4 { (+0.72 → +11.18) Blunder. The best move was 3... Nc6. } ( 3...Nc6 4.c3 4...Qe7 5.O-O 5...Nf6 6.d4 6...Bb6 7.Bg5 7...O-O 8.Re1 ) 4.g3 { (+10.98 → -0.90) Blunder. The best move was 4. Nxh4. } ( 4.Nxh4 4...Nf6 5.d4 5...Bxd4 6.c3 6...Bc5 7.Nf5 7...O-O 8.b4 8...d5 ) 4...Qf6 { (-0.69 → +0.62) Mistake. The best move was 4... Qxe4+. } ( 4...Qxe4+ 5.Be2 5...Nc6 6.Nc3 6...Qf5 7.Nd5 7...Bb6 8.d4 8...e4 9.Nxb6 ) 5.O-O Qc6 { (+0.61 → +6.58) Blunder. The best move was 5... d5. } ( 5...d5 6.d4 6...dxc4 7.dxc5 7...h6 8.Nc3 8...Nc6 9.Nd5 9...Qd8 10.Ne3 ) 6.Ng5 { (+6.02 → +1.41) Blunder. The best move was 6. Nxe5. } ( 6.Nxe5 6...Qb6 7.Nxf7 7...d5 8.Nxh8 8...dxc4 9.Qh5+ 9...g6 10.Qxh7 10...Ne7 ) 6...Qxe4 { (+1.29 → +12.83) Blunder. The best move was 6... Nh6. } ( 6...Nh6 7.Nc3 7...O-O 8.d3 8...d6 9.Nd5 9...Qd7 10.b4 10...Bb6 11.Nxb6 ) 7.Nxe4  1-0

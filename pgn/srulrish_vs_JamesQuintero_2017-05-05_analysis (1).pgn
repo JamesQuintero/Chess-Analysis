@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.05"]
+[Round "?"]
+[White "srulrish"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "D01"]
+[WhiteElo "764"]
+[BlackElo "788"]
+[TimeControl "600"]
+[EndTime "20:58:23 PDT"]
+[Termination "srulrish won by resignation"]
+[CurrentPosition "4N3/kp3r2/p1n4p/3p2p1/3P4/P3P2Q/1PP5/2KRR3 b - - 0 25"]
+
+1.d4 d5 2.Nc3 Nf6 3.Bg5 { D01: Richter-Veresov Attack } 3...h6 4.Bxf6 exf6 5.e3 Bb4 6.Qd2 Nc6 7.a3 Bxc3 8.Qxc3 a6 9.O-O-O Bf5 10.Bd3 Qd7 11.Nf3 g5 12.Nd2 Bxd3 13.Qxd3 O-O-O 14.Rhe1 Rhe8 15.Nb3 Qd6 16.h3 Qh2 17.Qf5+ Kb8 18.Qxf6 Qxg2 19.Qxf7 { (+0.84 → -0.68) Mistake. The best move was 19. Nc5. } ( 19.Nc5 19...Qh2 20.h4 20...g4 21.Rg1 21...h5 22.Qxf7 22...Qxh4 23.Kb1 23...Qg5 ) 19...Qxh3 { (-0.19 → +0.50) Inaccuracy. A better move was 19... Rf8. } ( 19...Rf8 20.Qh5 20...Rxf2 21.Nd2 21...Rd6 22.Qg4 22...Qxg4 23.hxg4 23...Rg2 24.Rg1 ) 20.Nc5 { (+0.50 → 0.00) Inaccuracy. A better move was 20. Rh1. } ( 20.Rh1 20...Qe6 21.Qxe6 21...Rxe6 22.Nc5 22...Rf6 23.Nd3 23...b6 24.Kd2 24...Kb7 ) 20...Rf8 21.Qe6 Ka7 { (+0.63 → +12.30) Blunder. The best move was 21... Rf3. } ( 21...Rf3 22.Qxh3 ) 22.Qxh3 Rxf2 23.Ne6 Re8 24.Nxc7 Rf7 { (+14.27 → +20.06) Inaccuracy. A better move was 24... Rd8. } ( 24...Rd8 25.e4 25...Ne7 26.Qe6 26...Nc8 27.Nxd5 27...Rd6 28.Qg8 28...Rc6 29.Nb4 ) 25.Nxe8  1-0

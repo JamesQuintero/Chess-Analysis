@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.22"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "xhaakon77"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "785"]
+[BlackElo "840"]
+[TimeControl "300"]
+[EndTime "12:21:28 PST"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "r3r2k/pp4Q1/1qp1bB1p/7B/1b1p4/2N5/PPP2PPP/5RK1 b - - 0 19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 { C45: Scotch Game: 3...exd4 4.Nxd4 Nxd4 5.Qxd4 } 5...Nf6 6.Bg5 { (+0.79 → +0.14) Inaccuracy. A better move was 6. e5. } ( 6.e5 6...c5 7.Qe3 7...Nd5 8.Qe4 8...Nc7 9.c4 9...Rb8 10.Nc3 10...b6 ) 6...h6 7.Bh4 d5 8.Bb5+ { (+1.03 → -0.36) Mistake. The best move was 8. Nc3. } ( 8.Nc3 8...Be7 9.O-O-O 9...O-O 10.e5 10...g5 11.exf6 11...Bxf6 12.Qxd5 12...gxh4 ) 8...c6 9.Be2 Qb6 { (-0.44 → +0.54) Inaccuracy. A better move was 9... Be6. } ( 9...Be6 10.e5 10...g5 11.exf6 11...gxh4 12.Nd2 12...Bd6 13.Nb3 13...Qb6 14.O-O-O ) 10.Qc3 { (+0.61 → -8.37) Blunder. The best move was 10. Bxf6. } ( 10.Bxf6 10...gxf6 11.Qxb6 11...axb6 12.exd5 12...Bf5 13.Bf3 13...O-O-O 14.O-O 14...Kc7 ) 10...Nxe4 { (-8.33 → -1.88) Blunder. The best move was 10... Bb4. } ( 10...Bb4 11.Bxf6 11...gxf6 12.Nd2 12...Bxc3 13.bxc3 13...Qb2 14.Rd1 14...Qxc3 15.O-O ) 11.Qf3 { (-2.03 → -7.79) Blunder. The best move was 11. Qe5+. } ( 11.Qe5+ 11...Be6 12.f3 12...Qb4+ 13.Kf1 13...Nf6 14.Bf2 14...Bd6 15.Qc3 15...O-O ) 11...Bb4+ { (-7.99 → -2.36) Blunder. The best move was 11... Qxb2. } ( 11...Qxb2 12.O-O 12...Qxa1 13.Nd2 13...Qe5 14.Nxe4 14...Qxe4 15.Qxe4+ 15...dxe4 16.Rb1 ) 12.Nc3 O-O 13.O-O Nd2 14.Qf4 Nxf1 15.Rxf1 Re8 16.Bh5 d4 { (-3.91 → ♔ Mate in 7) Blunder. From winning to losing. The best move was 16... Be6. } ( 16...Be6 17.Re1 17...Bxc3 18.bxc3 18...Qb2 19.Qd2 19...Qxa2 20.Bg3 20...Bf5 21.Rc1 ) 17.Qxf7+ Kh8 18.Bf6 { (♔ Mate in 6 → ♔ Mate in 6) Excellent. Faster mate A better move was 18. Qxe8+. } ( 18.Qxe8+ 18...Bf8 19.Qxf8+ 19...Kh7 20.Bf6 20...Qc7 21.Bf7 21...Qxf7 22.Qxf7 22...dxc3 23.Qxg7# ) 18...Be6 19.Qxg7#  1-0

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.17"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "blot"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "781"]
+[BlackElo "1930"]
+[TimeControl "300"]
+[EndTime "22:00:37 PST"]
+[Termination "blot won by resignation"]
+[CurrentPosition "2k4b/ppp1p3/5pp1/7p/5n2/1P6/P4K2/3r4 w - - 0 27"]
+
+1.e4 Nf6 2.Nc3 d6 3.d4 g6 { B07: Pirc Defense: Main Line } 4.e5 { (+0.73 → -0.42) Inaccuracy. A better move was 4. Nf3. } ( 4.Nf3 4...Bg7 5.Bc4 5...c6 6.Bb3 6...O-O 7.O-O 7...Nbd7 8.Bf4 8...b5 ) 4...dxe5 5.dxe5 Qxd1+ 6.Kxd1 Ng4 7.Ne4 { (-0.47 → -2.06) Mistake. The best move was 7. Ke1. } ( 7.Ke1 7...Nc6 8.Nd5 8...Nd4 9.Bd3 9...Kd8 10.Be3 10...Nc6 11.Be2 11...Nxe3 ) 7...Nxe5 8.Nf3 Bg4 9.Bb5+ Nbc6 10.Re1 { (-1.66 → -3.33) Inaccuracy. A better move was 10. Ke2. } ( 10.Ke2 10...O-O-O 11.c3 11...Be6 12.Neg5 12...Bd5 13.Bf4 13...Bg7 14.Bxe5 14...Nxe5 ) 10...Nxf3 11.Be2 { (-2.88 → -7.44) Mistake. The best move was 11. Nf6+. } ( 11.Nf6+ 11...Kd8 12.Nxg4 12...Nxe1 13.Kxe1 13...Bg7 14.Bf4 14...Bxb2 15.Rd1+ 15...Kc8 ) 11...O-O-O+ 12.Nd2 Nxh2 { (-7.67 → -5.50) Inaccuracy. A better move was 12... Nxe1. } ( 12...Nxe1 13.Bxg4+ 13...f5 14.Kxe1 14...fxg4 15.c3 15...Bh6 16.Nc4 16...Bxc1 17.Rxc1 ) 13.Bxg4+ Nxg4 14.b3 Nxf2+ 15.Ke2 Ng4 16.Ne4 Nd4+ 17.Kf1 Nxc2 18.Be3 Ngxe3+ 19.Rxe3 Nxe3+ 20.Ke2 Nxg2 21.Rc1 h5 22.Ng5 f6 23.Nf7 Bg7 24.Kf2 { (-14.85 → -20.36) Inaccuracy. A better move was 24. Rf1. } ( 24.Rf1 24...g5 25.Nxh8 25...Rxh8 26.Kf3 26...Nf4 27.Re1 27...e5 28.Ke4 28...h4 ) 24...Nf4 25.Rd1 { (-15.71 → -59.19) Inaccuracy. A better move was 25. Kf3. } ( 25.Kf3 25...Rd3+ 26.Kxf4 26...e5+ 27.Ke4 27...Rd4+ 28.Kf3 28...Rf8 29.Rg1 29...g5 ) 25...Rxd1 26.Nxh8 Bxh8  0-1

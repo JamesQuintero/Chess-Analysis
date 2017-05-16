@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.18"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "2random4chance"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "796"]
+[BlackElo "1022"]
+[TimeControl "600"]
+[EndTime "18:12:41 PST"]
+[Termination "2random4chance won by resignation"]
+[CurrentPosition "6k1/p2p2p1/1p2p3/7p/7P/5r2/2r4K/8 w - - 2 36"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 { B21: Sicilian Defense: Smith-Morra Gambit, 2...cxd4 3.Qxd4 Nc6 } 4.Qa4 e6 5.Nf3 Nf6 6.Bg5 Qa5+ { (-0.42 → +0.62) Inaccuracy. A better move was 6... h6. } ( 6...h6 7.Bxf6 7...Qxf6 8.c3 8...g5 9.h3 9...h5 10.Nbd2 10...a6 11.O-O-O ) 7.Nc3 { (+0.61 → -1.43) Mistake. The best move was 7. Qxa5. } ( 7.Qxa5 7...Nxa5 8.Nc3 8...Bb4 9.Bd2 9...Nc6 10.Bd3 10...O-O 11.O-O 11...d6 ) 7...Nxe4 { (-1.41 → +2.70) Blunder. The best move was 7... Qxa4. } ( 7...Qxa4 8.Nxa4 8...Nxe4 9.Bf4 9...d5 10.Bd3 10...Bd7 11.Nc3 11...Bb4 12.Bxe4 ) 8.Qxe4 Bb4 9.Qe3 { (+2.60 → +1.67) Inaccuracy. A better move was 9. Qd3. } ( 9.Qd3 9...d5 10.a3 10...f6 11.Bd2 11...a6 12.Be2 12...O-O 13.O-O 13...Bd6 ) 9...O-O 10.a3 Bc5 11.Qd2 Qb6 { (+2.31 → +5.33) Mistake. The best move was 11... d5. } ( 11...d5 12.Be2 12...f6 13.Bh4 13...Qd8 14.O-O 14...a6 15.Bg3 15...Ba7 16.Rad1 ) 12.Bc4 { (+5.36 → +2.22) Blunder. The best move was 12. Na4. } ( 12.Na4 12...Bxf2+ 13.Qxf2 13...Qxf2+ 14.Kxf2 14...f6 15.Be3 15...d5 16.Nc3 16...Ne5 ) 12...Qxb2 13.Ra2 { (+2.62 → +1.30) Inaccuracy. A better move was 13. O-O. } ( 13.O-O 13...Qb6 14.Rfb1 14...Qc7 15.Ne4 15...Be7 16.Bxe7 16...Nxe7 17.Nd6 17...b6 ) 13...Qb6 14.Na4 { (+1.64 → +0.82) Inaccuracy. A better move was 14. Bb3. } ( 14.Bb3 14...f6 15.Bf4 15...Be7 16.O-O 16...d5 17.Rd1 17...Qa5 18.Rb1 18...Bc5 ) 14...Qb1+ 15.Qd1 Qxa2 { (+0.64 → +6.79) Blunder. The best move was 15... Qxd1+. } ( 15...Qxd1+ 16.Kxd1 16...Bxf2 17.Rf1 17...Bd4 18.Nxd4 18...Nxd4 19.Bd3 19...d5 20.Nc3 ) 16.Nxc5 { (+6.58 → -4.35) Blunder. From winning to losing. The best move was 16. Bxa2. } ( 16.Bxa2 16...Bxa3 17.Qd3 17...Bb4+ 18.c3 18...Be7 19.Bxe7 19...Nxe7 20.c4 20...b6 ) 16...Qxc4 17.Nd3 Nd4 18.Nde5 Qxc2 19.Qxc2 Nxc2+ 20.Kd2 Nxa3 21.Rd1 { (-4.78 → -7.34) Inaccuracy. A better move was 21. Be7. } ( 21.Be7 21...Nb5 22.Bxf8 22...Kxf8 23.Rb1 23...Nd6 24.Rc1 24...b6 25.Nd4 25...f6 ) 21...f6 22.Ra1 fxe5 23.Rxa3 e4 24.Ne5 Rxf2+ 25.Ke3 Rxg2 26.Kxe4 Rxg5 27.Rf3 b6 28.h4 { (-13.27 → -20.47) Inaccuracy. A better move was 28. Re3. } ( 28.Re3 28...b5 29.Kd3 29...a5 30.Re1 30...a4 31.Kc2 31...d6 32.Nd3 32...Rg2+ ) 28...Bb7+ 29.Kf4 Rf5+ 30.Kg4 Bxf3+ 31.Nxf3 h5+ { (♚ Mate in 10 → ♚ Mate in 10) Excellent. Faster mate A better move was 31... Rxf3. } ( 31...Rxf3 32.Kxf3 32...a5 33.Kf4 33...a4 34.Ke5 34...a3 35.Kd6 35...a2 36.Kxd7 36...a1=Q 37.Kc6 37...Qa5 38.Kb7 38...Ra7+ 39.Kb8 39...Qa6 40.h5 40...Qb7# ) 32.Kg3 Rc8 { (♚ Mate in 10 → ♚ Mate in 17) Excellent. Faster mate A better move was 32... Rxf3+. } ( 32...Rxf3+ 33.Kxf3 33...a5 34.Ke4 34...a4 35.Ke5 35...a3 36.Kd6 36...a2 37.Kxd7 37...a1=Q 38.Kc7 38...Ra7+ 39.Kd6 39...Qd4+ 40.Kxe6 40...Ra5 41.Ke7 41...Re5# ) 33.Ng5 Rc3+ 34.Nf3 Rfxf3+ 35.Kh2 Rc2+  0-1

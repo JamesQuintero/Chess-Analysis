@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.18"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "2random4chance"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "796"]
+[BlackElo "1022"]
+[TimeControl "600"]
+[EndTime "18:38:01 PST"]
+[Termination "2random4chance won by resignation"]
+[CurrentPosition "r1b2rk1/1p1p1ppp/p3p3/2p5/5q2/8/PP6/R2K2R1 w - - 0 28"]
+
+1.e4 c5 2.c4 { B20: Sicilian Defense: Staunton-Cochrane Variation } 2...e6 3.Bd3 Nc6 4.Be2 Nf6 5.d3 Nd4 { (-0.78 → +0.19) Inaccuracy. A better move was 5... d5. } ( 5...d5 6.cxd5 6...exd5 7.exd5 7...Nxd5 8.Nc3 8...Be7 9.Nf3 9...O-O 10.O-O ) 6.Bg5 Nxe2 7.Nxe2 Be7 8.f4 Ng4 { (-0.09 → +0.71) Inaccuracy. A better move was 8... h6. } ( 8...h6 9.Bh4 9...d5 10.cxd5 10...exd5 11.Bxf6 11...Bxf6 12.Nbc3 12...dxe4 13.dxe4 ) 9.Nbc3 { (+0.59 → -1.12) Mistake. The best move was 9. Bxe7. } ( 9.Bxe7 9...Qxe7 10.Nec3 10...f5 11.Qe2 11...Nh6 12.Qh5+ 12...Qf7 13.Qh4 13...d6 ) 9...Bxg5 10.fxg5 Qxg5 11.Nb5 Ne3 12.Qa4 { (-0.93 → -4.18) Blunder. The best move was 12. Qc1. } ( 12.Qc1 12...O-O 13.g3 13...d5 14.h4 14...Qh6 15.cxd5 15...e5 16.Nd6 16...Bg4 ) 12...O-O 13.Nd6 Qxg2 14.Kd2 Qg5 15.Rhf1 { (-4.58 → -10.83) Mistake. The best move was 15. Rag1. } ( 15.Rag1 15...Nxc4+ 16.Kc3 16...Qe5+ 17.Kxc4 17...Qxd6 18.Qd1 18...b5+ 19.Kb3 19...Bb7 ) 15...Ng2+ { (-10.66 → -5.24) Mistake. The best move was 15... Nxf1+. } ( 15...Nxf1+ 16.Ke1 16...Ne3 17.Rc1 17...Ng2+ 18.Kd1 18...Ne3+ 19.Ke1 19...f5 20.exf5 ) 16.Kc3 Qe5+ 17.Kd2 Qxd6 18.Qb5 a6 19.Qb3 Qxh2 20.Qd1 Qh6+ 21.Kc2 Ne3+ 22.Kd2 Nxd1+ 23.Kxd1 Qe3 24.Rg1 Qxd3+ 25.Ke1 Qxc4 26.Nf4 Qxe4+ 27.Kd1 Qxf4  0-1
