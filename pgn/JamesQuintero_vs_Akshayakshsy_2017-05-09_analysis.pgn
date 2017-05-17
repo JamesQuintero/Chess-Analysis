@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.09"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "Akshayakshsy"]
+[Result "1-0"]
+[ECO "C64"]
+[WhiteElo "902"]
+[BlackElo "910"]
+[TimeControl "600"]
+[EndTime "0:34:12 PDT"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "3R2k1/2B2ppp/8/pp6/4P3/1P5P/2N5/6K1 b - - 1 25"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.Bxc6 { C64: Ruy Lopez Opening: Classical Defense, 4.Bxc6 } 4...dxc6 5.d4 Bxd4 6.Nxd4 Qxd4 7.Nc3 { (-0.06 → -0.81) Inaccuracy. A better move was 7. Qxd4. } ( 7.Qxd4 7...exd4 8.Bf4 8...c5 9.Bxc7 9...Ne7 10.Nd2 10...Nc6 11.O-O-O 11...b6 ) 7...Nf6 8.f3 Qxd1+ 9.Nxd1 O-O 10.Ne3 Nh5 11.O-O Nf6 12.b3 Bd7 { (-0.35 → +0.47) Inaccuracy. A better move was 12... Re8. } ( 12...Re8 13.Bb2 13...Nd7 14.h4 14...f6 15.h5 15...Nc5 16.a4 16...Be6 17.Ba3 ) 13.Bb2 Rfe8 14.Rad1 Rad8 15.h3 Bc8 16.Rxd8 Rxd8 17.Bxe5 Rd2 { (+0.44 → +1.21) Inaccuracy. A better move was 17... Ne8. } ( 17...Ne8 18.Bg3 18...f6 19.Kf2 19...Kf7 20.Ke2 20...Be6 21.c4 21...b6 22.c5 ) 18.a4 { (+1.25 → +0.55) Inaccuracy. A better move was 18. Bxc7. } ( 18.Bxc7 18...Ne8 19.Bb8 19...a5 20.Be5 20...a4 21.Bc3 21...Re2 22.Re1 22...Rxe1+ ) 18...Rxc2 { (+0.58 → +5.50) Blunder. The best move was 18... Ne8. } ( 18...Ne8 19.Bc3 19...Rd8 20.g4 20...f6 21.h4 21...Nd6 22.Kf2 22...b6 23.g5 ) 19.Nxc2 Bxh3 { (+5.69 → +9.98) Inaccuracy. A better move was 19... Nd7. } ( 19...Nd7 20.Rd1 20...h6 21.Bxc7 21...Kh7 22.Bd6 22...a6 23.Kf2 23...Nb6 24.Be7 ) 20.gxh3 Nxe4 21.fxe4 b5 22.axb5 cxb5 23.Bxc7 a6 24.Rd1 a5 { (+15.06 → ♔ Mate in 1) Mistake. The best move was 24... g5. } ( 24...g5 25.Ra1 25...h5 26.Rxa6 26...g4 27.hxg4 27...hxg4 28.Be5 28...Kh7 29.Nd4 ) 25.Rd8#  1-0

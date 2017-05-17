@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.12"]
+[Round "?"]
+[White "jeffyboyz"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteElo "899"]
+[BlackElo "910"]
+[TimeControl "600"]
+[EndTime "21:01:35 PDT"]
+[Termination "jeffyboyz won by checkmate"]
+[CurrentPosition "r1b4r/ppp1qQp1/3k3p/2NPp3/8/2NP4/PP3PPP/n4K1R w - - 2 20"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 { C57: Italian Game: Knight Attack } 4...Qe7 { (+0.12 → +2.12) Mistake. The best move was 4... d5. } ( 4...d5 5.exd5 5...Na5 6.Bb5+ 6...c6 7.dxc6 7...bxc6 8.Qf3 8...Qc7 9.Bd3 ) 5.Bxf7+ Kd8 6.Bc4 Ke8 7.d3 d5 { (+1.84 → +3.03) Inaccuracy. A better move was 7... h6. } ( 7...h6 8.Nf3 8...Kd8 9.a4 9...d6 10.O-O 10...Bg4 11.Be3 11...Kc8 12.c3 ) 8.Bxd5 Nxd5 9.exd5 Nb4 10.Nc3 h6 11.Qh5+ Kd7 12.Nge4 { (+5.69 → +0.06) Blunder. The best move was 12. O-O. } ( 12.O-O 12...Rg8 13.Ne6 13...Nxd5 14.Nxf8+ 14...Rxf8 15.Nxd5 15...Qe6 16.Ne3 16...b6 ) 12...Nxc2+ 13.Kf1 { (+0.17 → -1.05) Inaccuracy. A better move was 13. Kd1. } ( 13.Kd1 13...Nxa1 14.Bg5 14...g6 15.Qh4 15...Qf7 16.Kc1 16...Ke8 17.Kb1 17...Nb3 ) 13...Nxa1 14.Bg5 Qb4 { (-1.24 → +11.32) Blunder. The best move was 14... hxg5. } ( 14...hxg5 15.Qxh8 15...Nc2 16.Qh5 16...Kd8 17.Nxg5 17...Bd7 18.Nf7+ 18...Kc8 19.Nxe5 ) 15.Qg4+ Ke8 16.Qh5+ Kd7 17.Qf7+ Be7 18.Bxe7 { (+15.04 → -3.72) Blunder. From winning to losing. The best move was 18. d6. } ( 18.d6 18...Kc6 19.Qd5+ 19...Kb6 20.Be3+ 20...Ka6 21.Nc5+ 21...Qxc5 22.Qxc5 22...b6 ) 18...Qxe7 19.Nc5+ Kd6 { (-4.88 → ♔ Mate in 1) Blunder. From winning to losing. The best move was 19... Kd8. } ( 19...Kd8 20.Qxe7+ 20...Kxe7 21.Nb5 21...Nc2 22.Nxc7 22...Rb8 23.Nb5 23...Bf5 24.d6+ ) 20.N3e4#  1-0

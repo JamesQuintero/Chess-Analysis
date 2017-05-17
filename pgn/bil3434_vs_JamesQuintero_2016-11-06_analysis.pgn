@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.06"]
+[Round "?"]
+[White "bil3434"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "955"]
+[BlackElo "845"]
+[TimeControl "600"]
+[EndTime "20:54:21 PST"]
+[Termination "bil3434 won by resignation"]
+[CurrentPosition "3r4/1N1b3p/p4pk1/8/5B2/2N2P1P/PPP3P1/2KRR3 b - - 0 26"]
+
+1.d4 d5 2.Nc3 { D00: Queen's Pawn Opening: Chigorin Variation } 2...c6 3.Bf4 Bf5 4.h3 Nd7 5.f3 e5 6.dxe5 d4 { (-0.21 → +1.31) Mistake. The best move was 6... g5. } ( 6...g5 7.Bc1 7...Qc7 8.e4 8...Qxe5 9.Qe2 9...dxe4 10.fxe4 10...Bg6 11.Nf3 ) 7.Nb1 { (+1.34 → -1.25) Blunder. The best move was 7. Qxd4. } ( 7.Qxd4 7...Bxc2 8.Qd2 8...Bg6 9.O-O-O 9...Nc5 10.e4 10...Qxd2+ 11.Rxd2 11...Ne6 ) 7...c5 { (-1.52 → -0.08) Mistake. The best move was 7... Bc5. } ( 7...Bc5 8.c3 8...f6 9.cxd4 9...fxe5 10.dxc5 10...exf4 11.Qd4 11...Qh4+ 12.Qf2 ) 8.e3 Nb6 { (+0.06 → +0.94) Inaccuracy. A better move was 8... Ne7. } ( 8...Ne7 9.e4 9...Be6 10.Bg3 10...g5 11.c3 11...Bg7 12.cxd4 12...cxd4 13.Ne2 ) 9.exd4 cxd4 10.Bb5+ Nd7 { (+0.99 → +1.98) Inaccuracy. A better move was 10... Bd7. } ( 10...Bd7 11.Bxd7+ 11...Qxd7 12.Ne2 12...Rd8 13.Nd2 13...Ne7 14.Ne4 14...Nc6 15.Bg5 ) 11.Qxd4 a6 12.Bxd7+ Bxd7 13.Nc3 Bb4 { (+2.21 → +6.08) Mistake. The best move was 13... Be6. } ( 13...Be6 14.Nge2 14...Qxd4 15.Nxd4 15...Bb4 16.Bd2 16...Bxc3 17.Bxc3 17...Ne7 18.Bb4 ) 14.Qxb4 f6 15.O-O-O Ne7 16.exf6 gxf6 17.Qxb7 Qb8 { (+10.82 → +31.58) Inaccuracy. A better move was 17... Rc8. } ( 17...Rc8 18.Ne4 18...Rc6 19.Nd6+ 19...Rxd6 20.Bxd6 20...Rg8 21.Re1 21...Rg7 22.Qxa6 ) 18.Qxb8+ { (+35.57 → +11.60) Mistake. The best move was 18. Qxd7+. } ( 18.Qxd7+ 18...Kf8 19.Bxb8 19...Rxb8 20.Qe6 20...h5 21.Qxf6+ 21...Kg8 22.Qxe7 22...Rh7 ) 18...Rxb8 19.Nge2 { (+12.16 → +8.54) Inaccuracy. A better move was 19. Bxb8. } ( 19.Bxb8 19...Be6 20.Nge2 20...Kf7 21.Bd6 21...Ng6 22.Nd4 22...Bd7 23.Ne4 23...h6 ) 19...Rb7 20.Rhe1 O-O 21.Ng3 Ng6 22.Bh6 Rd8 23.Nf5 Nf4 24.Bxf4 Kf7 { (+15.31 → ♔ Mate in 9) Mistake. The best move was 24... Rf8. } ( 24...Rf8 25.Re7 25...Bxf5 26.Rxb7 26...Bc8 27.Re7 27...Kh8 28.Bh6 28...Rg8 29.Bg7+ ) 25.Nd6+ { (♔ Mate in 9 → +17.12) Missed mate. Checkmate after 25. Re7+ . } ( 25.Re7+ 25...Kg8 26.Ne4 26...Rf8 27.Nh6+ 27...Kh8 28.Nxf6 28...Be8 29.Rxb7 29...Bf7 30.Rxf7 30...Rxf7 31.Nh5 31...Rg7 32.Rd8+ 32...Rg8 33.Rxg8# ) 25...Kg6 26.Nxb7  1-0

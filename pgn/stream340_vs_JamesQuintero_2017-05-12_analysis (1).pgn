@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.12"]
+[Round "?"]
+[White "stream340"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "D04"]
+[WhiteElo "1010"]
+[BlackElo "937"]
+[TimeControl "600"]
+[EndTime "19:48:25 PDT"]
+[Termination "stream340 won by checkmate"]
+[CurrentPosition "3b1r1k/1R4Bp/p1rPQ3/q1p2P2/8/2P5/6PP/5RK1 b - - 0 31"]
+
+1.d4 d5 2.e3 Nf6 3.Nf3 { D04: Colle System } 3...a6 4.Bd3 Nc6 5.Nc3 Bg4 6.O-O e5 7.Qe1 { (-0.07 → -2.14) Mistake. The best move was 7. Be2. } ( 7.Be2 7...e4 8.Ne5 8...Bxe2 9.Nxe2 9...Qd6 10.Nxc6 10...Qxc6 11.b3 11...Be7 ) 7...e4 8.Ne5 exd3 9.Nxg4 Nb4 { (-2.89 → +0.40) Blunder. The best move was 9... Nxg4. } ( 9...Nxg4 10.cxd3 10...Qd7 11.Bd2 11...Nf6 12.a3 12...Be7 13.f4 13...h5 14.Rc1 ) 10.Nxf6+ Qxf6 11.Nxd5 { (+0.20 → -1.85) Mistake. The best move was 11. Qd2. } ( 11.Qd2 11...Nxc2 12.Rb1 12...Qf5 13.Rd1 13...Nb4 14.a3 14...Nc6 15.Qxd3 15...Qxd3 ) 11...Qd6 { (-1.71 → +1.89) Blunder. The best move was 11... Nxd5. } ( 11...Nxd5 12.cxd3 12...O-O-O 13.Bd2 13...Ne7 14.Qd1 14...Qe6 15.b4 15...Qg6 16.Rb1 ) 12.Nxb4 Qxb4 13.c3 Qd6 14.Qd2 Qg6 15.f3 Bd6 16.e4 Be7 17.Qxd3 Bg5 18.f4 Be7 19.f5 Qb6 20.Be3 Qxb2 { (+2.82 → +4.72) Inaccuracy. A better move was 20... f6. } ( 20...f6 21.e5 21...O-O 22.b4 22...Qc6 23.e6 23...b5 24.d5 24...Rfd8 25.Rad1 ) 21.Rab1 Qxa2 { (+3.69 → +7.12) Inaccuracy. A better move was 21... Qa3. } ( 21...Qa3 22.Rxb7 22...O-O 23.e5 23...Rfc8 24.f6 24...Bf8 25.d5 25...Rab8 26.Rxb8 ) 22.Rxb7 { (+7.50 → +3.37) Blunder. The best move was 22. Ra1. } ( 22.Ra1 22...Qxa1 23.Rxa1 23...O-O 24.e5 24...Rfe8 25.Qc4 25...Bd8 26.Rb1 26...Rb8 ) 22...Qa5 { (+3.36 → +5.16) Inaccuracy. A better move was 22... O-O. } ( 22...O-O 23.Rxc7 23...Rfe8 24.e5 24...f6 25.Qe4 25...Rab8 26.Qc6 26...Rbd8 27.c4 ) 23.Bf4 Rc8 24.Qc4 { (+5.71 → +3.30) Mistake. The best move was 24. Qg3. } ( 24.Qg3 24...O-O 25.Bxc7 25...Rxc7 26.Qxc7 26...Qxc7 27.Rxc7 27...Bd8 28.Rc6 28...a5 ) 24...c5 { (+3.21 → +7.89) Mistake. The best move was 24... O-O. } ( 24...O-O 25.h3 25...Rfe8 26.e5 26...Red8 27.f6 27...gxf6 28.exf6 28...Bf8 29.Qd3 ) 25.d5 O-O 26.d6 Bf6 27.e5 Bd8 28.e6 fxe6 { (+10.38 → ♔ Mate in 14) Mistake. The best move was 28... Bf6. } ( 28...Bf6 29.e7 29...Qxc3 30.Qxc3 30...Bxc3 31.d7 31...c4 32.Rd1 32...Bf6 33.Re1 ) 29.Qxe6+ Kh8 30.Be5 Rc6 31.Bxg7#  1-0

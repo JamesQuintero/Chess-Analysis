@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.10"]
+[Round "?"]
+[White "horcion"]
+[Black "JamesQuintero"]
+[Result "0-1"]
+[ECO "C70"]
+[WhiteElo "928"]
+[BlackElo "919"]
+[TimeControl "600"]
+[EndTime "12:08:43 PDT"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "r2qk2r/2p2pp1/p2p3p/1p1Pp3/4n2b/1P4P1/1PP2P1P/RN1QR1K1 b kq - 0 15"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 { C70: Ruy Lopez Opening: Morphy Defense, Caro Variation, 5.Bb3 } 5...Nf6 6.d4 d6 7.Bg5 { (+0.40 → -0.39) Inaccuracy. A better move was 7. dxe5. } ( 7.dxe5 7...dxe5 8.Qxd8+ 8...Nxd8 9.a4 9...Bb7 10.axb5 10...axb5 11.Rxa8 11...Bxa8 ) 7...Be7 8.O-O { (+0.09 → -0.61) Inaccuracy. A better move was 8. dxe5. } ( 8.dxe5 8...Nxe5 9.Nxe5 9...dxe5 10.Qxd8+ 10...Bxd8 11.a4 11...Rb8 12.Nc3 12...O-O ) 8...Bg4 9.d5 { (+0.10 → -1.02) Inaccuracy. A better move was 9. c3. } ( 9.c3 9...O-O 10.Be3 10...Bd7 11.Bc2 11...exd4 12.cxd4 12...Nb4 13.Nc3 13...Nxc2 ) 9...Bxf3 { (-1.10 → -0.06) Inaccuracy. A better move was 9... Nxe4. } ( 9...Nxe4 10.dxc6 10...Nxg5 11.Nxg5 11...Bxd1 12.Bxf7+ 12...Kf8 13.Ne6+ 13...Kxf7 14.Nxd8+ ) 10.Qxf3 Nd4 11.Qd1 { (+0.10 → -0.79) Inaccuracy. A better move was 11. Qd3. } ( 11.Qd3 11...Nd7 12.Bxe7 12...Qxe7 13.Qd1 13...O-O 14.c3 14...Nxb3 15.axb3 15...a5 ) 11...Nxb3 12.axb3 h6 { (-0.48 → +0.58) Inaccuracy. A better move was 12... Nxe4. } ( 12...Nxe4 13.Bxe7 13...Kxe7 14.Qd3 14...Nf6 15.Nc3 15...Re8 16.Ne4 16...g6 17.f3 ) 13.Bh4 { (+0.51 → -0.39) Inaccuracy. A better move was 13. Bxf6. } ( 13.Bxf6 13...Bxf6 14.Nd2 14...O-O 15.b4 15...g6 16.Re1 16...Qd7 17.Nb3 17...Bg5 ) 13...Nxe4 14.Re1 Bxh4 15.g3 { (-0.99 → -2.64) Inaccuracy. A better move was 15. Rxe4. } ( 15.Rxe4 15...O-O 16.b4 16...f5 17.Re2 17...e4 18.Nd2 18...Qf6 19.c3 19...Qf7 )  0-1

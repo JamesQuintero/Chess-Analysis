@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.13"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "sirmarkthomas"]
+[Result "0-1"]
+[ECO "C40"]
+[WhiteElo "910"]
+[BlackElo "951"]
+[TimeControl "600"]
+[EndTime "15:51:35 PDT"]
+[Termination "sirmarkthomas won by resignation"]
+[CurrentPosition "5rk1/3b2pp/2R5/p1P5/K7/1Pr5/8/8 w - - 1 34"]
+
+1.e4 e5 2.Nf3 Bc5 3.Nxe5 { C40: King's Pawn Opening: King's Knight, Busch-Gass Gambit, 3.Nxe5 } 3...Nh6 { (+1.51 → +2.52) Inaccuracy. A better move was 3... d6. } ( 3...d6 4.Nf3 4...f5 5.d4 5...Bb6 6.Nc3 6...Nf6 7.Qe2 7...fxe4 8.Nxe4 ) 4.Qh5 { (+2.24 → +0.63) Mistake. The best move was 4. d4. } ( 4.d4 4...d6 5.Nf3 5...Bb6 6.Bg5 6...Qd7 7.Nc3 7...Nc6 8.Bc4 8...O-O ) 4...O-O 5.Bc4 d5 { (+0.60 → +1.44) Inaccuracy. A better move was 5... c6. } ( 5...c6 6.c3 6...d6 7.d4 7...dxe5 8.Bxh6 8...Bb6 9.Bxg7 9...Kxg7 10.Qxe5+ ) 6.Nxf7 { (+1.47 → -3.70) Blunder. The best move was 6. Bxd5. } ( 6.Bxd5 6...Bd4 7.Nf3 7...Bf6 8.Bb3 8...Bg4 9.Qd5 9...Bxf3 10.gxf3 10...Qxd5 ) 6...Nxf7 { (-4.45 → -1.10) Blunder. The best move was 6... Bxf2+. } ( 6...Bxf2+ 7.Kf1 7...Nxf7 8.Bxd5 8...Bb6 9.Ke1 9...c6 10.Bb3 10...Qe7 11.d3 ) 7.Qxd5 Bd7 { (-1.11 → +3.11) Blunder. The best move was 7... Nd7. } ( 7...Nd7 8.O-O 8...Bd6 9.d4 9...Nb6 10.Qb5 10...c6 11.Qb3 11...Nxc4 12.Qxc4 ) 8.Qxc5 b6 9.Qd5 c6 10.Qh5 b5 11.Bxf7+ Rxf7 12.b3 { (+3.21 → +0.73) Blunder. The best move was 12. O-O. } ( 12.O-O 12...Qf6 13.d3 13...a5 14.Nc3 14...Na6 15.f4 15...b4 16.Nd1 16...a4 ) 12...Qf6 13.Qe2 { (+0.86 → -5.82) Blunder. The best move was 13. O-O. } ( 13.O-O 13...Qxa1 14.Nc3 14...b4 15.Ba3 15...Qxf1+ 16.Kxf1 16...bxa3 17.Qa5 17...Bc8 ) 13...Qxa1 14.Nc3 Qxc1+ 15.Qd1 Qxd1+ 16.Kxd1 Rxf2 17.g3 Bg4+ 18.Kc1 Bf3 19.Re1 Rxh2 20.d4 Nd7 21.e5 Rf8 22.Kb2 b4 23.Na4 Bg4 24.a3 bxa3+ 25.Kxa3 a5 26.c3 Rh3 27.e6 Bxe6 28.Nc5 Nxc5 29.dxc5 Bd7 30.Ka4 Rxg3 31.Re7 Bc8 { (-51.39 → -13.02) Mistake. The best move was 31... Bg4. } ( 31...Bg4 32.Rb7 32...Rxc3 33.Kxa5 33...Rxc5+ 34.Kb4 34...Rb5+ 35.Rxb5 35...cxb5 36.Kc5 ) 32.Rc7 { (-14.31 → -50.78) Inaccuracy. A better move was 32. Kxa5. } ( 32.Kxa5 32...Rxc3 33.Kb6 33...Bg4 34.b4 34...Bf3 35.Ra7 35...Rb8+ 36.Kc7 36...Rxb4 ) 32...Rxc3 33.Rxc6 Bd7  0-1

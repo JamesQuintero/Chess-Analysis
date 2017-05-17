@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.05"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "sanchezvilla_7"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "831"]
+[BlackElo "817"]
+[TimeControl "180"]
+[EndTime "21:53:10 PDT"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "r2qkbnr/p4Q2/p2p2Pp/2pPp3/7P/2N5/PPP2PP1/R1B1K2R b KQkq - 1 12"]
+
+1.e4 e5 2.d4 d6 { B07: Pirc Defense: Maroczy Defense } 3.d5 f6 { (+0.17 → +0.94) Inaccuracy. A better move was 3... Nf6. } ( 3...Nf6 4.Bd3 4...Nbd7 5.Nf3 5...Be7 6.c4 6...Nc5 7.Nc3 7...Nxd3+ 8.Qxd3 ) 4.Nc3 h6 5.Nf3 Bg4 6.h3 Bxf3 7.Qxf3 g6 8.h4 f5 { (+1.56 → +2.68) Inaccuracy. A better move was 8... h5. } ( 8...h5 9.g4 9...Bh6 10.Bxh6 10...hxg4 11.Qxg4 11...Rxh6 12.Bb5+ 12...Kf8 13.O-O-O ) 9.exf5 c5 10.fxg6 Na6 { (+4.10 → ♔ Mate in 1) Blunder. The best move was 10... Qe7. } ( 10...Qe7 11.g4 11...Nd7 12.Nb5 12...Ndf6 13.g5 13...hxg5 14.hxg5 14...e4 15.gxf6 ) 11.Bxa6 { (♔ Mate in 1 → +8.26) Mistake. The best move was 11. Qf7#. } ( 11.Qf7# ) 11...bxa6 { (+7.66 → ♔ Mate in 1) Mistake. The best move was 11... Qe7. } ( 11...Qe7 12.Bb5+ 12...Kd8 13.Ne4 13...a6 14.Be2 14...Bg7 15.Be3 15...b6 16.O-O-O ) 12.Qf7#  1-0

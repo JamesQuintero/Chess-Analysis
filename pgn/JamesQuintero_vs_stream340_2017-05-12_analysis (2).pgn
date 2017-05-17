@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.12"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "stream340"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "944"]
+[BlackElo "1003"]
+[TimeControl "600"]
+[EndTime "19:31:57 PDT"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "2kr2nr/1Qpq3p/Bp1b2p1/4p3/8/2N5/PPP2PPP/R1B1K2R b KQ - 0 16"]
+
+1.e4 e6 2.e5 { C00: French Defense: Steinitz Attack } 2...Nc6 3.d4 f6 4.Nf3 fxe5 5.Nxe5 Nxe5 6.dxe5 d5 7.exd6 Bxd6 8.Nc3 Bd7 9.Qh5+ g6 10.Qf3 Bc6 11.Qe3 { (+0.97 → +0.27) Inaccuracy. A better move was 11. Bb5. } ( 11.Bb5 11...Qd7 12.Bxc6 12...Qxc6 13.Qxc6+ 13...bxc6 14.Ne4 14...Ne7 15.O-O 15...O-O ) 11...Qd7 12.Qd4 e5 13.Qe3 O-O-O { (-0.35 → +1.43) Mistake. The best move was 13... Ne7. } ( 13...Ne7 14.Ne4 14...Rf8 15.Bd2 15...Nf5 16.Qd3 16...Qe6 17.f3 17...O-O-O 18.Qc3 ) 14.Qxa7 b6 { (+1.56 → ♔ Mate in 2) Blunder. The best move was 14... Qf5. } ( 14...Qf5 15.Be2 15...Kd7 16.O-O 16...Nf6 17.Bb5 17...Qg4 18.Bxc6+ 18...bxc6 19.Qe3 ) 15.Ba6+ Bb7 16.Qxb7#  1-0

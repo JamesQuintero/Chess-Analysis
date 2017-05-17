@@ -1,0 +1,15 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.15"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "maki_latura"]
+[Result "1-0"]
+[WhiteElo "957"]
+[BlackElo "1056"]
+[TimeControl "600"]
+[ECO "C00"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "8/3R1p2/3P2k1/p2N4/8/3K2P1/PP3P2/8 b - - 0 39"]
+
+1.e4 e6 2.e5 { C00: French Defense: Steinitz Attack } 2...c6 3.d4 b6 { (+0.25 → +0.89) Inaccuracy. A better move was 3... d6. } ( 3...d6 4.Nf3 4...dxe5 5.Nxe5 5...Nd7 6.Nc3 6...Nxe5 7.dxe5 7...Qxd1+ 8.Nxd1 ) 4.c4 h6 5.Nc3 b5 6.cxb5 cxb5 7.Bxb5 a6 8.Bd3 Ne7 9.Be4 Ra7 10.Nf3 g5 11.Be3 g4 12.Nd2 Qb6 { (+3.43 → +10.72) Mistake. The best move was 12... d5. } ( 12...d5 13.exd6 13...Qxd6 14.O-O 14...Rd7 15.Nc4 15...Qc7 16.Ne5 16...Qxe5 17.dxe5 ) 13.Na4 { (+11.52 → +4.31) Blunder. The best move was 13. Nc4. } ( 13.Nc4 13...Qb4 14.Nd6+ 14...Kd8 15.a3 15...Qxb2 16.Nxf7+ 16...Kc7 17.Na4 17...Qb5 ) 13...Qa5 14.d5 exd5 15.Bxa7 dxe4 16.Bxb8 Nc6 17.Bd6 Bxd6 18.exd6 O-O 19.O-O Ne5 20.Nxe4 Bb7 21.Nf6+ Kh8 22.Nxg4 { (+12.33 → +7.58) Mistake. The best move was 22. Qd4. } ( 22.Qd4 22...Nc6 23.Qd3 23...Kg7 24.Qh7+ 24...Kxf6 25.Qxh6+ 25...Kf5 26.Qxf8 26...Ne5 ) 22...Nxg4 23.Qxg4 Rg8 24.Qd4+ Kh7 25.g3 h5 26.Rac1 Rg4 27.Qd3+ Kg7 28.Nc3 h4 29.Rfe1 hxg3 30.hxg3 Qh5 31.Kf1 { (+10.07 → +6.34) Mistake. The best move was 31. Ne4. } ( 31.Ne4 31...Rg6 32.Qd4+ 32...f6 33.Rc5 33...Qh3 34.Rg5 34...Qe6 35.Rh5 35...a5 ) 31...Qh1+ 32.Ke2 Bf3+ { (+7.91 → +15.22) Inaccuracy. A better move was 32... Qh6. } ( 32...Qh6 33.Qf5 33...Rg6 34.Nd5 34...Bxd5 35.Qxd5 35...Re6+ 36.Kf1 36...Rxd6 37.Qe5+ ) 33.Qxf3 Qh5 34.Qd5 { (+19.43 → +6.26) Mistake. The best move was 34. Rh1. } ( 34.Rh1 34...Qg6 35.Qa8 35...Kf6 36.Qh8+ 36...Qg7 37.Nd5+ 37...Ke5 38.Ne3 38...Qxh8 ) 34...Qxd5 { (+6.01 → +14.83) Inaccuracy. A better move was 34... Rg5+. } ( 34...Rg5+ 35.g4 35...Qxg4+ 36.Ke3 36...Rxd5 37.Nxd5 37...Qh3+ 38.Kd4 38...Qh4+ 39.f4 ) 35.Nxd5 Re4+ 36.Kd3 Rxe1 { (+23.28 → +123.19) Inaccuracy. A better move was 36... Rg4. } ( 36...Rg4 37.Re7 37...Kg6 38.Rc8 38...Kg7 39.Rg8+ 39...Kxg8 40.Nf6+ 40...Kf8 41.Nxg4 ) 37.Rxe1 a5 38.Re7 Kg6 39.Rxd7  1-0

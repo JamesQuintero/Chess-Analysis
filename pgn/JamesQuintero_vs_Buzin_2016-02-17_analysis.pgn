@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.17"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "Buzin"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "1095"]
+[BlackElo "1191"]
+[TimeControl "600"]
+[EndTime "1:04:16 PST"]
+[Termination "Buzin won by checkmate"]
+[CurrentPosition "6k1/5p1p/5Pp1/2p5/1p5P/1P2PP1B/3rK3/3r4 w - - 1 30"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 { C41: Philidor Defense: 3.d4 Bg4 4.dxe5 } 4...Bxf3 5.gxf3 dxe5 6.Bh3 { (+1.02 → -0.06) Inaccuracy. A better move was 6. Qxd8+. } ( 6.Qxd8+ 6...Kxd8 7.Be3 7...Nf6 8.Rg1 8...Nbd7 9.Nd2 9...g6 10.O-O-O 10...Bd6 ) 6...Qxd1+ 7.Kxd1 Nc6 8.Nc3 { (+0.23 → -0.71) Inaccuracy. A better move was 8. Be3. } ( 8.Be3 8...Nf6 9.c3 9...Nh5 10.Kc2 10...Nf4 11.Bf1 11...a6 12.Nd2 12...Rd8 ) 8...Rd8+ 9.Ke1 Nf6 { (-0.98 → +0.04) Inaccuracy. A better move was 9... Nd4. } ( 9...Nd4 10.Kf1 10...Nf6 11.Be3 11...Nxc2 12.Rd1 12...Nxe3+ 13.fxe3 13...c6 14.Kf2 ) 10.Rg1 { (+0.13 → -0.91) Inaccuracy. A better move was 10. Nb5. } ( 10.Nb5 10...Bb4+ 11.Ke2 11...Ba5 12.c3 12...a6 13.Na3 13...b5 14.Bg5 14...b4 ) 10...Nd4 11.Rg5 { (-1.11 → -4.41) Blunder. The best move was 11. Kf1. } ( 11.Kf1 11...Nxc2 12.Rb1 12...h6 13.Be3 13...a6 14.Rd1 14...g6 15.Kg2 15...Nxe3+ ) 11...Nxc2+ 12.Ke2 Nxa1 13.Rxe5+ Be7 14.Rf5 O-O 15.e5 Nd5 16.Nxd5 Rxd5 17.Bg2 Rfd8 18.Be3 Nc2 19.Bf4 { (-10.51 → ♚ Mate in 2) Mistake. The best move was 19. f4. } ( 19.f4 19...Nxe3 20.fxe3 20...Rd2+ 21.Kf3 21...g6 22.Rxf7 22...Kxf7 23.Bf1 23...Rc2 ) 19...g6 { (♚ Mate in 2 → -14.14) Missed mate. Checkmate after 19... Rd1 . } ( 19...Rd1 20.e6 20...Re1# ) 20.Rf6 Bxf6 21.exf6 { (-14.63 → ♚ Mate in 4) Mistake. The best move was 21. Be3. } ( 21.Be3 21...Rxe5 22.b3 22...g5 23.h3 23...c6 24.h4 24...gxh4 25.f4 25...Ree8 ) 21...Rd1 22.h4 c5 { (♚ Mate in 1 → ♚ Mate in 3) Excellent. Faster mate A better move was 22... Re1#. } ( 22...Re1# ) 23.Bh3 R8d4 { (♚ Mate in 1 → ♚ Mate in 1) Excellent. Faster mate A better move was 23... Re1#. } ( 23...Re1# ) 24.Bg5 b5 { (♚ Mate in 1 → ♚ Mate in 2) Excellent. Faster mate A better move was 24... Re1#. } ( 24...Re1# ) 25.a3 a5 { (♚ Mate in 1 → ♚ Mate in 2) Excellent. Faster mate A better move was 25... Re1#. } ( 25...Re1# ) 26.b3 b4 { (♚ Mate in 1 → ♚ Mate in 2) Excellent. Faster mate A better move was 26... Re1#. } ( 26...Re1# ) 27.axb4 axb4 { (♚ Mate in 1 → ♚ Mate in 2) Excellent. Faster mate A better move was 27... Re1#. } ( 27...Re1# ) 28.Be3 Nxe3 { (♚ Mate in 1 → ♚ Mate in 5) Excellent. Faster mate A better move was 28... Re1#. } ( 28...Re1# ) 29.fxe3 R4d2#  0-1

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.09.30"]
+[Round "?"]
+[White "gnehdalachica"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "C20"]
+[WhiteElo "1012"]
+[BlackElo "959"]
+[TimeControl "600"]
+[EndTime "22:41:43 PDT"]
+[Termination "gnehdalachica won by resignation"]
+[CurrentPosition "rn6/ppp4p/8/Q5BP/8/2PP1Pk1/PP6/RN2K1NR b KQ - 0 19"]
+
+1.e4 e5 { C20: King's Pawn Opening: 1...e5 } 2.h4 { (+0.33 → -0.24) Inaccuracy. A better move was 2. Nf3. } ( 2.Nf3 2...Nc6 3.Bb5 3...a6 4.Bxc6 4...dxc6 5.O-O 5...Bg4 6.d3 6...Nf6 ) 2...Nf6 3.h5 Nxe4 4.d3 Nf6 5.g4 d5 { (-2.12 → -1.17) Inaccuracy. A better move was 5... h6. } ( 5...h6 6.f4 6...Qe7 7.Qe2 7...Nc6 8.g5 8...Nd5 9.Nc3 9...Nxf4 10.Bxf4 ) 6.g5 Ng4 { (-0.86 → +0.54) Mistake. The best move was 6... Nfd7. } ( 6...Nfd7 7.Bg2 7...Nb6 8.f4 8...exf4 9.Bxf4 9...Bb4+ 10.Bd2 10...Bd6 11.Qe2+ ) 7.Bh3 f5 8.gxf6 { (+0.09 → -1.34) Mistake. The best move was 8. f3. } ( 8.f3 8...Qd6 9.fxg4 9...fxg4 10.Bg2 10...Nc6 11.Ne2 11...Be6 12.Be3 12...Be7 ) 8...gxf6 { (-1.36 → +1.81) Blunder. The best move was 8... Nxf6. } ( 8...Nxf6 9.f4 9...Bxh3 10.Rxh3 10...Nc6 11.fxe5 11...Nxe5 12.Bf4 12...Neg4 13.Qe2+ ) 9.Bxg4 Bxg4 10.Qxg4 f5 { (+2.44 → +4.20) Inaccuracy. A better move was 10... Nc6. } ( 10...Nc6 11.Ne2 11...Nb4 12.Na3 12...Qd7 13.Qxd7+ 13...Kxd7 14.Rg1 14...Re8 15.Bd2 ) 11.Qxf5 Bb4+ 12.c3 Ba5 { (+4.07 → +12.12) Mistake. The best move was 12... Be7. } ( 12...Be7 13.Qxe5 13...Rf8 14.h6 14...Qd7 15.Ne2 15...Nc6 16.Qh5+ 16...Rf7 17.Be3 ) 13.Qxe5+ { (+12.97 → +5.00) Mistake. The best move was 13. Bg5. } ( 13.Bg5 13...Qxg5 14.Qxg5 14...Nd7 15.Nf3 15...Bb6 16.Nxe5 16...Rf8 17.Nxd7 17...Kxd7 ) 13...Kf8 { (+4.91 → +30.70) Blunder. The best move was 13... Qe7. } ( 13...Qe7 14.Qxe7+ 14...Kxe7 15.Nf3 15...Rf8 16.Bg5+ 16...Kd6 17.Nbd2 17...Nc6 18.Be3 ) 14.Qxh8+ Ke7 15.Bg5+ Ke6 16.Qxd8 Kf5 { (+38.10 → ♔ Mate in 2) Mistake. The best move was 16... Nc6. } ( 16...Nc6 17.Qxa8 17...Kd7 18.Qg8 18...Kd6 19.Qf8+ 19...Kd7 20.Qf7+ 20...Kd6 21.Qf8+ ) 17.Qxd5+ Kg4 18.f3+ { (♔ Mate in 1 → ♔ Mate in 2) Excellent. Faster mate A better move was 18. Rh4#. } ( 18.Rh4# ) 18...Kg3 19.Qxa5 { (♔ Mate in 2 → ♔ Mate in 3) Excellent. Faster mate A better move was 19. Ne2+. } ( 19.Ne2+ 19...Kg2 20.f4# )  1-0

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.05"]
+[Round "?"]
+[White "sanchezvilla_7"]
+[Black "JamesQuintero"]
+[Result "0-1"]
+[ECO "C22"]
+[WhiteElo "795"]
+[BlackElo "869"]
+[TimeControl "180"]
+[EndTime "22:09:20 PDT"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "r3k1nr/ppp3p1/4b2p/2b1p3/4P3/3BKP2/q5PP/1N5R w kq - 2 16"]
+
+1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 { C22: Center Game Accepted: Normal Variation } 4.Qe5+ { (-0.39 → -11.07) Blunder. The best move was 4. Qc4. } ( 4.Qc4 4...Nf6 5.Nf3 5...d5 6.exd5 6...Nxd5 7.Be2 7...Bb4+ 8.c3 8...Be7 ) 4...Nxe5 5.f3 d5 6.Bf4 f6 7.Bxe5 fxe5 8.c3 d4 9.cxd4 Qxd4 10.Nh3 { (-14.08 → -21.91) Inaccuracy. A better move was 10. Nc3. } ( 10.Nc3 10...Be6 11.Nge2 11...Qe3 12.a3 12...Bc5 13.Nd1 13...Qh6 14.b4 14...Bb6 ) 10...Qxb2 11.Ng5 { (-23.48 → ♚ Mate in 6) Mistake. The best move was 11. Bb5+. } ( 11.Bb5+ 11...c6 12.O-O 12...Qxa1 13.Na3 13...Qd4+ 14.Kh1 14...Bxa3 15.Be2 15...Bc5 ) 11...Qxa1 { (♚ Mate in 6 → -24.60) Missed mate. Checkmate after 11... Bb4+ . } ( 11...Bb4+ 12.Kd1 12...Bd7 13.a4 13...Bxa4+ 14.Rxa4 14...O-O-O+ 15.Bd3 15...Rxd3+ 16.Nd2 16...Qxd2# ) 12.Bd3 h6 13.Ne6 Bxe6 14.Kd2 { (-30.96 → ♚ Mate in 7) Mistake. The best move was 14. a3. } ( 14.a3 14...Qb2 15.O-O 15...Qd4+ 16.Kh1 16...Qxd3 17.Rg1 17...Ba2 18.a4 18...Bxb1 ) 14...Qxa2+ 15.Ke3 Bc5#  0-1

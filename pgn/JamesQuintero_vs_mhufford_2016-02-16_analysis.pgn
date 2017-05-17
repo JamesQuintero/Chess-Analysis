@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.16"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "mhufford"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "1238"]
+[BlackElo "1067"]
+[TimeControl "600"]
+[EndTime "23:54:00 PST"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "rnb1kbnr/pp1p2pp/2p2p2/4p3/Nq2P3/3P1N2/PPP2PPP/R1BQKB1R w KQkq - 3 6"]
+
+1.e4 e5 2.Nf3 f6 { C40: King's Pawn Opening: King's Knight, Damiano Defense } 3.Nc3 c6 { (+1.13 → +2.01) Inaccuracy. A better move was 3... Nc6. } ( 3...Nc6 4.d4 4...Bb4 5.Bc4 5...d6 6.dxe5 6...dxe5 7.O-O 7...Qxd1 8.Rxd1 ) 4.d3 { (+1.95 → +0.81) Inaccuracy. A better move was 4. Nxe5. } ( 4.Nxe5 4...Ne7 5.Nf3 5...Ng6 6.h4 6...d5 7.h5 7...dxe4 8.hxg6 8...exf3 ) 4...Qb6 { (+0.70 → +1.50) Inaccuracy. A better move was 4... Bb4. } ( 4...Bb4 5.d4 5...d5 6.dxe5 6...fxe5 7.exd5 7...Nf6 8.Nxe5 8...Qe7 9.Qe2 ) 5.Na4 { (+1.40 → +0.30) Inaccuracy. A better move was 5. Be2. } ( 5.Be2 5...d6 6.a4 6...Be6 7.O-O 7...Ne7 8.d4 8...Bf7 9.a5 9...Qc7 ) 5...Qb4+ { (+0.51 → +1.39) Inaccuracy. A better move was 5... Qa5+. } ( 5...Qa5+ 6.Nc3 6...d5 7.exd5 7...cxd5 8.d4 8...Bb4 9.dxe5 9...Bxc3+ 10.bxc3 ) 6.c3 { (+1.32 → +0.72) Inaccuracy. A better move was 6. Nc3. } ( 6.Nc3 6...d5 7.a3 7...Qa5 8.exd5 8...Ne7 9.d4 9...Nxd5 10.Bd2 10...exd4 ) 6...Qxa4 { (+0.75 → +8.35) Blunder. The best move was 6... Qe7. } ( 6...Qe7 7.c4 7...f5 8.Be2 8...d6 9.Nc3 9...Nf6 10.O-O 10...g6 11.h3 ) 7.Qxa4  1-0

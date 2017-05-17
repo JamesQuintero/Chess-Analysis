@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.06"]
+[Round "?"]
+[White "mrspinaci"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "847"]
+[BlackElo "865"]
+[TimeControl "600"]
+[EndTime "10:05:03 PDT"]
+[Termination "mrspinaci won by checkmate"]
+[CurrentPosition "1k1R4/p1p5/1pB2n1p/8/8/6P1/Pn3P1P/6K1 b - - 1 29"]
+
+1.e4 e5 2.Nf3 d5 3.Nxe5 { C40: King's Pawn Opening: King's Knight, Elephant Gambit, 3.Nxe5 } 3...f6 { (+0.41 → +3.14) Mistake. The best move was 3... Bd6. } ( 3...Bd6 4.d4 4...dxe4 5.Bc4 5...Bxe5 6.Qh5 6...Qe7 7.Qxe5 7...Qxe5 8.dxe5 ) 4.Ng4 { (+3.14 → +0.47) Blunder. The best move was 4. Qh5+. } ( 4.Qh5+ 4...g6 5.Nxg6 5...hxg6 6.Qxh8 6...Be6 7.Bd3 7...d4 8.Bb5+ 8...Nd7 ) 4...d4 { (+0.38 → +1.17) Inaccuracy. A better move was 4... dxe4. } ( 4...dxe4 5.d4 5...Bd6 6.Nc3 6...f5 7.Ne5 7...Bxe5 8.dxe5 8...Qxd1+ 9.Kxd1 ) 5.d3 { (+0.80 → -0.89) Mistake. The best move was 5. f4. } ( 5.f4 5...Bd6 6.Qf3 6...Be6 7.e5 7...fxe5 8.fxe5 8...Bc5 9.Nf2 9...Bd5 ) 5...Bxg4 { (-1.02 → +1.70) Blunder. The best move was 5... h5. } ( 5...h5 6.Ne3 6...dxe3 7.Bxe3 7...f5 8.Be2 8...Nf6 9.Bg5 9...Qd6 10.Nd2 ) 6.Qxg4 Nc6 7.g3 Qd7 8.Bh3 Qxg4 9.Bxg4 Ne5 10.Bh5+ g6 11.Be2 O-O-O 12.O-O Nc6 13.Na3 Nb4 14.Nc4 Nxc2 15.Rb1 Nb4 16.Bg4+ { (+1.24 → -0.45) Mistake. The best move was 16. a3. } ( 16.a3 16...Nc6 17.b4 17...h5 18.f4 18...a6 19.Bf3 19...h4 20.b5 20...axb5 ) 16...f5 { (-0.44 → +1.78) Mistake. The best move was 16... Kb8. } ( 16...Kb8 17.f4 17...Nxd3 18.Bd2 18...Nh6 19.Bf3 19...Bb4 20.Be2 20...Bxd2 21.Bxd3 ) 17.exf5 gxf5 18.Bxf5+ Kb8 19.Ne5 Bh6 { (+2.50 → +3.89) Inaccuracy. A better move was 19... Bd6. } ( 19...Bd6 20.Nf7 20...Rf8 21.Nxd6 21...Ne7 22.Be6 22...cxd6 23.Bh6 23...Re8 24.Bg7 ) 20.Nd7+ { (+4.16 → +2.43) Mistake. The best move was 20. Nf7. } ( 20.Nf7 ) 20...Rxd7 21.Bxd7 Bxc1 22.Rbxc1 Nxd3 23.Rcd1 Nxb2 24.Rxd4 Nf6 25.Rfd1 { (+4.42 → +0.08) Blunder. The best move was 25. Bb5. } ( 25.Bb5 25...c6 26.Bxc6 26...bxc6 27.Rb1 27...Kc7 28.Rxb2 28...a6 29.Ra4 29...Ra8 ) 25...b6 { (0.00 → +3.38) Blunder. The best move was 25... c5. } ( 25...c5 26.Rd6 26...Nxd1 27.Rxf6 27...c4 28.Kf1 28...Nc3 29.a3 29...Ne4 30.Rf7 ) 26.R1d2 Rd8 { (+3.28 → +7.71) Mistake. The best move was 26... c5. } ( 26...c5 27.Rf4 27...Nc4 28.Rxc4 28...Rd8 29.Rd6 29...Nxd7 30.Ra4 30...a5 31.Kg2 ) 27.Bc6 Rxd4 28.Rxd4 h6 { (+9.05 → ♔ Mate in 1) Mistake. The best move was 28... Kc8. } ( 28...Kc8 29.Rf4 29...Kd8 30.Rxf6 30...Ke7 31.Rh6 31...Nc4 32.Rxh7+ 32...Kd6 33.Rh6+ ) 29.Rd8#  1-0

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.14"]
+[Round "?"]
+[White "flying_scrawny"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "1002"]
+[BlackElo "926"]
+[TimeControl "600"]
+[EndTime "18:51:49 PDT"]
+[Termination "flying_scrawny won by checkmate"]
+[CurrentPosition "r2qkb1r/pp1n1Q1p/2p3n1/3p1pN1/4p3/PPN1P1P1/1BPP1PBP/R3K2R b KQkq - 0 14"]
+
+1.b3 e5 2.Bb2 { A01: Nimzowitsch-Larsen Attack: Modern Variation, 2.Bb2 } 2...e4 3.g3 d5 4.Bg2 f6 { (-0.14 → +0.49) Inaccuracy. A better move was 4... Nf6. } ( 4...Nf6 5.f3 5...exf3 6.Nxf3 6...Bd6 7.O-O 7...O-O 8.e3 8...Bg4 9.Nc3 ) 5.Nc3 { (+0.53 → 0.00) Inaccuracy. A better move was 5. d3. } ( 5.d3 5...f5 6.Nh3 6...Nf6 7.O-O 7...Nc6 8.dxe4 8...fxe4 9.c4 9...dxc4 ) 5...Be6 6.a3 { (+0.60 → -0.01) Inaccuracy. A better move was 6. Nh3. } ( 6.Nh3 6...c6 7.f3 7...exf3 8.exf3 8...Qe7 9.Qe2 9...Nd7 10.O-O-O 10...O-O-O ) 6...c6 7.e3 Nd7 8.Qh5+ { (+0.17 → -0.42) Inaccuracy. A better move was 8. Nge2. } ( 8.Nge2 8...Bf7 9.O-O 9...Nh6 10.d3 10...f5 11.Nd4 11...Ne5 12.dxe4 12...fxe4 ) 8...Bf7 9.Qd1 Bd6 { (-0.62 → +0.10) Inaccuracy. A better move was 9... f5. } ( 9...f5 10.Nge2 10...Ngf6 11.d3 11...Be7 12.O-O 12...O-O 13.Nd4 13...g6 14.f4 ) 10.Nh3 { (-0.06 → -0.65) Inaccuracy. A better move was 10. d3. } ( 10.d3 10...exd3 11.cxd3 11...Ne7 12.Nge2 12...O-O 13.O-O 13...Bh5 14.d4 14...Qb6 ) 10...Ne7 11.Qg4 { (-0.48 → -1.20) Inaccuracy. A better move was 11. d3. } ( 11.d3 11...exd3 12.cxd3 12...h5 13.e4 13...Qb6 14.exd5 14...Nxd5 15.Bxd5 15...cxd5 ) 11...f5 { (-0.87 → +0.69) Mistake. The best move was 11... O-O. } ( 11...O-O 12.Qd1 12...Qe8 13.f4 13...h5 14.O-O 14...Nf5 15.Nf2 15...a5 16.a4 ) 12.Qxg7 Ng6 { (+0.26 → +0.90) Inaccuracy. A better move was 12... Rg8. } ( 12...Rg8 13.Qh6 13...Rg6 14.Qxh7 14...Be5 15.Nf4 15...Rg8 16.Na4 16...Rh8 17.Qxh8+ ) 13.Ng5 { (+0.75 → -4.27) Blunder. The best move was 13. Qh6. } ( 13.Qh6 13...Nde5 14.Ng5 14...Qe7 15.Ne2 15...O-O-O 16.f4 16...exf3 17.Nxf3 17...Nxf3+ ) 13...Bf8 { (-4.27 → ♔ Mate in 1) Blunder. From winning to losing. The best move was 13... Qxg5. } ( 13...Qxg5 14.Ne2 14...Qh5 15.Nf4 15...Bxf4 16.exf4 16...Rg8 17.Qc3 17...Nh4 18.gxh4 ) 14.Qxf7#  1-0

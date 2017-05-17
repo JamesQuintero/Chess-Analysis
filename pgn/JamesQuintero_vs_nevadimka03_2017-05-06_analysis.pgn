@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.06"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "nevadimka03"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "869"]
+[BlackElo "1099"]
+[TimeControl "300"]
+[EndTime "16:30:06 PDT"]
+[Termination "nevadimka03 won by resignation"]
+[CurrentPosition "8/pppkp2p/6p1/1P6/P7/7r/8/4K3 b - - 0 30"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 { B01: Scandinavian Defense: Mieses-Kotroc Variation, 3.Nc3 } 3...Qe6+ 4.Qe2 { (+1.07 → +0.25) Inaccuracy. A better move was 4. Be2. } ( 4.Be2 4...Qb6 5.Nf3 5...Nf6 6.O-O 6...e6 7.d4 7...Be7 8.Ne5 8...O-O ) 4...Nc6 5.Qxe6 Bxe6 6.Nf3 Bf5 7.Kd1 { (+0.08 → -0.60) Inaccuracy. A better move was 7. Bb5. } ( 7.Bb5 7...e6 8.Bxc6+ 8...bxc6 9.d3 9...Bd6 10.h3 10...Ne7 11.Bd2 11...f6 ) 7...Nb4 8.Bd3 { (+0.06 → -1.72) Mistake. The best move was 8. Nd4. } ( 8.Nd4 8...Bd7 9.a3 9...e5 10.axb4 10...exd4 11.Nb5 11...O-O-O 12.f3 12...Bxb4 ) 8...Bxd3 9.cxd3 Nxd3 10.Rf1 O-O-O 11.b3 g6 12.Bb2 { (-1.74 → -5.72) Mistake. The best move was 12. Ng5. } ( 12.Ng5 12...Nh6 13.Ba3 13...a5 14.Kc2 14...Nb4+ 15.Bxb4 15...axb4 16.Ne2 16...Bg7 ) 12...Bg7 { (-5.70 → -1.87) Blunder. The best move was 12... Nxb2+. } ( 12...Nxb2+ 13.Kc2 13...Nd3 14.a3 14...Nh6 15.Ne4 15...e6 16.g3 16...Bg7 17.Rab1 ) 13.Kc2 Nxb2 14.Kxb2 Nh6 15.h3 Nf5 16.Ng5 { (-1.78 → -6.99) Blunder. The best move was 16. Rad1. } ( 16.Rad1 16...h5 17.d3 17...e6 18.Rfe1 18...c6 19.Ne5 19...Bxe5 20.Rxe5 20...Kc7 ) 16...Rxd2+ 17.Kc1 Bxc3 18.Nxf7 { (-7.29 → -14.18) Inaccuracy. A better move was 18. Ne4. } ( 18.Ne4 18...Rxf2 19.Rxf2 19...Bxa1 20.g4 20...Nh6 21.Re2 21...f5 22.Kb1 22...Bd4 ) 18...Nd4 19.Nxh8 { (-18.91 → ♚ Mate in 2) Mistake. The best move was 19. Re1. } ( 19.Re1 19...Rf8 20.g3 20...Rc2+ 21.Kd1 21...Rxf7 22.f4 22...Bxa1 23.Re3 23...Rxa2 ) 19...Ne2+ 20.Kb1 Bxh8 { (♚ Mate in 1 → ♚ Mate in 1) Excellent. Faster mate A better move was 20... Rb2#. } ( 20...Rb2# ) 21.Re1 Bxa1 { (♚ Mate in 1 → -11.42) Mistake. The best move was 21... Rb2#. } ( 21...Rb2# ) 22.Kxa1 { (-12.78 → ♚ Mate in 3) Mistake. The best move was 22. Rxe2. } ( 22.Rxe2 22...Rxe2 23.Kxa1 23...Rxf2 24.Kb1 24...Rxg2 25.b4 25...Rh2 26.a4 26...e5 ) 22...Kd7 { (♚ Mate in 3 → -7.88) Missed mate. Checkmate after 22... Nc3 . } ( 22...Nc3 23.Re2 23...Rxe2 24.g3 24...Rxa2# ) 23.Kb1 Nc3+ 24.Kc1 Rxf2 25.Rd1+ Nxd1 26.Kxd1 Rxg2 27.a4 Ra2 28.Ke1 Rh2 29.b4 Rxh3 30.b5  0-1

@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.06"]
+[Round "?"]
+[White "SumanthsChess"]
+[Black "JamesQuintero"]
+[Result "0-1"]
+[ECO "C40"]
+[WhiteElo "762"]
+[BlackElo "873"]
+[TimeControl "300"]
+[EndTime "16:21:40 PDT"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "6k1/7p/p1Q3p1/8/8/7P/3q4/5r1K w - - 5 37"]
+
+1.e4 e5 2.Nf3 d5 { C40: King's Pawn Opening: King's Knight, Elephant Gambit } 3.Nc3 { (+0.72 → -0.20) Inaccuracy. A better move was 3. Nxe5. } ( 3.Nxe5 3...Nf6 4.exd5 4...Qxd5 5.Qe2 5...Qe6 6.d4 6...Nc6 7.Nxc6 7...bxc6 ) 3...dxe4 4.Nxe4 Nc6 5.Bb5 Bd7 6.d3 { (+0.91 → +0.19) Inaccuracy. A better move was 6. O-O. } ( 6.O-O 6...f5 7.Ng3 7...e4 8.Bxc6 8...Bxc6 9.Ne5 9...Qf6 10.d4 10...g6 ) 6...a6 7.Bxc6 Bxc6 8.Nc5 { (+1.13 → -3.85) Blunder. The best move was 8. Nxe5. } ( 8.Nxe5 8...Bxe4 9.dxe4 9...Qxd1+ 10.Kxd1 10...f6 11.Nd3 11...O-O-O 12.Ke2 12...Ne7 ) 8...Bxc5 9.Be3 Bxe3 10.fxe3 Bxf3 11.Qxf3 Nf6 12.O-O c6 13.e4 Qb6+ 14.Kh1 Qxb2 15.Rac1 Qxa2 16.Qe3 Ng4 { (-5.79 → -3.50) Mistake. The best move was 16... O-O. } ( 16...O-O 17.Qd2 17...Qe6 18.Rb1 18...Rfb8 19.Ra1 19...Qd6 20.Qe1 20...b6 21.Rf5 ) 17.Qb6 Qe6 18.Qxb7 O-O 19.h3 Ne3 20.Rf3 Qh6 21.Qb6 Nxg2 22.Kxg2 Qxc1 23.Qf2 Qg5+ 24.Rg3 Qe7 25.Kh2 g6 26.Rf3 Ra7 27.c3 f5 { (-11.47 → -8.25) Inaccuracy. A better move was 27... a5. } ( 27...a5 28.Qf1 28...a4 29.Rf2 29...a3 30.Ra2 30...Rd8 31.Kh1 31...Qd7 32.d4 ) 28.exf5 Rxf5 29.d4 Rxf3 30.Qxf3 exd4 31.cxd4 Qd6+ { (-55.06 → -12.01) Mistake. The best move was 31... Rb7. } ( 31...Rb7 32.Qf2 32...Qd6+ 33.Kg2 33...Qd5+ 34.Kh2 34...Rb1 35.Qe2 35...Qh1+ 36.Kg3 ) 32.Kh1 Rf7 33.Qg2 { (-47.74 → ♚ Mate in 14) Mistake. The best move was 33. Qe4. } ( 33.Qe4 33...Re7 ) 33...Qxd4 34.Qxc6 Qd1+ { (♚ Mate in 2 → ♚ Mate in 7) Excellent. Faster mate A better move was 34... Rf1+. } ( 34...Rf1+ 35.Kh2 35...Qg1# ) 35.Kh2 Qd2+ 36.Kh1 Rf1#  0-1

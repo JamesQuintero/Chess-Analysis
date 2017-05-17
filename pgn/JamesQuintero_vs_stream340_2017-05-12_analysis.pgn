@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.12"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "stream340"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "944"]
+[BlackElo "1003"]
+[TimeControl "600"]
+[EndTime "19:31:57 PDT"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "2kr2nr/1Qpq3p/Bp1b2p1/4p3/8/2N5/PPP2PPP/R1B1K2R b KQ - 0 16"]
+
+1.e4 e6 2.e5 { C00: French Defense: Steinitz Attack } 2...Nc6 3.d4 f6 { (-0.17 → +0.53) Inaccuracy. A better move was 3... d6. } ( 3...d6 4.exd6 4...Bxd6 5.Nf3 5...Nf6 6.Nbd2 6...e5 7.dxe5 7...Nxe5 8.Nxe5 ) 4.Nf3 fxe5 5.Nxe5 Nxe5 6.dxe5 d5 7.exd6 Bxd6 8.Nc3 Bd7 9.Qh5+ g6 10.Qf3 Bc6 11.Qe3 { (+1.10 → +0.37) Inaccuracy. A better move was 11. Bb5. } ( 11.Bb5 11...Qd7 12.Bxc6 12...Qxc6 13.Qxc6+ 13...bxc6 14.Ne4 14...Ne7 15.O-O 15...O-O ) 11...Qd7 12.Qd4 e5 13.Qe3 { (+0.04 → -0.68) Inaccuracy. A better move was 13. Qc4. } ( 13.Qc4 13...Ne7 14.Bg5 14...O-O-O 15.O-O-O 15...Kb8 16.f3 16...e4 17.fxe4 17...Qg4 ) 13...O-O-O { (-0.58 → +1.66) Mistake. The best move was 13... Ne7. } ( 13...Ne7 14.Ne4 14...O-O-O 15.Bd2 15...Kb8 16.O-O-O 16...Bb4 17.Bd3 17...Bxd2+ 18.Rxd2 ) 14.Qxa7 b6 { (+1.27 → ♔ Mate in 2) Blunder. The best move was 14... Qg4. } ( 14...Qg4 15.Be3 15...Bb4 16.f3 16...Bxc3+ 17.bxc3 17...Qa4 18.Qxa4 18...Bxa4 19.Bg5 ) 15.Ba6+ Bb7 16.Qxb7#  1-0

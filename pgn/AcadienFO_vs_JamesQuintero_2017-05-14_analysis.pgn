@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.14"]
+[Round "?"]
+[White "AcadienFO"]
+[Black "JamesQuintero"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1074"]
+[BlackElo "955"]
+[TimeControl "600"]
+[EndTime "22:29:19 PDT"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "r3kbnr/pp4pp/3p1p2/1b2p3/4P3/5N2/PPPB1PPP/R3K2R w KQkq - 0 14"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 { C50: Italian Game } 3...f6 { (+0.14 → +1.37) Inaccuracy. A better move was 3... Nf6. } ( 3...Nf6 4.d3 4...Bc5 5.Nc3 5...O-O 6.O-O 6...d6 7.Na4 7...Bb6 8.Nxb6 ) 4.d4 d6 5.d5 Na5 6.Bb5+ c6 7.dxc6 { (+1.37 → +0.46) Inaccuracy. A better move was 7. Be2. } ( 7.Be2 7...cxd5 8.exd5 8...b6 9.c4 9...Nb7 10.O-O 10...Nc5 11.Nc3 11...a5 ) 7...Nxc6 { (+0.57 → +1.25) Inaccuracy. A better move was 7... bxc6. } ( 7...bxc6 8.Bd3 8...Be6 9.Nc3 9...Ne7 10.O-O 10...d5 11.exd5 11...cxd5 12.Nxe5 ) 8.Nc3 Bd7 9.Nd5 Nce7 10.Qd3 { (+1.02 → 0.00) Inaccuracy. A better move was 10. a4. } ( 10.a4 10...Bc6 11.O-O 11...a6 12.Be2 12...Nxd5 13.exd5 13...Bd7 14.Nd2 14...b5 ) 10...Nxd5 11.Qxd5 { (+0.06 → -3.88) Blunder. The best move was 11. Bxd7+. } ( 11.Bxd7+ 11...Qxd7 12.exd5 12...Be7 13.O-O 13...f5 14.Ng5 14...Bxg5 15.Bxg5 15...h6 ) 11...Qa5+ 12.Bd2 Qxb5 13.Qxb5 Bxb5  0-1

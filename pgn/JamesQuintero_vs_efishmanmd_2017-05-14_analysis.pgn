@@ -1,0 +1,15 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.14"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "efishmanmd"]
+[Result "1-0"]
+[WhiteElo "944"]
+[BlackElo "939"]
+[TimeControl "600"]
+[ECO "C41"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "8/7p/4r1p1/P2Q1k2/3pp2P/5PP1/2P3K1/8 b - - 1 35"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Bg4 { C41: Philidor Defense: 3.d4 Bg4 } 4.Be2 Bxf3 5.Bxf3 exd4 6.Qxd4 Nc6 7.Qd1 Nf6 8.Nc3 a5 9.Bg5 Be7 10.Bxf6 { (+0.45 → -0.16) Inaccuracy. A better move was 10. Be3. } ( 10.Be3 10...O-O 11.O-O 11...Nd7 12.Be2 12...Bf6 13.Nd5 13...Re8 14.f3 14...Bxb2 ) 10...Bxf6 11.e5 { (-0.25 → -0.88) Inaccuracy. A better move was 11. Nd5. } ( 11.Nd5 11...O-O 12.O-O 12...Bd4 13.c3 13...Bc5 14.Nf4 14...Re8 15.Nd3 15...a4 ) 11...Bxe5 12.Bxc6+ bxc6 13.O-O Bxc3 14.bxc3 O-O 15.c4 c5 16.a3 a4 17.Rb1 Ra7 18.Re1 Re8 19.Rxe8+ Qxe8 20.g3 g6 21.h4 Qe4 22.Qd3 Qe6 23.Kg2 c6 { (-0.87 → -0.20) Inaccuracy. A better move was 23... Ra8. } ( 23...Ra8 24.Rb7 24...Rc8 25.Ra7 25...Qd7 26.h5 26...gxh5 27.Qf3 27...Re8 28.Qxh5 ) 24.Rb6 d5 25.cxd5 cxd5 { (0.00 → +7.17) Blunder. The best move was 25... Qxd5+. } ( 25...Qxd5+ 26.Qf3 26...Rc7 27.Ra6 27...Qc4 28.Ra8+ 28...Kg7 29.Qe3 29...Rd7 30.Qe5+ ) 26.Rxe6 fxe6 27.Qb5 Kf7 28.Qxc5 Re7 29.Qb4 e5 30.Qxa4 d4 31.Qc4+ Re6 32.a4 Kf6 33.a5 Kf5 34.f3 { (+53.69 → +14.60) Mistake. The best move was 34. a6. } ( 34.a6 34...Re7 35.Qc5 35...Rf7 36.a7 36...Rxa7 37.Qxa7 37...Kf6 38.Qa6+ 38...Kf7 ) 34...e4 35.Qd5+ { (+53.97 → +23.91) Inaccuracy. A better move was 35. fxe4+. } ( 35.fxe4+ 35...Kf6 36.Qxe6+ 36...Kxe6 37.a6 37...g5 38.hxg5 38...Kf7 39.a7 39...Kg6 ) 35...Re5 { (+50.93 → ♔ Mate in 1) Mistake. The best move was 35... Kf6. } ( 35...Kf6 36.fxe4 36...Ra6 37.e5+ 37...Kf5 38.Qf3+ 38...Kxe5 39.Qe2+ 39...Kd5 40.Qb5+ ) 36.Qf7#  1-0

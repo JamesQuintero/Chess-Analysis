@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.15"]
+[Round "?"]
+[White "abdusalamalmegzazi"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteElo "1278"]
+[BlackElo "1196"]
+[TimeControl "600"]
+[EndTime "1:32:53 PST"]
+[Termination "abdusalamalmegzazi won by checkmate"]
+[CurrentPosition "r1b2k2/pp3Qpp/3N1b2/8/8/8/PP1P1PPP/2B2K1R b - - 6 27"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 { C57: Italian Game: Knight Attack, Fritz Variation } 6.d6 Qd7 7.Nxf7 { (+0.52 → -0.71) Mistake. The best move was 7. c3. } ( 7.c3 7...Ne6 8.Nxe6 8...fxe6 9.O-O 9...Bxd6 10.d3 10...O-O 11.Nd2 11...b5 ) 7...Rg8 { (-1.60 → +2.04) Blunder. The best move was 7... Qc6. } ( 7...Qc6 8.O-O 8...Qxc4 9.Nxh8 9...Qxc2 10.dxc7 10...Qxd1 11.Rxd1 11...Nc2 12.b3 ) 8.dxc7 { (+2.04 → -1.54) Blunder. The best move was 8. Ng5. } ( 8.Ng5 8...Bxd6 9.Bxg8 9...Nxg8 10.c3 10...Ne6 11.d4 11...Nxg5 12.Bxg5 12...Qf5 ) 8...Nd5 { (-1.53 → +3.40) Blunder. The best move was 8... Qc6. } ( 8...Qc6 9.O-O 9...Qxc4 10.Nxe5 10...Qxc2 11.Qe1 11...Be6 12.Qe3 12...Qe4 13.Nc3 ) 9.Nxe5 Qf5 10.Ng4 { (+5.09 → -1.00) Blunder. The best move was 10. O-O. } ( 10.O-O 10...Be6 11.c3 11...Nc6 12.d4 12...Nxe5 13.dxe5 13...Nxc7 14.Bd3 14...Qf7 ) 10...Nb6 { (-1.00 → +4.72) Blunder. The best move was 10... Qe4+. } ( 10...Qe4+ 11.Ne3 11...Nxe3 12.Bb5+ 12...Nxb5 13.dxe3 13...Nxc7 14.O-O 14...Qg6 15.Nc3 ) 11.Bxg8 { (+4.47 → +2.24) Mistake. The best move was 11. Ne3. } ( 11.Ne3 11...Nxc2+ 12.Nxc2 12...Nxc4 13.O-O 13...Bd6 14.Re1+ 14...Kf7 15.d3 15...Ne5 ) 11...Nxc2+ 12.Kf1 Nxa1 13.Qe2+ Be7 14.Ne5 { (+2.68 → +0.52) Blunder. The best move was 14. Nc3. } ( 14.Nc3 14...Qxg4 15.Bxh7 15...Bf5 16.Qxg4 16...Bxg4 17.f3 17...Be6 18.d4 18...Kd7 ) 14...Qf8 { (-0.07 → +20.01) Mistake. The best move was 14... Kf8. } ( 14...Kf8 15.Bxh7 15...Qxh7 16.Nc3 16...Bd6 17.b3 17...Bxc7 18.Nb5 18...Bxe5 19.Qxe5 ) 15.Bf7+ { (+21.66 → +8.49) Mistake. The best move was 15. Qh5+. } ( 15.Qh5+ 15...g6 16.Qxh7 16...Bf6 17.Bf7+ 17...Ke7 18.Nxg6+ 18...Kd6 19.Nxf8 19...Bg4 ) 15...Qxf7 16.Nxf7 Kxf7 17.Qf3+ Ke8 18.Nc3 Nc2 19.Qe4 Kd7 20.Qe5 Bf6 21.Qf5+ Kxc7 22.Qxc2 Nc4 23.Nb5+ Kc6 24.Qxc4+ Kd7 25.Qc7+ Ke8 { (+20.27 → ♔ Mate in 2) Mistake. The best move was 25... Ke6. } ( 25...Ke6 26.Qc4+ 26...Kd7 27.Qd5+ 27...Ke7 28.Qc5+ 28...Ke6 29.Nc7+ 29...Kf7 30.Nxa8 ) 26.Nd6+ Kf8 27.Qf7#  1-0

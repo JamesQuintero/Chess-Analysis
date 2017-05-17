@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.12"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "javan096"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "940"]
+[BlackElo "964"]
+[TimeControl "600"]
+[EndTime "18:52:01 PDT"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "rn2k3/pQp2N1p/4bpp1/8/4n3/2P1B3/PPP2PPP/R3KB1R b KQ - 0 15"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 { C42: Petrov's Defense: Three Knights Game } 3...Bb4 4.Nxe5 Bxc3 5.dxc3 Nxe4 { (+0.46 → +1.31) Inaccuracy. A better move was 5... O-O. } ( 5...O-O 6.Nf3 6...Re8 7.Bd3 7...d5 8.e5 8...Nc6 9.O-O 9...Nxe5 10.Nxe5 ) 6.Qe2 d5 7.Qf3 { (+1.33 → -0.40) Mistake. The best move was 7. f3. } ( 7.f3 7...Qe7 8.fxe4 8...Qxe5 9.exd5 9...Qxe2+ 10.Bxe2 10...c6 11.Bf3 11...cxd5 ) 7...f6 { (-0.30 → +3.51) Blunder. The best move was 7... O-O. } ( 7...O-O 8.Be3 8...f6 9.Nd3 9...Nd7 10.O-O-O 10...c6 11.Qh5 11...Nd6 12.Kb1 ) 8.Bg5 { (+2.68 → -3.30) Blunder. From winning to losing. The best move was 8. Qh5+. } ( 8.Qh5+ 8...Ke7 9.Qf7+ 9...Kd6 10.Nd3 10...g5 11.f3 11...Rf8 12.Qxh7 12...Rh8 ) 8...Qe7 { (-3.39 → +0.79) Blunder. The best move was 8... O-O. } ( 8...O-O 9.Bh4 9...Re8 10.O-O-O 10...Rxe5 11.Bd3 11...Qe8 12.Bxe4 12...dxe4 13.Qe2 ) 9.Qh5+ Kd8 { (+0.58 → +2.48) Mistake. The best move was 9... g6. } ( 9...g6 10.Nxg6 10...Qf7 11.Bxf6 11...Nc6 12.Bb5 12...Be6 13.Qf3 13...Qxf6 14.Qxf6 ) 10.Nf7+ Kd7 11.Be3 { (+2.88 → +1.97) Inaccuracy. A better move was 11. O-O-O. } ( 11.O-O-O 11...g6 12.Qf3 12...c6 13.Qh3+ 13...Qe6 14.Qxe6+ 14...Kxe6 15.Nxh8 15...Nxg5 ) 11...g6 { (+2.04 → +6.69) Blunder. The best move was 11... Rf8. } ( 11...Rf8 12.Qxd5+ 12...Ke8 13.Bd3 13...Nxc3 14.bxc3 14...Rxf7 15.Bxh7 15...Nc6 16.O-O ) 12.Qxd5+ Ke8 13.Nxh8 Be6 14.Qxb7 Qf7 15.Nxf7  1-0

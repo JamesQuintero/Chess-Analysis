@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.13"]
+[Round "?"]
+[White "YouLostGTFO"]
+[Black "JamesQuintero"]
+[Result "0-1"]
+[ECO "C20"]
+[WhiteElo "960"]
+[BlackElo "928"]
+[TimeControl "600"]
+[EndTime "15:10:24 PDT"]
+[Termination "JamesQuintero won on time"]
+[CurrentPosition "6k1/6pp/3N1p2/P3p3/4P3/Pr1PP3/6PP/3R1RK1 w - - 3 28"]
+
+1.e4 e5 2.c4 { C20: King's Pawn Opening: The Whale Variation } 2...Nf6 3.d3 Nc6 4.a3 Nd4 5.Be3 Bc5 6.Nc3 { (+0.30 → -0.29) Inaccuracy. A better move was 6. b4. } ( 6.b4 6...Bd6 7.Nf3 7...Nxf3+ 8.Qxf3 8...O-O 9.Be2 9...a5 10.b5 10...Qe7 ) 6...c6 7.Be2 Qb6 { (-0.25 → +3.03) Blunder. The best move was 7... d6. } ( 7...d6 8.Nf3 8...a5 9.O-O 9...O-O 10.Bd2 10...Bd7 11.Nxd4 11...Bxd4 12.Bf3 ) 8.b4 { (+2.91 → +0.20) Blunder. The best move was 8. Na4. } ( 8.Na4 8...Qb3 9.Nxc5 9...Qxb2 10.Bxd4 10...Qxd4 11.Na4 11...Qd6 12.Nf3 12...Qe7 ) 8...Nxe2 9.Qxe2 Bxe3 10.fxe3 d6 11.Nf3 Bg4 12.O-O O-O 13.Qd2 Bxf3 14.Rxf3 Rad8 15.Qf2 Ng4 16.Qg3 Nf6 { (+0.44 → +4.29) Blunder. The best move was 16... Nh6. } ( 16...Nh6 17.Raf1 17...Kh8 18.Rb1 18...Qc7 19.a4 19...Qe7 20.Qf2 20...Ng4 21.Qb2 ) 17.Rxf6 Rd7 18.Rff1 f6 19.Qh3 a5 { (+4.33 → +9.84) Mistake. The best move was 19... Rdf7. } ( 19...Rdf7 20.Rab1 20...g6 21.Rf3 21...a6 22.a4 22...a5 23.b5 23...Qc5 24.Qg3 ) 20.Qxd7 Rf7 21.Qxd6 Qc7 22.Qxc7 Rxc7 23.bxa5 Rd7 24.Rad1 b5 { (+14.24 → +20.21) Inaccuracy. A better move was 24... Rd8. } ( 24...Rd8 25.Kf2 25...Kf7 26.Ke2 26...Ra8 27.Rb1 27...Ra7 28.Rb6 28...g5 29.Rfb1 ) 25.cxb5 cxb5 26.Nxb5 Rb7 27.Nd6 Rb3 { (+17.87 → ♔ Mate in 11) Mistake. The best move was 27... Ra7. } ( 27...Ra7 28.Rb1 28...h5 29.Nc4 29...Kf7 30.Nxe5+ 30...Kg8 31.Nc6 31...Rc7 32.Rb6 ) 28.Nc4 { (♔ Mate in 8 → +18.10) Missed mate. Checkmate after 28. Rb1 . } ( 28.Rb1 28...g6 29.Rxb3 29...Kg7 30.Rb7+ 30...Kh6 31.a6 31...f5 32.a7 32...f4 33.a8=Q 33...fxe3 34.Qd8 34...g5 35.Qe8 35...g4 36.Rf6+ 36...Kg5 37.Qxe5+ 37...Kh4 38.Rxh7# ) 28...g5 29.Rf5 Kg7 30.g4 { (+108.26 → +24.55) Inaccuracy. A better move was 30. a6. } ( 30.a6 30...Rb8 31.Rdf1 31...g4 32.Rxf6 32...Ra8 33.Rf7+ 33...Kh6 34.a7 34...Re8 ) 30...Kg6 { (+32.08 → ♔ Mate in 13) Mistake. The best move was 30... h6. } ( 30...h6 31.a6 31...Rb8 32.Rdf1 32...Ra8 33.Rxf6 33...Kg8 34.Rf7 ) 31.Kg2 h5 { (+31.47 → +127.29) Inaccuracy. A better move was 31... h6. } ( 31...h6 32.a6 32...h5 33.gxh5+ 33...Kxh5 34.a7 34...Kg6 35.a8=Q 35...Kf7 36.Qa7+ ) 32.h3 { (♔ Mate in 13 → +24.34) Missed mate. Checkmate after 32. a6 . } ( 32.a6 32...Rb8 33.Rdf1 33...Kg7 34.Rxf6 34...h4 35.Rf7+ 35...Kg8 36.Kg1 36...Rc8 37.Rf8+ 37...Rxf8 38.Rxf8+ 38...Kxf8 39.a7 39...Ke7 40.a8=Q 40...Kd7 41.Qb7+ 41...Ke6 42.Nxe5 42...h3 43.Qf7+ 43...Kd6 44.Qd7+ 44...Kxe5 45.Qe7# ) 32...hxg4 { (+31.27 → ♔ Mate in 14) Mistake. The best move was 32... Kg7. } ( 32...Kg7 33.a6 33...Rb8 34.Rdf1 34...Rf8 35.gxh5 35...g4 36.hxg4 36...Kh7 37.Rxf6 ) 33.hxg4 Rc3  0-1

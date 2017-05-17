@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.12"]
+[Round "?"]
+[White "789yu"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "C20"]
+[WhiteElo "919"]
+[BlackElo "909"]
+[TimeControl "600"]
+[EndTime "23:49:29 PDT"]
+[Termination "789yu won by resignation"]
+[CurrentPosition "r7/pppk1p2/1n2R3/3b3N/3P4/P2B1P1P/1PP3P1/2K4R b - - 0 24"]
+
+1.e4 e5 2.Qh5 Nf6 { C20: King's Pawn Opening: Wayward Queen, Kiddie Countergambit } 3.Qxe5+ Be7 4.f3 d6 { (-0.56 → +0.24) Inaccuracy. A better move was 4... O-O. } ( 4...O-O 5.d3 5...d5 6.Ne2 6...dxe4 7.dxe4 7...Nc6 8.Qf4 8...Nb4 9.Na3 ) 5.Qg5 h6 { (-0.30 → +1.60) Mistake. The best move was 5... O-O. } ( 5...O-O 6.Qe3 6...d5 7.d3 7...Nc6 8.Ne2 8...Re8 9.c3 9...dxe4 10.dxe4 ) 6.Qxg7 Rg8 7.Qxh6 Bf8 { (+1.52 → +2.47) Inaccuracy. A better move was 7... Nc6. } ( 7...Nc6 8.d3 8...d5 9.Ne2 9...Be6 10.a3 10...Qd7 11.Qd2 11...O-O-O 12.h4 ) 8.Qh4 Be6 9.h3 { (+3.07 → +2.16) Inaccuracy. A better move was 9. d4. } ( 9.d4 9...Be7 10.Ne2 10...c5 11.Nbc3 11...Nc6 12.Qf2 12...d5 13.Be3 13...Qa5 ) 9...Be7 10.d4 { (+2.02 → -0.37) Blunder. The best move was 10. d3. } ( 10.d3 10...Nfd7 11.Qh7 11...Nf6 12.Qh6 12...Nc6 13.Ne2 13...d5 14.Bg5 14...Nd7 ) 10...d5 { (-0.32 → +1.79) Mistake. The best move was 10... Ng4. } ( 10...Ng4 11.Qxg4 11...Bxg4 12.hxg4 12...Bh4+ 13.Kd1 13...c5 14.Ne2 14...Nc6 15.d5 ) 11.Bg5 Nfd7 { (+2.32 → +3.74) Inaccuracy. A better move was 11... dxe4. } ( 11...dxe4 12.Nc3 12...e3 13.O-O-O 13...Nc6 14.Bxe3 14...Qd7 15.Bg5 15...Nd5 16.Nxd5 ) 12.Bxe7 Qxe7 13.Qxe7+ Kxe7 14.exd5 Bxd5 15.Nc3 Be6 16.Nge2 Nc6 17.O-O-O Nb4 18.a3 Nd5 19.Nxd5+ Bxd5 20.Nf4 Nb6 21.Re1+ Kd7 22.Nh5 Rg6 23.Bd3 Re6 { (+3.24 → +6.46) Mistake. The best move was 23... Rxg2. } ( 23...Rxg2 24.Nf6+ 24...Kd6 25.h4 25...Be6 26.Ne4+ 26...Ke7 27.Nc5 27...Rh8 28.Be4 ) 24.Rxe6 { (+6.48 → +4.16) Mistake. The best move was 24. Bf5. } ( 24.Bf5 24...Ke7 25.Bxe6 25...Bxe6 26.h4 26...Rd8 27.c3 27...c6 28.Nf4 28...Nd5 ) 24...Bxe6 25.Nf6+ Ke7 26.Ne4 Rg8 27.g4 Nd5 28.Bc4 c6 29.Bxd5 Bxd5 30.Nc5 b6 31.Ne4 Ke6 32.Re1 Kd7 { (+3.35 → +10.34) Mistake. The best move was 32... Rh8. } ( 32...Rh8 33.Re3 33...Kd7 34.Nf6+ 34...Kd6 35.Ne8+ 35...Kd7 36.Nf6+ 36...Kd6 37.Nh5 ) 33.Nf6+ Kd6 34.Nxg8  1-0

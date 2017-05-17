@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.08"]
+[Round "?"]
+[White "Richmondpunk"]
+[Black "JamesQuintero"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "851"]
+[BlackElo "875"]
+[TimeControl "600"]
+[EndTime "20:50:20 PDT"]
+[Termination "Richmondpunk won by resignation"]
+[CurrentPosition "r3kb1r/pp1b3p/2p2pn1/7Q/3P4/3BB3/PPP2PNP/2KR3R b kq - 0 15"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 { C55: Italian Game: Two Knights, Open } 4...d5 { (+0.01 → +0.95) Inaccuracy. A better move was 4... exd4. } ( 4...exd4 5.e5 5...d5 6.Bb5 6...Ne4 7.Nxd4 7...Bd7 8.Bxc6 8...bxc6 9.O-O ) 5.exd5 Nxd5 6.Nxe5 Nce7 { (+0.98 → +2.90) Mistake. The best move was 6... Nxe5. } ( 6...Nxe5 7.dxe5 7...Be6 8.O-O 8...c6 9.Nd2 9...Be7 10.Nf3 10...O-O 11.Qe2 ) 7.Nc3 f6 { (+2.26 → +5.06) Mistake. The best move was 7... Be6. } ( 7...Be6 8.O-O 8...Nxc3 9.Bxe6 9...fxe6 10.bxc3 10...Ng6 11.Re1 11...Nxe5 12.Rxe5 ) 8.Qh5+ g6 9.Nxg6 Nxg6 10.Nxd5 c6 11.Nf4 { (+5.96 → +3.16) Mistake. The best move was 11. Qe2+. } ( 11.Qe2+ 11...Kd7 12.Qg4+ 12...Ke8 13.Qe4+ 13...Ne5 14.Ne3 14...Qe7 15.dxe5 15...Qxe5 ) 11...Qe7+ 12.Be3 { (+3.25 → +2.02) Inaccuracy. A better move was 12. Kf1. } ( 12.Kf1 12...Qg7 13.Bd2 13...Kd8 14.Re1 14...Bd6 15.Nd3 15...Re8 16.Rxe8+ 16...Kxe8 ) 12...Qe4 { (+2.60 → +6.86) Mistake. The best move was 12... Qb4+. } ( 12...Qb4+ 13.Bd2 13...Qxc4 14.Nxg6 14...Bg4 15.Qxg4 15...hxg6 16.Qxg6+ 16...Kd7 17.Qg4+ ) 13.O-O-O { (+7.04 → +4.30) Mistake. The best move was 13. Bd3. } ( 13.Bd3 13...Qe7 14.Nxg6 14...Qf7 15.O-O 15...Be6 16.Nf4 16...Qxh5 17.Nxh5 17...Kf7 ) 13...Bd7 { (+4.22 → +7.39) Inaccuracy. A better move was 13... Qf5. } ( 13...Qf5 14.d5 14...b5 15.Be2 15...Bd6 16.Nxg6 16...Qxh5 17.Bxh5 17...hxg6 18.Bxg6+ ) 14.Bd3 Qxg2 { (+8.18 → +16.39) Inaccuracy. A better move was 14... Qe7. } ( 14...Qe7 15.Nxg6 15...Qf7 16.d5 16...cxd5 17.Qh4 17...hxg6 18.Qxh8 18...O-O-O 19.Qh4 ) 15.Nxg2  1-0

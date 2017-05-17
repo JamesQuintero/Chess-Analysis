@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.06"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "MusS111000"]
+[Result "0-1"]
+[ECO "C21"]
+[WhiteElo "865"]
+[BlackElo "922"]
+[TimeControl "600"]
+[EndTime "13:37:28 PST"]
+[Termination "MusS111000 won by checkmate"]
+[CurrentPosition "r1b1k2r/ppQp1ppp/2n5/8/4nB2/6P1/PPP1Bq2/RN3KN1 w kq - 0 12"]
+
+1.e4 e5 2.d4 { C21: Center Game } 2...Qh4 { (+0.13 → +1.05) Inaccuracy. A better move was 2... exd4. } ( 2...exd4 3.Nf3 3...Bb4+ 4.c3 4...dxc3 5.Nxc3 5...Qe7 6.Bd2 6...Nf6 7.e5 ) 3.g3 { (+1.26 → -4.99) Blunder. The best move was 3. Bd3. } ( 3.Bd3 3...exd4 4.Nf3 4...Qe7 5.O-O 5...d6 6.Nxd4 6...Nc6 7.Nxc6 7...bxc6 ) 3...Qxe4+ 4.Be2 Qxh1 5.Kf1 Qxh2 6.dxe5 Nc6 7.Bf4 Bd6 { (-7.73 → -1.00) Blunder. The best move was 7... Bc5. } ( 7...Bc5 8.Be3 8...Bxe3 9.fxe3 9...Qxg3 10.Nc3 10...Nge7 11.Nd5 11...Qxe5 12.Nxe7 ) 8.exd6 cxd6 9.Qd5 { (-0.75 → -2.00) Inaccuracy. A better move was 9. Bxd6. } ( 9.Bxd6 9...Nge7 10.Bf3 10...O-O 11.Na3 11...Qh6 12.Qd3 12...Qf6 13.Re1 13...Rd8 ) 9...Nf6 10.Qxd6 { (-2.24 → -13.55) Blunder. The best move was 10. Qg2. } ( 10.Qg2 10...Qxg2+ 11.Kxg2 11...b6 12.Nc3 12...Nd4 13.Bf3 13...Nxf3 14.Nxf3 14...O-O ) 10...Ne4 11.Qc7 { (-14.17 → ♚ Mate in 1) Mistake. The best move was 11. Be3. } ( 11.Be3 11...Nxd6 12.Nd2 12...Nf5 13.Bf4 13...O-O 14.Bf3 14...b6 15.Re1 15...Nfd4 ) 11...Qxf2#  0-1

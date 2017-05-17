@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.12"]
+[Round "?"]
+[White "PCHESSTER"]
+[Black "JamesQuintero"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "937"]
+[BlackElo "923"]
+[TimeControl "600"]
+[EndTime "14:31:19 PDT"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "2r3k1/5p1p/6P1/p3p3/3q4/PP1P1P2/1KP3P1/3R3R w - - 3 32"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 { C24: Bishop's Opening: Berlin Defense, 3.d3 } 3...g6 { (-0.05 → +0.82) Inaccuracy. A better move was 3... c6. } ( 3...c6 4.Qe2 4...Be7 5.Nf3 5...d5 6.exd5 6...cxd5 7.Bb5+ 7...Bd7 8.Bxd7+ ) 4.Bg5 { (+0.87 → +0.32) Inaccuracy. A better move was 4. Nf3. } ( 4.Nf3 4...c6 5.Nc3 5...b5 6.Bb3 6...d6 7.Ng5 7...d5 8.exd5 8...cxd5 ) 4...Be7 5.Bxf6 { (+0.66 → -0.16) Inaccuracy. A better move was 5. Nf3. } ( 5.Nf3 5...d6 6.O-O 6...Nc6 7.Nc3 7...h6 8.Be3 8...Ng4 9.Bc1 9...f5 ) 5...Bxf6 6.Qf3 Qe7 7.Nc3 O-O { (-0.34 → +5.06) Blunder. The best move was 7... c6. } ( 7...c6 8.a4 8...d6 9.h4 9...h5 10.Qg3 10...Nd7 11.Nf3 11...Nc5 12.Ng5 ) 8.Nd5 Qd8 9.Nxf6+ { (+4.71 → +3.36) Inaccuracy. A better move was 9. Qxf6. } ( 9.Qxf6 9...Qxf6 10.Nxf6+ 10...Kg7 11.Nd5 11...b5 12.Nxc7 12...bxc4 13.Nxa8 13...Na6 ) 9...Kg7 10.Ng4 d5 11.exd5 Bxg4 12.Qxg4 c6 13.Qe4 Qf6 14.dxc6 Nxc6 15.f3 Rfe8 16.O-O-O a6 17.a3 Na5 18.Bd5 Rad8 19.Bxb7 { (+5.30 → +2.38) Blunder. The best move was 19. Ne2. } ( 19.Ne2 19...Qb6 20.g4 20...Nc6 21.Rde1 21...Ne7 22.Nc3 22...Nxd5 23.Nxd5 23...Qc5 ) 19...Nxb7 { (+1.75 → +3.17) Inaccuracy. A better move was 19... Rd4. } ( 19...Rd4 20.Qe3 20...Nxb7 21.Ne2 21...Rd7 22.h4 22...Nd6 23.g4 23...Rb7 24.Nc3 ) 20.Qxb7 Rb8 21.Qe4 Kg8 22.b3 Qg5+ 23.Kb2 a5 24.h4 Qe7 25.Ne2 Qc5 26.Nc3 { (+6.66 → +3.74) Mistake. The best move was 26. h5. } ( 26.h5 26...Kg7 27.Rd2 27...Rec8 28.d4 28...exd4 29.Qxd4+ 29...Qxd4+ 30.Rxd4 30...Rd8 ) 26...Rec8 27.Qc4 Qf2 { (+3.88 → +5.82) Inaccuracy. A better move was 27... Qe7. } ( 27...Qe7 28.Qe4 28...Qc5 29.Qe1 29...Rc6 30.f4 30...f6 31.fxe5 31...Rbc8 32.Ne4 ) 28.h5 { (+6.05 → +0.53) Blunder. The best move was 28. Ne4. } ( 28.Ne4 28...Qxg2 29.Rdg1 29...Rxc4 30.Rxg2 30...Rc6 31.h5 31...Kg7 32.hxg6 32...fxg6 ) 28...Rxc4 29.hxg6 { (+0.77 → ♚ Mate in 7) Blunder. The best move was 29. dxc4. } ( 29.dxc4 29...Qxg2 30.Rhe1 30...Re8 31.hxg6 31...hxg6 32.Rd3 32...Qg3 33.Re2 33...Kg7 ) 29...Rxc3 30.Kxc3 Rc8+ 31.Kb2 Qd4+ { (♚ Mate in 4 → -5.44) Missed mate. Checkmate after 31... Rxc2+ . } ( 31...Rxc2+ 32.Kb1 32...Rb2+ 33.Ka1 33...Ra2+ 34.Kb1 34...Qc2# )  0-1

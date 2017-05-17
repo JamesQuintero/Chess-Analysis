@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.15"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "smzavagli"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1250"]
+[BlackElo "1125"]
+[TimeControl "600"]
+[EndTime "1:20:52 PST"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "5B2/1k6/2p1Q3/p7/1r2R3/1P6/1PK2PPP/8 w - - 2 28"]
+
+1.e4 d5 2.exd5 Qxd5 { B01: Scandinavian Defense: Mieses-Kotroc Variation } 3.Qf3 { (+0.87 → -0.24) Inaccuracy. A better move was 3. Nc3. } ( 3.Nc3 3...Qa5 4.d4 4...Bf5 5.Nf3 5...Nf6 6.Bc4 6...e6 7.O-O 7...Bb4 ) 3...Nf6 4.Nc3 g6 { (-0.09 → +10.98) Blunder. The best move was 4... Qe6+. } ( 4...Qe6+ 5.Qe3 5...Nc6 6.Bb5 6...Qxe3+ 7.dxe3 7...e5 8.Nf3 8...Bd6 9.e4 ) 5.Nxd5 Nxd5 6.Qxd5 e6 7.Qe5 Nc6 8.Qxh8 Nd4 9.Qxh7 Nxc2+ 10.Kd1 Nxa1 11.Bb5+ c6 12.Ba4 b5 13.Bb3 Bd7 14.Nf3 O-O-O 15.Ne5 Nxb3 16.axb3 f6 17.Nxd7 Rxd7 18.Qxg6 Bb4 19.Qxf6 Bxd2 20.Bxd2 Rd3 { (+53.15 → ♔ Mate in 9) Mistake. The best move was 20... Kb7. } ( 20...Kb7 21.Kc2 21...a5 22.Qxe6 22...Rc7 23.Bf4 23...Rh7 24.Qg8 24...Rd7 25.Qb8+ ) 21.Qxe6+ Kb7 22.Re1 { (♔ Mate in 7 → ♔ Mate in 8) Excellent. Faster mate A better move was 22. Kc2. } ( 22.Kc2 22...c5 23.Kxd3 23...c4+ 24.Ke4 24...a6 25.Bf4 25...cxb3 26.Qd7+ 26...Ka8 27.Qc8+ 27...Ka7 28.Be3# ) 22...Rd4 23.Kc2 { (♔ Mate in 6 → ♔ Mate in 6) Excellent. Faster mate A better move was 23. Qe8. } ( 23.Qe8 23...Rd5 24.Re6 24...a5 25.Qxc6+ 25...Kb8 26.Re8+ 26...Rd8 27.Rxd8+ 27...Ka7 28.Be3# ) 23...b4 24.Re4 { (♔ Mate in 6 → ♔ Mate in 7) Excellent. Faster mate A better move was 24. Qe7+. } ( 24.Qe7+ 24...Ka6 25.Be3 25...Rc4+ 26.bxc4 26...c5 27.Bxc5 27...b3+ 28.Kxb3 28...Ka5 29.Qxa7# ) 24...Rd5 25.Bxb4 { (♔ Mate in 5 → ♔ Mate in 6) Excellent. Faster mate A better move was 25. Rxb4+. } ( 25.Rxb4+ 25...Rb5 26.Qd7+ 26...Kb6 27.Be3+ 27...c5 28.Rxb5+ 28...Ka6 29.Qc6# ) 25...Rb5 26.Bc5 { (♔ Mate in 5 → ♔ Mate in 11) Excellent. Faster mate A better move was 26. Qd7+. } ( 26.Qd7+ 26...Kb6 27.Re7 27...Rc5+ 28.Kb1 28...Rc1+ 29.Kxc1 29...Kb5 30.Qb7# ) 26...a5 27.Bf8 { (♔ Mate in 2 → ♔ Mate in 6) Excellent. Faster mate A better move was 27. Qd7+. } ( 27.Qd7+ 27...Kb8 28.Re8# ) 27...Rb4  1-0

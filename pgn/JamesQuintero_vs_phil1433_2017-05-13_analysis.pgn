@@ -1,0 +1,15 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.13"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "phil1433"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "917"]
+[BlackElo "914"]
+[TimeControl "600"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "1n3k2/3P2pp/pp6/5p2/2P1p1n1/4P1P1/PP3PBP/3RK2R b K - 0 21"]
+
+1.e3 e5 2.d4 { A40: Englund Gambit Declined: Reversed French Variation } 2...e4 3.d5 Bd6 4.Nc3 Nf6 5.Nge2 O-O 6.g3 c5 7.Bd2 a6 8.Bg2 Ng4 { (+0.18 → +2.63) Mistake. The best move was 8... Re8. } ( 8...Re8 9.g4 9...h6 10.h4 10...Nxg4 11.Nxe4 11...Be5 12.d6 12...Nc6 13.Bc3 ) 9.Nxe4 Be5 10.c3 f5 { (+2.05 → +3.31) Inaccuracy. A better move was 10... Qe7. } ( 10...Qe7 11.f4 11...f5 12.h3 12...Nf6 13.Nf2 13...Bc7 14.g4 14...g6 15.O-O ) 11.Nxc5 b6 12.Nd3 d6 13.Nd4 Ra7 14.Nxe5 { (+4.04 → +2.34) Mistake. The best move was 14. Ne6. } ( 14.Ne6 14...Bxe6 15.dxe6 15...Re7 16.f4 16...Bf6 17.O-O 17...Nh6 18.h3 18...Rxe6 ) 14...dxe5 15.Ne6 Bxe6 16.dxe6 Re7 { (+1.66 → +2.85) Inaccuracy. A better move was 16... e4. } ( 16...e4 17.f4 17...Qd6 18.Bxe4 18...Qxe6 19.Bc2 19...Nxe3 20.Bxe3 20...Qxe3+ 21.Qe2 ) 17.c4 e4 18.Bb4 Qxd1+ 19.Rxd1 Rd7 { (+3.91 → +11.39) Mistake. The best move was 19... Rxe6. } ( 19...Rxe6 20.Bxf8 20...Kxf8 21.Rd8+ 21...Re8 22.Rd6 22...Ne5 23.Rxb6 23...Nxc4 24.Rb7 ) 20.Bxf8 { (+11.53 → +4.30) Blunder. The best move was 20. exd7. } ( 20.exd7 20...Rd8 21.Bd6 21...Rxd7 22.h3 22...Nxf2 23.Kxf2 23...Nc6 24.g4 24...g6 ) 20...Kxf8 { (+4.50 → +15.48) Mistake. The best move was 20... Rxd1+. } ( 20...Rxd1+ 21.Kxd1 21...Kxf8 22.Ke2 22...Ne5 23.c5 23...bxc5 24.Rc1 24...c4 25.g4 ) 21.exd7  1-0

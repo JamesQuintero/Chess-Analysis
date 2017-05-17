@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.11.06"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "pavud"]
+[Result "1-0"]
+[ECO "C20"]
+[WhiteElo "913"]
+[BlackElo "805"]
+[TimeControl "600"]
+[EndTime "13:23:54 PST"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "5rk1/p1p2ppQ/2Np3p/2P5/8/2qBB3/5PPP/1K1b3R b - - 4 22"]
+
+1.e4 e5 2.c4 { C20: King's Pawn Opening: The Whale Variation } 2...Nf6 3.d3 h6 4.Nf3 Nc6 5.Be3 Bb4+ 6.Nc3 O-O 7.Qa4 Bxc3+ 8.bxc3 d6 9.d4 { (-0.10 → -1.10) Inaccuracy. A better move was 9. Be2. } ( 9.Be2 9...Bd7 10.Qc2 10...b6 11.O-O 11...Ne7 12.d4 12...Ng6 13.Bd3 13...c5 ) 9...Nxe4 10.d5 Nxc3 { (-1.51 → +0.47) Mistake. The best move was 10... Ne7. } ( 10...Ne7 11.Bd3 11...Nf6 12.Qc2 12...Bd7 13.O-O 13...c6 14.dxc6 14...Bxc6 15.Nd2 ) 11.Qb3 Ne4 12.dxc6 bxc6 13.O-O-O { (+0.80 → -0.51) Mistake. The best move was 13. Rb1. } ( 13.Rb1 ) 13...Bd7 14.c5 Be6 { (-0.99 → -0.39) Inaccuracy. A better move was 14... Qe7. } ( 14...Qe7 15.Nd2 15...Nxd2 16.Rxd2 16...d5 17.Rb2 17...Bf5 18.Bd3 18...Bxd3 19.Qxd3 ) 15.Qb4 Bxa2 { (-1.01 → +2.58) Blunder. The best move was 15... f5. } ( 15...f5 16.Bd3 16...a5 17.Qa3 17...Qf6 18.cxd6 18...cxd6 19.Bxe4 19...fxe4 20.Nd2 ) 16.Nxe5 { (+2.53 → -1.19) Blunder. The best move was 16. Qxe4. } ( 16.Qxe4 16...Bd5 17.Rxd5 17...cxd5 18.Qxd5 18...a5 19.Bc4 19...a4 20.Kc2 20...a3 ) 16...Rb8 { (-1.28 → +1.10) Blunder. The best move was 16... Bd5. } ( 16...Bd5 17.Rxd5 17...cxd5 18.Nc6 18...a5 19.Qa3 19...Qf6 20.Bd4 20...Qe6 21.cxd6 ) 17.Qxe4 Rb1+ 18.Kc2 { (+1.00 → -0.71) Mistake. The best move was 18. Kd2. } ( 18.Kd2 18...Rxd1+ 19.Kxd1 19...dxe5+ 20.Kc1 20...Bb3 21.Be2 21...Qe8 22.Bc4 22...Bxc4 ) 18...Bb3+ { (-0.67 → +7.28) Blunder. The best move was 18... Qb8. } ( 18...Qb8 19.Bb5 19...Rxb5 20.Nxc6 20...Rb2+ 21.Kc1 21...Qb3 22.Bd4 22...f5 23.Qd5+ ) 19.Kxb1 Bxd1 20.Nxc6 Qf6 21.Bd3 Qc3 { (+13.15 → ♔ Mate in 1) Mistake. The best move was 21... g6. } ( 21...g6 22.Rxd1 22...Kh7 23.Kc2 23...a6 24.Bxa6 24...Qg7 25.cxd6 25...cxd6 26.Bc4 ) 22.Qh7#  1-0

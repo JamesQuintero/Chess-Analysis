@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.14"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "flying_scrawny"]
+[Result "1-0"]
+[ECO "C25"]
+[WhiteElo "936"]
+[BlackElo "992"]
+[TimeControl "600"]
+[EndTime "18:55:40 PDT"]
+[Termination "JamesQuintero won - game abandoned"]
+[CurrentPosition "rnb1k1nr/ppNp1ppp/4q3/8/1b1pP3/5N2/PPPB1PPP/R2QKB1R b KQkq - 0 7"]
+
+1.e4 e5 2.Nc3 Bc5 { C25: Vienna Game: Anderssen Defense } 3.Nf3 Qf6 { (-0.01 → +1.92) Mistake. The best move was 3... d6. } ( 3...d6 4.Na4 4...Bb6 5.Bc4 5...Nf6 6.Nxb6 6...axb6 7.d3 7...Nc6 8.a3 ) 4.d4 Bb4 5.Bd2 exd4 6.Nd5 Qe6 { (+2.09 → +15.56) Mistake. The best move was 6... Bxd2+. } ( 6...Bxd2+ 7.Qxd2 7...Qd8 8.Qxd4 8...f6 9.e5 9...Nc6 10.Qg4 10...Kf8 11.exf6 ) 7.Nxc7+  1-0

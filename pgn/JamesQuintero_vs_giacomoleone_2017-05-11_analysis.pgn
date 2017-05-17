@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.11"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "giacomoleone"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "914"]
+[BlackElo "963"]
+[TimeControl "600"]
+[EndTime "0:47:23 PDT"]
+[Termination "giacomoleone won by resignation"]
+[CurrentPosition "6k1/p5pp/1p4b1/5p2/P7/1P1K3P/8/2r5 w - - 0 35"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 { C45: Scotch Game: Classical Variation } 5.Nf3 Nf6 6.Nc3 { (-0.14 → -1.79) Mistake. The best move was 6. Bd3. } ( 6.Bd3 6...O-O 7.O-O 7...d6 8.Nc3 8...a6 9.h3 9...Re8 10.Re1 10...Bd7 ) 6...Bxf2+ { (-1.57 → +2.48) Blunder. The best move was 6... Ng4. } ( 6...Ng4 7.Bc4 7...Bxf2+ 8.Kf1 8...O-O 9.h3 9...Ne3+ 10.Bxe3 10...Bxe3 11.e5 ) 7.Kxf2 Ng4+ 8.Ke1 O-O 9.h3 Nge5 10.b3 Nxf3+ 11.Qxf3 Nd4 12.Qd3 Qh4+ 13.g3 Nxc2+ { (+3.00 → +6.20) Mistake. The best move was 13... Qf6. } ( 13...Qf6 14.Bg2 14...Nc6 15.Rf1 15...Qd8 16.Nd5 16...d6 17.Qc3 17...f6 18.Bb2 ) 14.Qxc2 { (+6.20 → +4.36) Inaccuracy. A better move was 14. Kd1. } ( 14.Kd1 14...Qf6 15.Kxc2 15...b5 16.Ba3 16...Re8 17.Be2 17...a5 18.Raf1 18...Qg6 ) 14...Qxg3+ 15.Kd1 { (+4.54 → -0.18) Blunder. The best move was 15. Ke2. } ( 15.Ke2 15...b6 16.Be3 16...f5 17.Kd2 17...Kh8 18.Qd3 18...c5 19.Rg1 19...Qe5 ) 15...Qf3+ 16.Qe2 Qxh1 17.Qg2 Qxg2 18.Bxg2 d6 19.Bf4 Be6 { (-0.52 → +0.18) Inaccuracy. A better move was 19... Bd7. } ( 19...Bd7 ) 20.e5 { (+0.15 → -2.06) Mistake. The best move was 20. Nb5. } ( 20.Nb5 20...Rfd8 21.Nxc7 21...Rac8 22.Rc1 22...Bd7 23.Nd5 23...Rxc1+ 24.Kxc1 24...f6 ) 20...dxe5 21.Bxe5 Rad8+ 22.Kc2 Bf5+ 23.Kb2 { (-2.55 → -4.36) Inaccuracy. A better move was 23. Be4. } ( 23.Be4 23...Bxe4+ 24.Nxe4 24...Rfe8 25.Bf6 25...Rd7 26.Re1 26...Rxe4 27.Rxe4 27...gxf6 ) 23...Rd2+ 24.Ka3 Rxg2 25.Rf1 Bg6 26.Bxc7 Rc8 27.Nb5 { (-4.04 → -6.60) Inaccuracy. A better move was 27. Nd5. } ( 27.Nd5 27...Re8 28.Bf4 28...f6 29.Ne3 29...Re2 30.Nc4 30...R8e6 31.Rd1 31...Be8 ) 27...Rg5 28.Rc1 Rxb5 29.Bf4 Rxc1 30.Bxc1 Ra5+ 31.Kb4 b6 32.a4 f5 33.Kc4 { (-7.73 → -23.59) Inaccuracy. A better move was 33. Bg5. } ( 33.Bg5 33...Rc5 34.h4 34...Bf7 35.h5 35...a5+ 36.Ka3 36...Rc3 37.Kb2 37...Rg3 ) 33...Rc5+ 34.Kd3 Rxc1  0-1
