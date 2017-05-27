@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.26"]
+[Round "?"]
+[White "rommel3333"]
+[Black "JamesQuintero"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "945"]
+[BlackElo "974"]
+[TimeControl "600"]
+[EndTime "19:28:53 PDT"]
+[Termination "JamesQuintero won by checkmate"]
+[CurrentPosition "4r2k/1Qp3p1/p2q4/PbK3bP/3P4/8/1PP3P1/R7 w - - 5 32"]
+
+1.h4 e5 { A00: Kadas Opening: 1...e5 } 2.h5 h6 3.a4 { (-0.35 → -1.31) Inaccuracy. A better move was 3. e4. } ( 3.e4 3...Nf6 4.Nc3 4...d5 5.exd5 5...Nxd5 6.Bc4 6...Nb6 7.Bb5+ 7...c6 ) 3...d5 4.a5 a6 5.Nf3 Nc6 6.d4 e4 7.Ne5 Bd7 { (-1.13 → -0.53) Inaccuracy. A better move was 7... Nxe5. } ( 7...Nxe5 8.dxe5 8...Ne7 9.c3 9...Nc6 10.Bf4 10...Be7 11.e3 11...O-O 12.Be2 ) 8.Nxc6 Bxc6 9.Bf4 Nf6 10.e3 Bd6 11.f3 { (-0.28 → -1.98) Mistake. The best move was 11. Bxd6. } ( 11.Bxd6 11...Qxd6 12.c4 12...O-O 13.c5 13...Qd7 14.Nc3 14...Qf5 15.Be2 15...Bd7 ) 11...exf3 { (-2.03 → -1.17) Inaccuracy. A better move was 11... Bxf4. } ( 11...Bxf4 12.exf4 12...O-O 13.Be2 13...Qd6 14.Qd2 14...Rfe8 15.Ra3 15...Bb5 16.Bxb5 ) 12.Qxf3 Ne4 13.Bd3 Qe7 14.Bxe4 dxe4 15.Qg4 O-O 16.Bxh6 { (+0.02 → -2.69) Blunder. The best move was 16. Nc3. } ( 16.Nc3 16...f5 17.Qg3 17...Bxf4 18.Qxf4 18...Rf7 19.Kd2 19...Qd7 20.Kc1 20...b5 ) 16...Qf6 { (-2.73 → +0.86) Blunder. The best move was 16... f5. } ( 16...f5 17.Qg6 17...Be8 18.Qg5 18...Rf6 19.Nc3 19...Bc6 20.Bxg7 20...Qxg7 21.Qxg7+ ) 17.Bg5 Qe6 18.Qh4 Bd7 { (+1.28 → +2.45) Inaccuracy. A better move was 18... Kh7. } ( 18...Kh7 19.Bf4 19...Be7 20.Qg3 20...Bb5 21.Nd2 21...Rg8 22.Bxc7 22...Rac8 23.Qf4 ) 19.Nd2 { (+2.93 → +1.20) Mistake. The best move was 19. h6. } ( 19.h6 19...Qg6 20.hxg7 20...Qxg7 21.Nc3 21...f6 22.Bf4 22...Bxf4 23.Qxf4 23...Bg4 ) 19...f6 20.Nxe4 { (+1.09 → -9.29) Blunder. The best move was 20. Bf4. } ( 20.Bf4 20...Rae8 21.Qg3 21...Rc8 22.c3 22...Rf7 23.Bxd6 23...cxd6 24.Qg6 24...f5 ) 20...fxg5 21.Nxg5 Qxe3+ 22.Kd1 Be7 { (-22.88 → -9.26) Mistake. The best move was 22... Rf2. } ( 22...Rf2 23.Qxf2 23...Qxf2 24.h6 24...gxh6 25.Ne4 25...Qxg2 26.Nf6+ 26...Kf7 27.Rh4 ) 23.Re1 Qxg5 24.Qe4 { (-9.62 → -23.37) Inaccuracy. A better move was 24. Qxg5. } ( 24.Qxg5 24...Bxg5 25.Re5 25...Rf1+ 26.Ke2 26...Rxa1 27.Rxg5 27...Re8+ 28.Kf3 28...Rf8+ ) 24...Qg4+ { (-23.74 → -8.70) Mistake. The best move was 24... Bg4+. } ( 24...Bg4+ 25.Qxg4 25...Qxg4+ 26.Kc1 26...Bh4 27.Kb1 27...Bxe1 28.Ka2 28...Bxa5 29.g3 ) 25.Kd2 Bg5+ { (-16.71 → -10.05) Mistake. The best move was 25... Bb4+. } ( 25...Bb4+ 26.c3 26...Qg5+ 27.Qe3 27...Rf2+ 28.Re2 28...Rxe2+ 29.Kxe2 29...Qxg2+ 30.Kd1 ) 26.Kc3 Rae8 27.Qd5+ Kh8 28.Rxe8 Rxe8 29.Qxb7 { (-22.40 → ♚ Mate in 4) Mistake. The best move was 29. b3. } ( 29.b3 29...Re3+ 30.Kb2 30...Be6 31.Qe5 31...Rxe5 32.dxe5 32...Qd4+ 33.Kb1 33...Qd2 ) 29...Qg3+ { (♚ Mate in 4 → ♚ Mate in 9) Excellent. Faster mate A better move was 29... Re3+. } ( 29...Re3+ 30.Kc4 30...Bb5+ 31.Qxb5 31...Qe2+ 32.Kb4 32...Qxb5# ) 30.Kc4 Bb5+ 31.Kc5 Qd6#  0-1

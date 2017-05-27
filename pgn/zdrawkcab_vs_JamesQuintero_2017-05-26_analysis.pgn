@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.26"]
+[Round "?"]
+[White "zdrawkcab"]
+[Black "JamesQuintero"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "904"]
+[BlackElo "966"]
+[TimeControl "600"]
+[EndTime "19:05:26 PDT"]
+[Termination "JamesQuintero won on time"]
+[CurrentPosition "r3k2r/ppq3pp/2p1b3/3n1P2/1P1PpP1b/P1p1P2P/2P1K3/R1BQ1BR1 b kq - 0 19"]
+
+1.d3 e5 { A00: Mieses Opening: Reversed Rat Variation } 2.a3 d5 3.h3 Nc6 4.e3 f5 5.Qf3 { (-0.24 → -1.23) Inaccuracy. A better move was 5. Nf3. } ( 5.Nf3 5...Bd6 6.c4 6...dxc4 7.dxc4 7...e4 8.Nd4 8...Nge7 9.b4 9...Be5 ) 5...Nf6 6.b4 e4 7.Qe2 Ne5 8.d4 Nc4 9.Nd2 Be6 10.Qd1 c6 11.Nxc4 dxc4 12.f4 { (-1.46 → -2.48) Inaccuracy. A better move was 12. c3. } ( 12.c3 12...Bd6 13.Ne2 13...a5 14.Bd2 14...O-O 15.Nf4 15...Bf7 16.h4 16...b5 ) 12...c3 13.Ne2 Nd5 14.g3 Be7 15.g4 { (-1.65 → -17.12) Mistake. The best move was 15. Rb1. } ( 15.Rb1 15...b5 16.Rb3 16...a5 17.Nxc3 17...axb4 18.Nxd5 18...Bxd5 19.Rxb4 19...Bxb4+ ) 15...Bh4+ 16.Ng3 Bxg3+ 17.Ke2 Qc7 { (-22.65 → -13.12) Mistake. The best move was 17... Qh4. } ( 17...Qh4 18.Rb1 18...Nxf4+ 19.exf4 19...Bc4+ 20.Qd3 20...exd3+ 21.cxd3 21...Bd5 22.Kd1 ) 18.Rg1 Bh4 { (-19.52 → -10.96) Mistake. The best move was 18... Nxf4+. } ( 18...Nxf4+ 19.exf4 19...Bc4+ 20.Qd3 20...exd3+ 21.Kd1 21...Bf2 22.Rg2 22...Bxd4 23.Bxd3 ) 19.gxf5 Bxf5 20.Rb1 { (-10.62 → -20.35) Inaccuracy. A better move was 20. Bg2. } ( 20.Bg2 20...g5 21.Kf1 21...h5 22.Qe2 22...gxf4 23.Bxe4 23...Bxe4 24.exf4 24...Qe7 ) 20...b5 { (-20.74 → -7.48) Mistake. The best move was 20... Qf7. } ( 20...Qf7 21.Rg5 21...h6 22.Bg2 22...hxg5 23.Kf1 23...gxf4 24.exf4 24...e3 25.Qf3 ) 21.a4 a6 { (-14.52 → -8.44) Mistake. The best move was 21... Qf7. } ( 21...Qf7 22.Rg5 22...Bxg5 23.Kf2 23...Bh4+ 24.Kg1 24...Qg6+ 25.Kh1 25...Bf2 26.Bg2 ) 22.axb5 axb5 { (-16.31 → -9.64) Mistake. The best move was 22... cxb5. } ( 22...cxb5 23.Qe1 23...Bxe1 24.Kxe1 24...Qd8 25.Rg5 25...O-O 26.Kd1 26...h6 27.Rg2 ) 23.Bg2 Be7 { (-11.33 → -7.66) Inaccuracy. A better move was 23... Qf7. } ( 23...Qf7 24.Kf1 24...O-O 25.Bh1 25...Bxh3+ 26.Rg2 26...Qg6 27.Kg1 27...Bxg2 28.Bxg2 ) 24.Kf1 Bxb4  0-1

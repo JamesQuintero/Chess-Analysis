@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.05.26"]
+[Round "?"]
+[White "JamesQuintero"]
+[Black "jonathanrath"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "989"]
+[BlackElo "958"]
+[TimeControl "600"]
+[EndTime "19:52:13 PDT"]
+[Termination "JamesQuintero won by resignation"]
+[CurrentPosition "6k1/Q4p1p/2P1pqp1/p2n4/P2P4/5B2/2P2PPP/5RK1 b - - 0 31"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 { B01: Scandinavian Defense: Mieses-Kotroc, Gubinsky-Melts Defense } 4.Nf3 Nf6 5.Be2 Bg4 6.O-O Bxf3 7.Bxf3 c6 8.Nb5 Qd8 9.Nc3 a6 10.d3 b5 { (+0.31 → +1.20) Inaccuracy. A better move was 10... e6. } ( 10...e6 11.d4 11...Bd6 12.Bg5 12...Nbd7 13.Ne4 13...Bc7 14.c4 14...h6 15.Bh4 ) 11.b3 e6 12.Bg5 Be7 13.Bxf6 { (+0.49 → -0.78) Mistake. The best move was 13. Ne2. } ( 13.Ne2 13...O-O 14.c4 14...bxc4 15.bxc4 15...Qc7 16.d4 16...Nbd7 17.Qa4 17...Rfc8 ) 13...Bxf6 14.Qd2 O-O { (-0.93 → +0.05) Inaccuracy. A better move was 14... b4. } ( 14...b4 15.Na4 15...Bxa1 16.Rxa1 16...a5 17.Rc1 17...O-O 18.c3 18...Qd6 19.Nb6 ) 15.Rad1 b4 16.Ne2 Bc3 { (+0.02 → +1.38) Mistake. The best move was 16... a5. } ( 16...a5 17.d4 17...Qc7 18.c4 18...Rd8 19.Rfe1 19...Nd7 20.Be4 20...Be7 21.Qc2 ) 17.Nxc3 bxc3 18.Qxc3 Qf6 19.Qc4 Rc8 20.b4 Ra7 21.a4 Rac7 22.d4 c5 { (+1.73 → +3.24) Inaccuracy. A better move was 22... Ra7. } ( 22...Ra7 23.Qc5 23...Rb7 24.a5 24...Nd7 25.Qc4 25...Ra7 26.c3 26...Qd8 27.Rfe1 ) 23.bxc5 a5 24.Rb1 Nd7 25.Rb7 Rxb7 26.Bxb7 Rc7 27.Bf3 g6 28.Qc3 { (+4.01 → +0.75) Blunder. The best move was 28. c6. } ( 28.c6 28...Nb6 29.Qc5 29...Nc8 30.Rb1 30...Kg7 31.Rb7 31...Re7 32.Be2 32...Qf5 ) 28...Ra7 { (+0.94 → +4.53) Blunder. The best move was 28... Rxc5. } ( 28...Rxc5 29.Qb2 29...Rc8 30.Rd1 30...Qd8 31.d5 31...exd5 32.Bxd5 32...Qe8 33.c4 ) 29.c6 Nb6 30.Qc5 Nd5 { (+4.58 → +13.39) Mistake. The best move was 30... Nc8. } ( 30...Nc8 31.Rb1 31...Qf4 32.Qc3 32...Qc7 33.g3 33...Nb6 34.Qb3 34...Nc8 35.c4 ) 31.Qxa7  1-0
