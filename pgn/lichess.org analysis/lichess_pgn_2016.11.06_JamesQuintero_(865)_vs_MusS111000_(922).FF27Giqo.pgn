@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/FF27Giqo"]
+[Date "2016.11.06"]
+[Round "-"]
+[White "JamesQuintero (865)"]
+[Black "MusS111000 (922)"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "22"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C21"]
+[Opening "Center Game #2"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. d4 { C21 Center Game #2 } Qh4?! { (-0.21 → 0.77) Inaccuracy. Best move was exd4. } (2... exd4 3. Nf3) 3. g3?? { (0.77 → -5.23) Blunder. Best move was Bd3. } (3. Bd3 exd4 4. Nf3 Qh5 5. c3 dxc3 6. Nxc3 Bb4 7. Qb3 Nc6 8. O-O Bxc3 9. Qxc3 f6) 3... Qxe4+ 4. Be2? { (-4.95 → -6.70) Mistake. Best move was Qe2. } (4. Qe2 Qxh1 5. Nf3 Nc6 6. dxe5 b6 7. Be3 Nb4 8. Nd4 Ne7 9. Nb5 Nbd5 10. c4 a6) 4... Qxh1 5. Kf1 Qxh2 6. dxe5 Nc6 7. Bf4 Bd6?? { (-6.85 → -0.30) Blunder. Best move was Bc5. } (7... Bc5) 8. exd6 cxd6 9. Qd5?! { (-0.58 → -1.41) Inaccuracy. Best move was Bxd6. } (9. Bxd6 Nge7) 9... Nf6 10. Qxd6?? { (-1.08 → -13.04) Blunder. Best move was Qd2. } (10. Qd2) 10... Ne4 11. Qc7?! { (-13.00 → Mate in 1) Checkmate is now unavoidable. Best move was Qc5. } (11. Qc5 Nxc5 12. Nc3 Nd4 13. Rd1 Nxe2 14. Kxe2 b6 15. Be3 Bb7 16. Kd2 O-O-O 17. Kc1 Qh5) 11... Qxf2# { Black wins by checkmate. } 0-1

@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/kGLFq0XH"]
+[Date "2016.11.15"]
+[Round "-"]
+[White "Bullseye4415 (864)"]
+[Black "JamesQuintero (781)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C42"]
+[Opening "Russian Game: Damiano Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 { C42 Russian Game: Damiano Variation } 4. Bc4? { (0.67 → -0.45) Mistake. Best move was Qe2. } (4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5 Nc6 8. Nc3 Qxe5 9. Qxe5+ Nxe5 10. Nb5 Bd6) 4... Nd6? { (-0.45 → 0.74) Mistake. Best move was d5. } (4... d5 5. Be2 Qg5 6. Ng4 Qh4 7. d3 Bxg4 8. dxe4 Bxe2 9. Qxe2 Qxe4 10. Qxe4+ dxe4 11. Nc3) 5. Qh5? { (0.74 → -0.40) Mistake. Best move was Bb3. } (5. Bb3 Nc6 6. d4 Na5 7. O-O Nxb3 8. Re1 Be7 9. axb3 Nf5 10. Qf3 d6 11. Nxf7 Kxf7) 5... g6 6. Qf3? { (-0.36 → -1.54) Mistake. Best move was Qe2. } (6. Qe2 Qe7 7. Nc3 Nc6 8. Nxc6 dxc6 9. Qxe7+ Bxe7 10. Bb3 O-O 11. d3 Re8 12. O-O Bf6) 6... Qf6?? { (-1.54 → 18.48) Blunder. Best move was Qe7. } (6... Qe7 7. Kd1) 7. Qxf6 Nxc4 8. Qxh8 Nxe5 9. Qxe5+ Kd8 10. Qh8 Ke7 11. Nc3 Nc6 12. O-O Nb4?! { (17.62 → Mate in 4) Checkmate is now unavoidable. Best move was d5. } (12... d5 13. Nxd5+ Kd6 14. Qxf8+ Kxd5 15. Qxf7+ Be6 16. Qxc7 b5 17. d3 Rc8 18. Qb7 Bf5 19. Qxb5+) 13. Re1+?! { (Mate in 4 → Mate in 4) Not the best checkmate sequence. Best move was Qe5+. } (13. Qe5+ Kd8 14. Qf6+ Ke8 15. Re1+ Be7 16. Qxe7#) 13... Kd6 14. Qxf8+?! { (Mate in 4 → Mate in 7) Not the best checkmate sequence. Best move was Qe5+. } (14. Qe5+ Kc6 15. Qb5+ Kd6 16. d4 Nxc2 17. Qd5#) 14... Kc6 15. Qxb4 d5 16. Qb5+ Kd6 17. Qxd5# { White wins by checkmate. } 1-0

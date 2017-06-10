@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/prTVrkI1"]
+[Date "2016.11.06"]
+[Round "-"]
+[White "jeffreyemerson (1021)"]
+[Black "JamesQuintero (891)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 Nf6?! { (0.22 → 0.81) Inaccuracy. Best move was e5. } (1... e5) 2. Nc3?! { (0.81 → 0.02) Inaccuracy. Best move was e5. } (2. e5) 2... d5 { B02 Alekhine Defense: Scandinavian Variation } 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Nf3 e5 6. d3 Bg4 7. Be2 Bb4+?! { (-0.18 → 0.55) Inaccuracy. Best move was Nc6. } (7... Nc6 8. O-O O-O-O 9. h3 Bf5 10. a3 Be7 11. b4 Kb8 12. Bb2 Qd6 13. b5 Nd4 14. a4) 8. Bd2?! { (0.55 → -0.29) Inaccuracy. Best move was c3. } (8. c3 Be7 9. O-O Nc6 10. Re1 Be6 11. Be3 O-O 12. d4 exd4 13. Nxd4 Nxd4 14. Bxd4 Rad8) 8... Nc6 9. O-O O-O 10. c3 e4?? { (-0.06 → 3.78) Blunder. Best move was Be7. } (10... Be7 11. Re1 Rfe8 12. Be3 Rad8 13. h3 Bh5 14. Qb3 Qxb3 15. axb3 a6 16. b4 Bg6 17. d4) 11. dxe4 Qxe4 12. cxb4 Nxb4 13. Bxb4 Qxb4 14. Rb1?! { (3.25 → 2.45) Inaccuracy. Best move was Qc2. } (14. Qc2 h6 15. Rfd1 Rae8 16. h3 Be6 17. Nd4 c6 18. Nxe6 Rxe6 19. Rd7 Re7 20. a3 Qh4) 14... Rad8?! { (2.45 → 2.99) Inaccuracy. Best move was Bf5. } (14... Bf5 15. Qe1) 15. Qc2 Rd2?? { (2.90 → 6.14) Blunder. Best move was Qf4. } (15... Qf4) 16. Nxd2 Bxe2 17. Rfe1 Re8?! { (5.82 → 6.65) Inaccuracy. Best move was Bb5. } (17... Bb5 18. Nf3) 18. Qxc7?? { (6.65 → 3.27) Blunder. Best move was Nf1. } (18. Nf1 Bb5 19. Rxe8+ Bxe8 20. Qxc7 Kf8 21. Ne3 Qe7 22. Qc2 Kg8 23. Qc8 h6 24. Rc1 Qe4) 18... Re7?? { (3.27 → Mate in 15) Checkmate is now unavoidable. Best move was Qxd2. } (18... Qxd2 19. Qxb7 a5 20. Rbc1 h6 21. Qc7 Rf8 22. h3 Bh5 23. Qc3 Qxc3 24. bxc3 f6 25. c4) 19. Qd8+ Re8 20. Qxe8+ Qf8 21. Qxe2 f5?! { (16.23 → Mate in 8) Checkmate is now unavoidable. Best move was g6. } (21... g6 22. Qe7) 22. Qe6+ Qf7 23. Qxf7+ Kxf7 24. Re3?! { (Mate in 10 → 17.35) Lost forced checkmate sequence. Best move was Rbc1. } (24. Rbc1 Kf6 25. Rc7 h6 26. Rce7 Kg6 27. R1e6+ Kh7 28. Rxb7 a5 29. Rb8 a4 30. a3 f4) 24... f4 25. Re4 g5?! { (16.90 → Mate in 7) Checkmate is now unavoidable. Best move was b5. } (25... b5 26. Rxf4+) 26. Rbe1 Kg6 27. Re7 g4 28. R1e6+ Kh5 29. Rxh7+?! { (Mate in 4 → Mate in 4) Not the best checkmate sequence. Best move was Rf6. } (29. Rf6 g3 30. Re5+ Kg4 31. f3+ Kh4 32. Rxf4#) 29... Kg5 30. Ne4+ Kf5 31. Rhe7?! { (Mate in 3 → Mate in 3) Not the best checkmate sequence. Best move was Rhh6. } (31. Rhh6 g3 32. Nd6+ Kg5 33. Reg6#) 31... f3 32. g3?! { (Mate in 1 → Mate in 1) Not the best checkmate sequence. Best move was Rf6#. } { White wins. } (32. Rf6#) 1-0

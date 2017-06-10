@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/7a1O2YCb"]
+[Date "2017.05.05"]
+[Round "-"]
+[White "JamesQuintero (819)"]
+[Black "srulrish (729)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "71"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Qf6?! { (0.26 → 0.98) Inaccuracy. Best move was Nc6. } { C40 King's Pawn Game: McConnell Defense } (2... Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d3 Bd6 7. b3 Ne7 8. Bb2 O-O 9. Nbd2) 3. d4 Bb4+? { (0.54 → 1.78) Mistake. Best move was exd4. } (3... exd4) 4. c3 Ba5?! { (1.76 → 2.64) Inaccuracy. Best move was Bd6. } (4... Bd6 5. Be3) 5. Bg5? { (2.64 → 1.56) Mistake. Best move was dxe5. } (5. dxe5 Qg6 6. Bd3 Ne7 7. O-O O-O 8. Nbd2 Nbc6 9. Nc4 b5 10. Nxa5 Nxa5 11. a4 bxa4) 5... Qf4?? { (1.56 → 8.41) Blunder. Best move was Qg6. } (5... Qg6 6. dxe5 Nc6 7. Nbd2 Nxe5 8. Bf4 Nxf3+ 9. Qxf3 d6 10. a4 c6 11. Nc4 Bc7 12. h3) 6. Bxf4 exf4 7. e5 Nc6 8. b4 Bb6 9. Bb5?! { (8.10 → 7.45) Inaccuracy. Best move was Qd2. } (9. Qd2 a5 10. b5 Nd8 11. c4 Ne7 12. c5 Ba7 13. Qxa5 Nd5 14. Bc4 b6 15. cxb6 Nxb6) 9... a6 10. Bxc6 dxc6 11. Nbd2?! { (7.72 → 7.22) Inaccuracy. Best move was c4. } (11. c4 Ne7 12. Qd2 O-O 13. c5 Ba7 14. Nc3 Bb8 15. Qxf4 f6 16. a4 Nd5 17. Nxd5 cxd5) 11... Bf5 12. h3 f6?! { (7.22 → 7.82) Inaccuracy. Best move was Ne7. } (12... Ne7 13. Nc4 Be6 14. Nxb6 cxb6 15. Ng5 O-O 16. Qd2 Bd5 17. Qxf4 Bxg2 18. Rg1 Ng6 19. Qg4) 13. g4?! { (7.82 → 7.08) Inaccuracy. Best move was O-O. } (13. O-O O-O-O 14. Nc4 Ne7 15. Nh4 Bd7 16. exf6 gxf6 17. Nxb6+ cxb6 18. Qd2 b5 19. Qxf4 Nd5) 13... Bd3?! { (7.08 → 7.76) Inaccuracy. Best move was fxg3. } (13... fxg3 14. fxg3) 14. Nb3 Bc4 15. Nc5 O-O-O 16. Nd2 fxe5?? { (6.98 → 10.68) Blunder. Best move was Bd5. } (16... Bd5 17. O-O Bxc5 18. dxc5 fxe5 19. Re1 Ne7 20. Rxe5 Ng6 21. Re1 Bf7 22. a4 Kb8 23. f3) 17. Nxc4 Bxc5 18. bxc5 exd4 19. cxd4 Nf6 20. Qf3 Rd5 21. Qxf4 Re8+ 22. Kf1 b5 23. Na5 Re4 24. Qf3 Rexd4 25. Kg2 Rd3 26. Qe2 R3d4 27. Rad1 Rxd1?! { (12.25 → Mate in 7) Checkmate is now unavoidable. Best move was Re4. } (27... Re4 28. Qf3) 28. Rxd1 Rxd1 29. Qxd1 Nd5 30. Nxc6 Nf4+ 31. Kh2 Ne6 32. Qd5 Nf8 33. Qd8+ Kb7 34. Na5+ Ka7 35. Qxc7+ Ka8 36. Qb7# { White wins by checkmate. } 1-0

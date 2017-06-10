@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/ZB85s61U"]
+[Date "2016.09.30"]
+[Round "-"]
+[White "JamesQuintero (996)"]
+[Black "gnehdalachica (1004)"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "34"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 d6 3. d4 { C41 Philidor Defense } a5?! { (0.31 → 1.30) Inaccuracy. Best move was exd4. } (3... exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Be2 O-O 7. Bf4 Nc6 8. h3 Nd7 9. O-O Nxd4 10. Qxd4) 4. d5?! { (1.30 → 0.40) Inaccuracy. Best move was dxe5. } (4. dxe5 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 dxe5 8. Qxd8+ Rxd8 9. Nxe5 Bd6 10. Nxc6 bxc6) 4... b5? { (0.40 → 1.68) Mistake. Best move was Nf6. } (4... Nf6 5. Bd3 Na6 6. c4 Nc5 7. Nc3 Nxd3+ 8. Qxd3 Be7 9. O-O O-O 10. h3 c6 11. Be3) 5. Nc3? { (1.68 → 0.23) Mistake. Best move was Bxb5+. } (5. Bxb5+ Bd7) 5... b4 6. Na4 Bd7 7. Bg5? { (0.43 → -1.94) Mistake. Best move was c4. } (7. c4 Nf6) 7... f6 8. Bh4?! { (-1.82 → -2.77) Inaccuracy. Best move was Bd2. } (8. Bd2 Bxa4 9. a3 bxa3 10. Rxa3 Bd7 11. Bxa5 Qc8 12. b4 Be7 13. Rc3 Na6 14. h3 Nh6) 8... Bxa4 9. b3?! { (-2.70 → -3.24) Inaccuracy. Best move was a3. } (9. a3 bxa3) 9... Bd7 10. Bc4 g5?? { (-3.26 → -0.20) Blunder. Best move was Be7. } (10... Be7 11. a3 bxa3 12. Rxa3 f5 13. Bxe7 Nxe7 14. exf5 Bxf5 15. O-O Nd7 16. Qd2 O-O 17. Rfa1) 11. Bxg5?? { (-0.20 → -6.16) Blunder. Best move was Nxg5. } (11. Nxg5 h5 12. Ne6 Qc8 13. a3 Qb7 14. Qf3 Bxe6 15. dxe6 Nc6 16. Bd5 Qb5 17. Bc4 Qc5) 11... fxg5 12. Nxg5?? { (-5.83 → -9.44) Blunder. Best move was Nxe5. } (12. Nxe5 Qf6 13. Nd3 Qc3+ 14. Kf1 g4 15. e5 Bg7 16. Qe1 Bxe5 17. Nxe5 Qxe5 18. Qxe5+ dxe5) 12... Qxg5 13. h4?! { (-9.33 → -10.77) Inaccuracy. Best move was O-O. } (13. O-O Nf6) 13... Qxg2 14. Kd2 Bh6+ 15. Ke2?! { (-20.81 → Mate in 5) Checkmate is now unavoidable. Best move was Kd3. } (15. Kd3 Nf6 16. Re1 Bg4 17. Qc1 Bxc1 18. Raxc1 Qxf2 19. c3 bxc3 20. Kxc3 Qd4+ 21. Kc2 Nxe4) 15... Bg4+?! { (Mate in 5 → -27.79) Lost forced checkmate sequence. Best move was Qxe4+. } (15... Qxe4+ 16. Kf1 Qxh1+ 17. Ke2 Qe4+ 18. Kf1 Bh3+ 19. Kg1 Qg2#) 16. Kd3?! { (-27.79 → Mate in 5) Checkmate is now unavoidable. Best move was Ke1. } (16. Ke1 Qxh1+) 16... Bxd1?! { (Mate in 5 → Mate in 5) Not the best checkmate sequence. Best move was Qxe4+. } (16... Qxe4+ 17. Kxe4 Nf6+ 18. Kd3 e4+ 19. Kd4 c5+ 20. dxc6 Nxc6#) 17. Raxd1 Qf3# { Black wins by checkmate. } 0-1

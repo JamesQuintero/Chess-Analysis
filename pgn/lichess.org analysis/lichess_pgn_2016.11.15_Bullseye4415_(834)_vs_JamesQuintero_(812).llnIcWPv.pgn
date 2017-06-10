@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/llnIcWPv"]
+[Date "2016.11.15"]
+[Round "-"]
+[White "Bullseye4415 (834)"]
+[Black "JamesQuintero (812)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "101"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C26"]
+[Opening "Vienna Game: Stanley Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 Nf6 2. Nc3 e5 3. Bc4 { C26 Vienna Game: Stanley Variation } Bc5 4. Nf3 d6 5. Ng5?! { (0.07 → -0.47) Inaccuracy. Best move was O-O. } (5. O-O Nc6 6. d3 Na5 7. Bg5 Nxc4 8. dxc4 Be6 9. Qd3 O-O 10. Nd5 Bxd5 11. cxd5 h6) 5... Bg4? { (-0.47 → 1.68) Mistake. Best move was O-O. } (5... O-O 6. Nf3 Bg4 7. Be2 h6 8. d3 a6 9. O-O Nc6 10. Be3 Bxe3 11. fxe3 d5 12. Nd2) 6. f3? { (1.68 → -0.68) Mistake. Best move was Bxf7+. } (6. Bxf7+ Kf8 7. Ne6+ Bxe6 8. Bxe6 Qe8 9. Bc4 Nc6 10. O-O Na5 11. Be2 Nc6 12. Nd5 Qf7) 6... Bd7?? { (-0.68 → 3.20) Blunder. Best move was Bh5. } (6... Bh5 7. Na4) 7. Nxf7 d5?? { (3.11 → 8.89) Blunder. Best move was Qe7. } (7... Qe7 8. Nxh8 Be6 9. b4 Bxc4 10. bxc5 Nbd7 11. cxd6 Qxd6 12. d3 Be6 13. Be3 O-O-O 14. O-O) 8. Nxd8 dxc4 9. Nxb7 Bb6 10. h4? { (8.86 → 6.58) Mistake. Best move was b4. } (10. b4 Nc6 11. Ba3 Nd4 12. Nc5 O-O-O 13. Rb1 Bc6 14. b5 Be8 15. N5a4 Bf7 16. Kf2 Nh5) 10... O-O? { (6.58 → 8.83) Mistake. Best move was Bc8. } (10... Bc8 11. Qe2 Bxb7 12. Qxc4 Nbd7 13. Qe6+ Kd8 14. Qf7 Kc8 15. d3 Ne8 16. Qe6 Ba5 17. Bd2) 11. h5? { (8.83 → 6.67) Mistake. Best move was b4. } (11. b4 Nc6 12. Ba3 Nd4 13. Nc5 Bc6 14. N5a4 Bd7 15. Bb2 Rfd8 16. Nxb6 axb6 17. O-O g6) 11... h6? { (6.67 → 8.80) Mistake. Best move was Bc8. } (11... Bc8 12. Qe2) 12. b3? { (8.80 → 7.38) Mistake. Best move was Qe2. } (12. Qe2 Be6 13. b3 Na6 14. bxc4 Rfb8 15. c5 Nxc5 16. Nxc5 Bxc5 17. Na4 Bd6 18. Nb2 Bf7) 12... g5? { (7.38 → 9.81) Mistake. Best move was Bc6. } (12... Bc6 13. Ba3 Bxb7 14. Bxf8 Kxf8 15. bxc4 Nbd7 16. Kf1 Nc5 17. d3 Rd8 18. Rb1 Ba5 19. Nd5) 13. hxg6 Nc6 14. bxc4 Nd4 15. c5 Rab8 16. cxb6 Rxb7 17. bxc7 Rxc7 18. Ba3 Ba4 19. Nxa4 Nxc2+ 20. Kf2 Rd8 21. Rc1 Rdc8 22. Rxh6 Nxa3?! { (21.23 → Mate in 11) Checkmate is now unavoidable. Best move was Rd7. } (22... Rd7 23. Rxc2) 23. Qb3+?! { (Mate in 11 → 16.12) Lost forced checkmate sequence. Best move was Qh1. } (23. Qh1 Kf8 24. Rxc7 Rxc7 25. Qh4 Rc6 26. Rh8+ Ke7 27. Rh7+ Kd8 28. g7 Kc8 29. Qxf6 Kb7) 23... Kg7?! { (16.12 → Mate in 17) Checkmate is now unavoidable. Best move was Nc4. } (23... Nc4 24. d3) 24. Rxc7+ Rxc7 25. Rh7+ Nxh7 26. gxh7 Kxh7 27. Qxa3 Rc2 28. Qe7+ Kg6 29. Qe6+ Kg5 30. Qxe5+ Kg6 31. Qb2 Rxb2?! { (53.75 → Mate in 19) Checkmate is now unavoidable. Best move was Rc7. } (31... Rc7 32. Qb3) 32. Nxb2 a5?! { (67.24 → Mate in 16) Checkmate is now unavoidable. Best move was Kf6. } (32... Kf6 33. d4) 33. e5 Kf5 34. d4 Ke6 35. f4 Kf5 36. g3 Ke6 37. a4 Kf5 38. Nc4 Ke6 39. g4 Kd5 40. Nxa5 Kxd4 41. e6 Kd5 42. e7 Kd6 43. e8=Q Kc5 44. Qc6+ Kb4 45. Qb5+?! { (Mate in 2 → Mate in 3) Not the best checkmate sequence. Best move was Qc4+. } (45. Qc4+ Kxa5 46. Qb5#) 45... Kc3 46. f5?! { (Mate in 3 → Mate in 5) Not the best checkmate sequence. Best move was Qe2. } (46. Qe2 Kb4 47. Qc4+ Kxa5 48. Qb5#) 46... Kd4 47. f6 Ke4 48. f7?! { (Mate in 2 → Mate in 3) Not the best checkmate sequence. Best move was Nc6. } (48. Nc6 Kf4 49. Qf5#) 48... Kf4 49. f8=Q+?! { (Mate in 1 → Mate in 2) Not the best checkmate sequence. Best move was Qf5#. } (49. Qf5#) 49... Kxg4 50. Qf3+ Kh4 51. Qbh5# { White wins by checkmate. } 1-0

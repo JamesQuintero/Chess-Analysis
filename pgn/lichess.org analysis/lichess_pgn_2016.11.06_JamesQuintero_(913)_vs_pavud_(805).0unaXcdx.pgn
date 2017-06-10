@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/0unaXcdx"]
+[Date "2016.11.06"]
+[Round "-"]
+[White "JamesQuintero (913)"]
+[Black "pavud (805)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "43"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. c4 { C20 English Opening: The Whale } Nf6 3. d3 h6 4. Nf3 Nc6 5. Be3 Bb4+ 6. Nc3 O-O 7. Qa4?! { (0.13 → -0.42) Inaccuracy. Best move was a3. } (7. a3 Bxc3+ 8. bxc3 d6 9. h3 Ne7 10. Be2 Ng6 11. O-O b6 12. Nd2 Bb7 13. Rb1 Re8) 7... Bxc3+ 8. bxc3 d6 9. d4? { (0.07 → -1.35) Mistake. Best move was h3. } (9. h3 Ne7 10. Qc2 b6 11. Be2 Bb7 12. O-O Ng6 13. Rab1 Re8 14. Nd2 a5 15. Rfe1 Bc6) 9... Nxe4 10. d5?! { (-1.14 → -1.83) Inaccuracy. Best move was Qc2. } (10. Qc2) 10... Nxc3? { (-1.83 → 0.50) Mistake. Best move was Ne7. } (10... Ne7 11. Nd2 Bf5 12. Nxe4 Bxe4 13. f3 Bg6 14. Be2 Nf5 15. Bf2 Qg5 16. g3 e4 17. f4) 11. Qb3 Ne4 12. dxc6 bxc6 13. O-O-O?! { (0.70 → -0.19) Inaccuracy. Best move was Be2. } (13. Be2 Nf6) 13... Bd7 14. c5?! { (-0.16 → -0.78) Inaccuracy. Best move was Bd3. } (14. Bd3 Nf6 15. Nd2 Rb8 16. Qa3 Ng4 17. h3 Nxe3 18. fxe3 f5 19. e4 d5 20. exf5 e4) 14... Be6?! { (-0.78 → 0.00) Inaccuracy. Best move was Re8. } (14... Re8) 15. Qb4?! { (0.00 → -0.70) Inaccuracy. Best move was Bc4. } (15. Bc4 d5 16. Qb2 f6 17. Bd3 Rb8 18. Qc2 Qe8 19. Rhe1 Qh5 20. h3 Kh8 21. Rh1 Kg8) 15... Bxa2?? { (-0.70 → 2.56) Blunder. Best move was Bd5. } (15... Bd5 16. Bd3 Rb8 17. Qa3 Qf6 18. cxd6 cxd6 19. Rhe1 c5 20. Re2 Qe6 21. Rb2 Nf6 22. Nh4) 16. Nxe5?? { (2.56 → -1.59) Blunder. Best move was Qxe4. } (16. Qxe4 Bd5) 16... Rb8? { (-1.59 → 1.26) Mistake. Best move was Bd5. } (16... Bd5 17. Rxd5) 17. Qxe4 Rb1+ 18. Kc2? { (1.27 → -0.52) Mistake. Best move was Kd2. } (18. Kd2) 18... Bb3+?? { (-0.52 → 7.61) Blunder. Best move was Qb8. } (18... Qb8) 19. Kxb1 Bxd1 20. Nxc6 Qf6? { (7.47 → 12.31) Mistake. Best move was Re8. } (20... Re8 21. Qf5 Qf6 22. Qxf6 gxf6 23. cxd6 cxd6 24. Bxh6 Ba4 25. Nxa7 Re1+ 26. Kb2 Bd7 27. f3) 21. Bd3 Qc3?! { (11.70 → Mate in 1) Checkmate is now unavoidable. Best move was g6. } (21... g6 22. Rxd1) 22. Qh7# { White wins by checkmate. } 1-0

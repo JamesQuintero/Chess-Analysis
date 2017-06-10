@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/gEfnorGC"]
+[Date "2016.11.22"]
+[Round "-"]
+[White "xhaakon77 (840)"]
+[Black "JamesQuintero (785)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C49"]
+[Opening "Four Knights Game: Double Spanish"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bb4?! { (0.22 → 0.90) Inaccuracy. Best move was a6. } (3... a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6 dxc6 8. d4 Ne6 9. Nxe5 Bd6 10. Nc3) 4. Nc3?! { (0.90 → 0.06) Inaccuracy. Best move was c3. } (4. c3 Ba5) 4... Nf6 { C49 Four Knights Game: Double Spanish } 5. O-O O-O 6. Re1 a6 7. Bxc6 dxc6 8. Nxe5 Bc5?! { (0.40 → 1.35) Inaccuracy. Best move was Re8. } (8... Re8 9. Nd3 Bxc3 10. dxc3 Nxe4 11. Qf3 Nd6 12. Bf4 Be6 13. Nc5 Bd5 14. Qd3 Rxe1+ 15. Rxe1) 9. d3?! { (1.35 → 0.52) Inaccuracy. Best move was Nf3. } (9. Nf3 Bg4) 9... Nxe4?? { (0.52 → 4.12) Blunder. Best move was Bxf2+. } (9... Bxf2+ 10. Kxf2 Qd4+ 11. Re3 Qxe5 12. h3 Rd8 13. Kg1 Qc5 14. Qf3 Be6 15. Qf2 Nd7 16. Rf3) 10. Rxe4 Qf6 11. b3? { (3.94 → 2.77) Mistake. Best move was Qf3. } (11. Qf3) 11... Qxf2+ 12. Kh1 Bf5?? { (2.62 → 6.46) Blunder. Best move was Qf6. } (12... Qf6 13. Bb2 Qh6 14. Re1 Bd4 15. Nc4 Bf2 16. Re4 Be6 17. Qd2 Qxd2 18. Nxd2 Bb6 19. Rf1) 13. Re2?? { (6.46 → 2.87) Blunder. Best move was Rf4. } (13. Rf4 Qd4 14. Rxd4 Bxd4 15. Nxc6 bxc6 16. Bb2 Rae8 17. Na4 Bxb2 18. Nxb2 Re6 19. Kg1 Bg6) 13... Qh4 14. Nd7?? { (2.94 → -1.46) Blunder. Best move was Ne4. } (14. Ne4) 14... Bxd7 15. d4? { (-1.33 → -2.76) Mistake. Best move was Qe1. } (15. Qe1 Qxe1+ 16. Rxe1 f5 17. Bd2 Rae8 18. Rxe8 Rxe8 19. Re1 Rxe1+ 20. Bxe1 Kf7 21. Bg3 Bd4) 15... Bxd4? { (-2.76 → -1.61) Mistake. Best move was Bd6. } (15... Bd6) 16. Re4 Bh3?? { (-1.39 → 9.78) Blunder. Best move was Qxe4. } (16... Qxe4 17. Nxe4 Bxa1 18. Nc5 Bf5 19. Bg5 Be5 20. Nxb7 Rfe8 21. h3 Rab8 22. Na5 h6 23. Bd2) 17. gxh3?? { (9.78 → 1.60) Blunder. Best move was Rxh4. } (17. Rxh4 Bxc3 18. Qd3 Bf5 19. Qxc3 Rad8 20. Bb2 f6 21. Qa5 Rd5 22. Qxc7 Rfd8 23. Kg1 R5d7) 17... Qxh3 18. Rxd4 Rad8?? { (1.47 → 17.58) Blunder. Best move was Qxc3. } (18... Qxc3 19. Bf4 Rae8 20. Bxc7 Re6 21. Bg3 Rfe8 22. Rc1 f5 23. Qd3 Qxd3 24. cxd3 g6 25. Rd7) 19. Bf4?? { (17.58 → 4.76) Blunder. Best move was Rxd8. } (19. Rxd8) 19... Rxd4 20. Qxd4 Qf3+ 21. Kg1 { White wins. } 1-0

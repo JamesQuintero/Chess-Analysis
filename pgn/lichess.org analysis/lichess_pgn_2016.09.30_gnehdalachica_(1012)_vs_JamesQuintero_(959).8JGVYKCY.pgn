@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/8JGVYKCY"]
+[Date "2016.09.30"]
+[Round "-"]
+[White "gnehdalachica (1012)"]
+[Black "JamesQuintero (959)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 { C20 King's Pawn Game } 2. h4?! { (0.26 → -0.54) Inaccuracy. Best move was Nf3. } (2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bc4 O-O 8. O-O c6) 2... Nf6 3. h5 Nxe4 4. d3 Nf6 5. g4 d5?! { (-1.58 → -1.03) Inaccuracy. Best move was h6. } (5... h6) 6. g5 Ng4? { (-1.25 → 0.54) Mistake. Best move was Nfd7. } (6... Nfd7 7. Bg2 Nb6 8. a4 Nc6 9. a5 Nxa5 10. Rxa5 Bb4+ 11. Bd2 Bxa5 12. Bxa5 Qxg5 13. Bf3) 7. Bh3?! { (0.54 → -0.17) Inaccuracy. Best move was f3. } (7. f3 f5) 7... f5 8. gxf6? { (0.19 → -1.35) Mistake. Best move was f3. } (8. f3 Qd6 9. Ne2 Nc6 10. fxg4 fxg4 11. Bg2 Be6 12. Be3 O-O-O 13. c3 Be7 14. Nd2 Rdf8) 8... gxf6?? { (-1.35 → 2.02) Blunder. Best move was Nxf6. } (8... Nxf6 9. f4 Nc6 10. fxe5 Bxh3 11. Rxh3 Nxe5 12. Qe2 Qe7 13. Nc3 O-O-O 14. Bf4 Neg4 15. Qxe7) 9. Bxg4 Bxg4 10. Qxg4 f5? { (2.29 → 4.36) Mistake. Best move was Qd7. } (10... Qd7 11. Qxd7+ Nxd7 12. Nf3 Rg8 13. Nc3 c6 14. Ke2 O-O-O 15. Bd2 Bd6 16. Nh4 Kc7 17. Rag1) 11. Qxf5 Bb4+ 12. c3 Ba5?? { (4.25 → 11.56) Blunder. Best move was Be7. } (12... Be7 13. Qxe5 Rf8 14. h6 Rf7 15. Qh5 Nc6 16. Ne2 Qd7 17. Be3 Bf6 18. Nd2 O-O-O 19. d4) 13. Qxe5+?? { (11.56 → 4.84) Blunder. Best move was Bg5. } (13. Bg5 Nc6 14. Bxd8 Rxd8 15. Qe6+ Ne7 16. Qxe5 Rf8 17. Nd2 Rf5 18. Qe3 Bb6 19. d4 c6) 13... Kf8?? { (4.84 → 31.25) Blunder. Best move was Qe7. } (13... Qe7 14. Qxe7+ Kxe7 15. Be3 Bb6 16. Nd2 Bxe3 17. fxe3 Nd7 18. Ne2 Rae8 19. Nf3 Rhg8 20. Nf4) 14. Qxh8+ Ke7 15. Bg5+ Ke6 16. Qxd8 Kf5?! { (31.20 → Mate in 2) Checkmate is now unavoidable. Best move was Nc6. } (16... Nc6 17. Qxa8) 17. Qxd5+ Kg4 18. f3+?! { (Mate in 1 → Mate in 2) Not the best checkmate sequence. Best move was Rh4#. } (18. Rh4#) 18... Kg3 19. Qxa5?! { (Mate in 2 → Mate in 3) Not the best checkmate sequence. Best move was Ne2+. } { White wins. } (19. Ne2+ Kg2 20. f4#) 1-0

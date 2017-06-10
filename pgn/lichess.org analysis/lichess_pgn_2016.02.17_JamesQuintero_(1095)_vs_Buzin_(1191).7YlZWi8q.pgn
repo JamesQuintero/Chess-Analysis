@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/7YlZWi8q"]
+[Date "2016.02.17"]
+[Round "-"]
+[White "JamesQuintero (1095)"]
+[Black "Buzin (1191)"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "58"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 d6 3. d4 { C41 Philidor Defense } Bg4 4. dxe5 Bxf3 5. gxf3 dxe5 6. Bh3?! { (0.97 → 0.14) Inaccuracy. Best move was Qxd8+. } (6. Qxd8+ Kxd8 7. Nc3 Nf6 8. Rg1 c6 9. Bg5 Nd7 10. O-O-O Kc7 11. Bc4 Bb4 12. Be3 g6) 6... Qxd1+ 7. Kxd1 Nc6 8. Nc3?! { (0.34 → -0.29) Inaccuracy. Best move was c3. } (8. c3 Nf6 9. Be3 Nh5 10. Nd2 Nf4 11. Bf1 a6 12. Rg1 g6 13. Kc2 Be7 14. Bc4 Rd8) 8... Rd8+ 9. Ke1 Nf6? { (-0.82 → 0.22) Mistake. Best move was Nb4. } (9... Nb4 10. Kf1) 10. Rg1? { (0.22 → -0.87) Mistake. Best move was Nb5. } (10. Nb5) 10... Nd4 11. Rg5?? { (-0.86 → -4.96) Blunder. Best move was Kf1. } (11. Kf1 Nxc2 12. Rb1 h6 13. Be3 Nxe3+ 14. fxe3 g6 15. Rd1 Bc5 16. Ke2 c6 17. Rxd8+ Kxd8) 11... Nxc2+ 12. Ke2 Nxa1 13. Rxe5+ Be7 14. Rf5? { (-4.81 → -5.88) Mistake. Best move was Ra5. } (14. Ra5 a6) 14... O-O 15. e5 Nd5 16. Nxd5 Rxd5 17. Bg2?? { (-5.62 → -9.25) Blunder. Best move was e6. } (17. e6 Rxf5 18. Bxf5 g6 19. exf7+ Kxf7 20. Be4 c6 21. b3 Bf6 22. f4 Re8 23. Kf3 Ke6) 17... Rfd8 18. Be3?! { (-8.94 → -9.67) Inaccuracy. Best move was f4. } (18. f4 Rc5 19. Be3 Rc2+ 20. Kf3 g6 21. Rg5 Bxg5 22. fxg5 Rxb2 23. Bxa7 Nc2 24. Be3 Nxe3) 18... Nc2 19. Bf4? { (-9.57 → Mate in 2) Checkmate is now unavoidable. Best move was f4. } (19. f4 Nxe3 20. Kxe3 Rd3+ 21. Ke2 g6 22. Rg5 Rd2+ 23. Kf3 Bxg5 24. fxg5 Rxb2 25. Kg3 Rd3+) 19... g6?! { (Mate in 2 → -15.41) Lost forced checkmate sequence. Best move was Rd1. } (19... Rd1 20. Be3 Re1#) 20. Rf6 Bxf6 21. exf6?! { (-17.35 → Mate in 4) Checkmate is now unavoidable. Best move was Bc1. } (21. Bc1 Rd1) 21... Rd1 22. h4 c5?! { (Mate in 1 → Mate in 3) Not the best checkmate sequence. Best move was Re1#. } (22... Re1#) 23. Bh3 R8d4?! { (Mate in 1 → Mate in 1) Not the best checkmate sequence. Best move was Re1#. } (23... Re1#) 24. Bg5 b5?! { (Mate in 1 → Mate in 2) Not the best checkmate sequence. Best move was Re1#. } (24... Re1#) 25. a3 a5?! { (Mate in 1 → Mate in 2) Not the best checkmate sequence. Best move was Re1#. } (25... Re1#) 26. b3 b4?! { (Mate in 1 → Mate in 2) Not the best checkmate sequence. Best move was Re1#. } (26... Re1#) 27. axb4 axb4?! { (Mate in 1 → Mate in 2) Not the best checkmate sequence. Best move was Re1#. } (27... Re1#) 28. Be3 Nxe3?! { (Mate in 1 → Mate in 5) Not the best checkmate sequence. Best move was Re1#. } (28... Re1#) 29. fxe3 R4d2# { Black wins by checkmate. } 0-1

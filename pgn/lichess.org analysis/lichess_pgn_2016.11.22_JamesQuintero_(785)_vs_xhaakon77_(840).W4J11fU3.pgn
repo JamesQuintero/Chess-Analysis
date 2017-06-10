@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/W4J11fU3"]
+[Date "2016.11.22"]
+[Round "-"]
+[White "JamesQuintero (785)"]
+[Black "xhaakon77 (840)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 { C45 Scotch Game } Nxd4 5. Qxd4 Nf6?! { (0.49 → 1.46) Inaccuracy. Best move was d6. } (5... d6 6. Nc3 Nf6 7. Bf4 Be7 8. O-O-O O-O 9. Be2 Be6 10. Kb1 a6 11. f3 b5 12. a3) 6. Bg5? { (1.46 → 0.35) Mistake. Best move was e5. } (6. e5 Ng8 7. Nc3 Ne7 8. Bf4 Nc6 9. Qe3 Be7 10. O-O-O O-O 11. Nd5 Nb4 12. Nxb4 Bxb4) 6... h6 7. Bh4 d5?! { (0.42 → 0.97) Inaccuracy. Best move was g5. } (7... g5 8. Bg3 Bg7 9. Qe5+ Kf8 10. Nc3 d6 11. Qd4 Nh5 12. Qe3 Be6 13. O-O-O Nxg3 14. hxg3) 8. Bb5+? { (0.97 → -0.50) Mistake. Best move was Nc3. } (8. Nc3 dxe4 9. Qxd8+ Kxd8 10. O-O-O+ Bd6 11. Nxe4 Ke7 12. Nxd6 cxd6 13. f4 Bf5 14. Bc4 Rhd8) 8... c6 9. Be2 Qb6? { (-0.51 → 0.63) Mistake. Best move was Be7. } (9... Be7 10. e5 g5 11. Bg3 Ne4 12. Nd2 Bc5 13. Qd3 Bf5 14. Qf3 Bg6 15. O-O-O Nxg3 16. hxg3) 10. Qc3?? { (0.63 → -8.27) Blunder. Best move was Qxb6. } (10. Qxb6 axb6 11. Bxf6 gxf6 12. exd5 cxd5 13. Nc3 Be6 14. O-O-O Bc5 15. Nxd5 Bxd5 16. Rxd5 Rxa2) 10... Nxe4?? { (-8.27 → -1.96) Blunder. Best move was Bb4. } (10... Bb4 11. Bxf6 gxf6 12. exd5 Bxc3+ 13. Nxc3 Qxb2 14. Kd2 Qb6 15. Rae1 Qxf2 16. g3 O-O 17. Ref1) 11. Qf3?? { (-1.96 → -7.35) Blunder. Best move was Qb3. } (11. Qb3 Qd4 12. c3 Qe5 13. Bg3 Nxg3 14. hxg3 Bc5 15. Nd2 O-O 16. Nf3 Qe7 17. Qc2 Re8) 11... Bb4+?? { (-7.35 → -3.27) Blunder. Best move was Qxb2. } (11... Qxb2 12. O-O Qxa1 13. Nd2 Qe5 14. Nxe4 Qxe4 15. Qxe4+ dxe4 16. Bc4 f5 17. Bg3 Bc5 18. Be5) 12. Nc3 O-O 13. O-O Nd2 14. Qf4 Nxf1 15. Rxf1 Re8 16. Bh5 d4?? { (-3.99 → Mate in 7) Checkmate is now unavoidable. Best move was Be6. } (16... Be6 17. a3 Bxc3 18. bxc3 Qc5 19. Qd4 Qxd4 20. cxd4 Bf5 21. Bg3 Bxc2 22. Be5 a5 23. Rc1) 17. Qxf7+ Kh8 18. Bf6 Be6 19. Qxg7# { White wins by checkmate. } 1-0

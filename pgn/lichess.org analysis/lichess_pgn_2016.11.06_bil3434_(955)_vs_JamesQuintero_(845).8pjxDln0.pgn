@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/8pjxDln0"]
+[Date "2016.11.06"]
+[Round "-"]
+[White "bil3434 (955)"]
+[Black "JamesQuintero (845)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "51"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Nc3 { D00 Queen's Pawn Game: Chigorin Variation } c6 3. Bf4 Bf5 4. h3 Nd7 5. f3?! { (0.13 → -0.63) Inaccuracy. Best move was e3. } (5. e3 Ngf6 6. Bd3 e6 7. Nf3 Be7 8. O-O O-O 9. Ne2 Rc8 10. Bxf5 exf5 11. Rc1 Qb6) 5... e5 6. dxe5 d4? { (-0.53 → 1.43) Mistake. Best move was Qb6. } (6... Qb6 7. Qd2 Qxb2 8. Rb1 Qxc2 9. e4 Qxd2+ 10. Bxd2 dxe4 11. Rxb7 Nc5 12. Rb2 Ne7 13. g4) 7. Nb1?? { (1.43 → -1.59) Blunder. Best move was Qxd4. } (7. Qxd4 Bc5) 7... c5? { (-1.59 → 0.29) Mistake. Best move was Ne7. } (7... Ne7 8. e4) 8. e3 Nb6?! { (-0.10 → 0.86) Inaccuracy. Best move was Ne7. } (8... Ne7 9. e4 Be6 10. Bg3 g5 11. h4 Nc6 12. Qd2 Qb6 13. c3 gxh4 14. Bxh4 Ncxe5 15. Bf2) 9. exd4 cxd4 10. Bb5+ Nd7?! { (0.88 → 1.77) Inaccuracy. Best move was Bd7. } (10... Bd7 11. Bxd7+ Qxd7 12. Ne2 Rd8 13. Nd2 Ne7 14. Nb3 Nf5 15. Qd3 Nd5 16. O-O Be7 17. Rfd1) 11. Qxd4 a6 12. Bxd7+ Bxd7 13. Nc3 Bb4?? { (2.06 → 6.50) Blunder. Best move was Be6. } (13... Be6 14. Nge2) 14. Qxb4 f6?? { (6.29 → 9.65) Blunder. Best move was Bc6. } (14... Bc6) 15. O-O-O Ne7?! { (9.41 → 11.92) Inaccuracy. Best move was Qe7. } (15... Qe7 16. Qxb7) 16. exf6 gxf6 17. Qxb7?! { (11.21 → 9.09) Inaccuracy. Best move was Ne4. } (17. Ne4 O-O 18. Bh6 Ng6 19. Qxb7 Rf7 20. Rxd7 Rxd7 21. Qxd7 Qxd7 22. Nxf6+ Kf7 23. Nxd7 a5) 17... Qb8?! { (9.09 → 29.70) Inaccuracy. Best move was Rc8. } (17... Rc8 18. Ne4 Rc6 19. Nd6+ Rxd6 20. Rxd6 Qc8 21. Qxa6 Qxa6 22. Rxa6 Kf7 23. Ne2 Bb5 24. Ra7) 18. Qxb8+ Rxb8 19. Nge2? { (12.39 → 8.03) Mistake. Best move was Bxb8. } (19. Bxb8) 19... Rb7? { (8.03 → 9.50) Mistake. Best move was Ra8. } (19... Ra8 20. Rhe1) 20. Rhe1? { (9.50 → 7.87) Mistake. Best move was Ne4. } (20. Ne4 Rb6 21. Nd6+ Rxd6 22. Rxd6 Bc8 23. Rxf6 Rf8 24. Rxf8+ Kxf8 25. Re1 Kf7 26. Bg5 Nd5) 20... O-O 21. Ng3 Ng6? { (8.25 → 9.29) Mistake. Best move was Bc6. } (21... Bc6 22. Rd6 Rc8 23. Rxf6 Rd7 24. Bg5 Nd5 25. Nxd5 Bxd5 26. Nf5 Bxa2 27. Ne7+ Rxe7 28. Rxe7) 22. Bh6 Rd8?! { (9.16 → 10.28) Inaccuracy. Best move was Ra8. } (22... Ra8 23. Nh5 Bc6 24. Rd6 Rc7 25. Nxf6+ Kf7 26. Nxh7 Nh4 27. Ng5+ Kg8 28. Nce4 Bxe4 29. Rxe4) 23. Nf5? { (10.28 → 8.04) Mistake. Best move was Nce4. } (23. Nce4 f5 24. Nxf5 Rf8 25. Nc5 Rxf5 26. Nxb7 Rh5 27. Rxd7 Rxh6 28. Re8+ Nf8 29. Rdd8 Rf6) 23... Nf4? { (8.04 → 14.64) Mistake. Best move was Rbb8. } (23... Rbb8 24. Nd6 Bc6 25. Re6 Ra8 26. Rxf6 Ne7 27. Rf7 Rxd6 28. Rg7+ Kh8 29. Rxd6 Nf5 30. Rxc6) 24. Bxf4 Kf7?! { (13.56 → Mate in 9) Checkmate is now unavoidable. Best move was Bxf5. } (24... Bxf5 25. Rxd8+ Kg7 26. Rd6 Bg6 27. Nd5 a5 28. Rxf6 Rd7 29. Rd6 Rxd6 30. Re7+ Bf7 31. Bxd6) 25. Nd6+?! { (Mate in 9 → 56.45) Lost forced checkmate sequence. Best move was Re7+. } (25. Re7+ Kf8 26. Bh6+ Kg8 27. Ne4 Rf8 28. Bxf8 Kxf8 29. Rdxd7 Rxd7 30. Rxd7 Kg8 31. Nxf6+ Kf8) 25... Kg6 26. Nxb7 { White wins. } 1-0

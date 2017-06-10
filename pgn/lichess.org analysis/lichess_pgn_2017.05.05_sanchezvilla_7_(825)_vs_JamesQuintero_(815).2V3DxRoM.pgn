@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/2V3DxRoM"]
+[Date "2017.05.05"]
+[Round "-"]
+[White "sanchezvilla_7 (825)"]
+[Black "JamesQuintero (815)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "37"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C21"]
+[Opening "Center Game #2"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. d4 { C21 Center Game #2 } f6? { (0.10 → 1.35) Mistake. Best move was exd4. } (2... exd4 3. Nf3) 3. f3? { (1.35 → 0.22) Mistake. Best move was Bc4. } (3. Bc4 exd4 4. Ne2 Bb4+ 5. c3 dxc3 6. bxc3 Bd6 7. Nd4 Ne7 8. O-O Nbc6 9. Nb5 Be5) 3... Nc6?! { (0.22 → 0.81) Inaccuracy. Best move was exd4. } (3... exd4 4. Qxd4 Nc6 5. Qc4 Bb4+ 6. Bd2 Bxd2+ 7. Nxd2 Nge7 8. O-O-O d5 9. Qb3 Be6 10. exd5) 4. Bb5? { (0.81 → -0.99) Mistake. Best move was d5. } (4. d5 Nb8) 4... a6?! { (-0.99 → -0.03) Inaccuracy. Best move was Nxd4. } (4... Nxd4 5. Bd3 c6 6. f4 d5 7. fxe5 dxe4 8. Bxe4 Bf5 9. Bxf5 Nxf5 10. Nc3 Qxd1+ 11. Nxd1) 5. Bxc6 dxc6 6. Ne2 exd4 7. Qxd4 Qxd4 8. Nxd4 Bc5 9. Nb3 b6? { (-0.19 → 1.51) Mistake. Best move was Bd6. } (9... Bd6) 10. a3? { (1.51 → -0.17) Mistake. Best move was Nxc5. } (10. Nxc5 bxc5 11. Bf4 f5 12. Nc3 Nf6 13. Bxc7 fxe4 14. fxe4 O-O 15. h3 Rf7 16. Bd6 c4) 10... a5? { (-0.17 → 1.17) Mistake. Best move was Bd6. } (10... Bd6 11. N1d2 b5 12. Nf1 c5 13. Be3 c4 14. Nc5 Ne7 15. Kf2 Kf7 16. Ng3 Rd8 17. Rhd1) 11. c4? { (1.17 → -0.45) Mistake. Best move was Nxc5. } (11. Nxc5 bxc5 12. Nc3 a4 13. Bf4 Ra7 14. Be3 Ra5 15. O-O-O Ne7 16. f4 f5 17. g4 fxg4) 11... Be6? { (-0.45 → 0.61) Mistake. Best move was Bd6. } (11... Bd6 12. c5 bxc5 13. Be3 c4 14. Nc5 Ne7 15. Nd2 Bxc5 16. Bxc5 Ba6 17. Be3 Rb8 18. Rb1) 12. N3d2? { (0.61 → -1.66) Mistake. Best move was Nxc5. } (12. Nxc5 bxc5 13. Nc3 a4 14. Bf4 Ne7 15. h4 Kf7 16. Bxc7 Bxc4 17. Rd1 Bb3 18. Rd2 Rhc8) 12... Rd8? { (-1.66 → -0.66) Mistake. Best move was O-O-O. } (12... O-O-O 13. Nb3 Bf8 14. Be3 Bxc4 15. N3d2 Bf7 16. Nc3 Bd6 17. O-O Ne7 18. f4 c5 19. Rae1) 13. b4? { (-0.66 → -1.88) Mistake. Best move was Nb3. } (13. Nb3 Be7 14. Bf4 Rd7 15. N3d2 Bc5 16. Nb3 Bd6 17. Bxd6 Rxd6 18. N3d2 Ne7 19. c5 bxc5) 13... axb4 14. Nb3 Bd4? { (-2.01 → 0.00) Mistake. Best move was Be7. } (14... Be7 15. N1d2 Rd3 16. axb4 Bxb4 17. Kf2 h5 18. Ra4 c5 19. Ra8+ Kf7 20. h4 g6 21. Ra7) 15. Nxd4 Rxd4 16. axb4 Rxc4 17. Ra8+ Kf7 18. Ba3 Rc1+?? { (-0.03 → 6.39) Blunder. Best move was h5. } (18... h5 19. O-O Rd4 20. Rc1 h4 21. Kf2 Rd6 22. Bb2 h3 23. g4 Rd3 24. g5 Rh4 25. Rxc6) 19. Bxc1 { White wins. } 1-0

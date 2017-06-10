@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/ccxGtdxs"]
+[Date "2016.02.15"]
+[Round "-"]
+[White "abdusalamalmegzazi (1278)"]
+[Black "JamesQuintero (1196)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Fritz Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 { C57 Italian Game: Two Knights Defense, Fritz Variation } 6. d6 Qd7 7. Nxf7? { (0.74 → -1.75) Mistake. Best move was Bxf7+. } (7. Bxf7+ Kd8 8. Bb3 Nxb3 9. dxc7+ Kxc7 10. cxb3 Qd3 11. Nc3 Bb4 12. Qe2 Qxe2+ 13. Kxe2 Rd8) 7... Rg8?? { (-1.75 → 2.13) Blunder. Best move was Qc6. } (7... Qc6 8. O-O Qxc4 9. Nxh8 Qxc2 10. dxc7 Qxd1 11. Rxd1 Nc2 12. d4 exd4 13. Na3 Nxa1 14. Re1+) 8. dxc7?? { (2.13 → -1.60) Blunder. Best move was Ng5. } (8. Ng5 Qc6) 8... Nd5?? { (-1.60 → 3.68) Blunder. Best move was Qc6. } (8... Qc6 9. O-O Qxc4 10. Nxe5 Qxc2 11. Qe1 Be6 12. Qe3 Qe4 13. Nc3 Qxe3 14. fxe3 Nc2 15. Rb1) 9. Nxe5 Qf5? { (3.24 → 4.32) Mistake. Best move was Qxc7. } (9... Qxc7) 10. Ng4?? { (4.32 → -1.37) Blunder. Best move was O-O. } (10. O-O Be6 11. c3 Nc6 12. d4 Nxe5 13. dxe5 Nxc7 14. Bd3 Qxe5 15. Re1 Qd6 16. Bxh7 Qxd1) 10... Nb6?? { (-1.37 → 4.54) Blunder. Best move was Qe4+. } (10... Qe4+ 11. Ne3) 11. Bxg8? { (4.54 → 2.33) Mistake. Best move was Ne3. } (11. Ne3 Nxc2+ 12. Nxc2 Nxc4 13. O-O Bd6 14. Re1+ Kf7 15. d3 Ne5 16. Nd4 Qxd3 17. Qh5+ Qg6) 11... Nxc2+ 12. Kf1 Nxa1 13. Qe2+ Be7 14. Ne5? { (2.11 → -0.28) Mistake. Best move was Nc3. } (14. Nc3 Qxg4 15. Bxh7 Kf7 16. Be4 Bd6 17. Qxg4 Bxg4 18. d4 Bxc7 19. f3 Be6 20. Kf2 Bxa2) 14... Qf8?? { (-0.28 → 18.42) Blunder. Best move was Kf8. } (14... Kf8 15. Bxh7) 15. Bf7+? { (18.42 → 8.12) Mistake. Best move was Qh5+. } (15. Qh5+ g6 16. Qxh7 Bg5 17. Bf7+ Ke7 18. Nxg6+ Kd6 19. Nxf8 Be7 20. Ng6 Bf5 21. Qg7 Bd3+) 15... Qxf7 16. Nxf7 Kxf7 17. Qf3+ Ke8 18. Nc3 Nc2 19. Qe4 Kd7? { (7.69 → 10.64) Mistake. Best move was Nb4. } (19... Nb4 20. d4 Kf7 21. d5 Bd7 22. Be3 Nc8 23. d6 Bxd6 24. Bf4 Na6 25. Qd4 Nxc7 26. Bxd6) 20. Qe5? { (10.64 → 8.50) Mistake. Best move was Qxc2. } (20. Qxc2) 20... Bf6? { (8.50 → 10.06) Mistake. Best move was Nb4. } (20... Nb4 21. d4) 21. Qf5+ Kxc7 22. Qxc2 Nc4 23. Nb5+ Kc6 24. Qxc4+ Kd7 25. Qc7+ Ke8?! { (18.07 → Mate in 2) Checkmate is now unavoidable. Best move was Ke6. } (25... Ke6 26. Qc5 Be7 27. Qd4 Kf7 28. Nc7 Be6 29. Nxa8 a5 30. Nc7 Bxa2 31. Qa4 Be6 32. Nxe6) 26. Nd6+ Kf8 27. Qf7# { White wins by checkmate. } 1-0

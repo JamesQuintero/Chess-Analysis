@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/BSVTIE3O"]
+[Date "2017.05.05"]
+[Round "-"]
+[White "JamesQuintero (811)"]
+[Black "srulrish (739)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B07"]
+[Opening "Pirc Defense: Byrne Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 Nf6 2. Nc3?! { (0.74 → 0.01) Inaccuracy. Best move was e5. } (2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nf3 Bf5 7. Nc3 Be7 8. Bd3 Bxd3) 2... g6?! { (0.01 → 0.81) Inaccuracy. Best move was e5. } (2... e5 3. Nf3 Nc6 4. h3 Bb4 5. Bb5 O-O 6. O-O Bxc3 7. dxc3 d6 8. Re1 h6 9. a3) 3. d4 d6 4. Bg5 { B07 Pirc Defense: Byrne Variation } Bg4?! { (0.47 → 1.11) Inaccuracy. Best move was Bg7. } (4... Bg7 5. h3 O-O 6. Nf3 c5 7. dxc5 Qa5 8. Bd3 Qxc5 9. O-O Nc6 10. Be3 Qa5 11. Qd2) 5. f3 Bh5? { (1.03 → 3.41) Mistake. Best move was Bc8. } (5... Bc8 6. Qd2 c6 7. a4 Bg7 8. Bc4 h6 9. Bf4 g5 10. Bg3 d5 11. Bb3 dxe4 12. fxe4) 6. Bxf6?! { (3.41 → 2.89) Inaccuracy. Best move was g4. } (6. g4 Bxg4) 6... exf6 7. d5? { (2.96 → 1.04) Mistake. Best move was Qe2. } (7. Qe2 Bh6 8. g4 f5 9. gxh5 Qh4+ 10. Qf2 Qxf2+ 11. Kxf2 fxe4 12. fxe4 O-O 13. Nd5 Nc6) 7... c5? { (1.04 → 2.50) Mistake. Best move was f5. } (7... f5 8. Qd4 Rg8 9. O-O-O Bg7 10. Qe3 Qe7 11. Nh3 a6 12. Nf2 fxe4 13. g4 exf3 14. Qxf3) 8. dxc6?! { (2.50 → 1.90) Inaccuracy. Best move was g4. } (8. g4 f5 9. h4 fxg4 10. fxg4 Bxg4 11. Qxg4 Nd7 12. Qg3 Bg7 13. O-O-O a6 14. Nf3 Qe7) 8... Nxc6 9. Bb5 Qb6? { (1.43 → 2.63) Mistake. Best move was f5. } (9... f5 10. Qd4 Rg8 11. O-O-O Bg7 12. Qd2 Kf8 13. Nge2 Rc8 14. Kb1 a6 15. Bxc6 Rxc6 16. exf5) 10. Qd5? { (2.63 → 0.77) Mistake. Best move was g4. } (10. g4) 10... Qe3+? { (0.77 → 2.47) Mistake. Best move was Bh6. } (10... Bh6 11. Qd3) 11. Kd1?! { (2.47 → 1.91) Inaccuracy. Best move was Nge2. } (11. Nge2 Rc8 12. Nd1 Qb6 13. g4 Bxg4 14. fxg4 Bh6 15. Bxc6+ Rxc6 16. Qd3 O-O 17. Nec3 Qc5) 11... Bh6?! { (1.91 → 2.48) Inaccuracy. Best move was Rc8. } (11... Rc8 12. g4 Bxg4 13. fxg4 h5 14. gxh5 Rxh5 15. Qd3 Qxd3+ 16. Bxd3 Bg7 17. Nf3 Kf8 18. Kd2) 12. Nce2?? { (2.48 → -2.73) Blunder. Best move was Bxc6+. } (12. Bxc6+ bxc6 13. Qxc6+ Kf8 14. Qxa8+ Kg7 15. Qd5 Qf2 16. Nge2 Qxg2 17. Rg1 Qxh2 18. Qd4 Bxf3) 12... Qb6?? { (-2.73 → 0.35) Blunder. Best move was O-O. } (12... O-O) 13. g4?! { (0.35 → -0.31) Inaccuracy. Best move was Bxc6+. } (13. Bxc6+ bxc6 14. Qd4 d5 15. Qxb6 axb6 16. g4 dxe4 17. gxh5 O-O-O+ 18. Ke1 Rd2 19. fxe4 Rxc2) 13... a6? { (-0.31 → 1.74) Mistake. Best move was O-O. } (13... O-O 14. Bxc6 Qf2 15. Qa5 bxc6 16. Qe1 Qb6 17. gxh5 d5 18. hxg6 fxg6 19. f4 Rfe8 20. exd5) 14. Bxc6+ bxc6 15. Qd4 Bg7?? { (2.06 → 14.97) Blunder. Best move was Qxd4+. } (15... Qxd4+ 16. Nxd4 Bxg4 17. fxg4 Kd7 18. Nge2 Be3 19. c3 h5 20. gxh5 Bxd4 21. Nxd4 Rxh5 22. Kc2) 16. Qxb6 Rd8 17. Qxc6+ Rd7 18. gxh5 gxh5 19. Nh3 a5 20. c3 Rf8 21. Nhf4 Bh6 22. Nxh5 Ke7 23. Nxf6 Kxf6?! { (25.62 → Mate in 9) Checkmate is now unavoidable. Best move was Rfd8. } (23... Rfd8 24. Nxd7) 24. Qxd7 a4 25. Qxd6+ Kg7 26. Rg1+ Kh8 27. Qf6+ Bg7 28. Qxg7# { White wins by checkmate. } 1-0

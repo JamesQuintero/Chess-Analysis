@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/pgl8lkKI"]
+[Date "2016.11.08"]
+[Round "-"]
+[White "ericsauer7181 (977)"]
+[Black "JamesQuintero (880)"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "95"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D01"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Nc3 Nf6 { D01 Queen's Pawn Game: Chigorin Variation } 3. Bf4 Nh5 4. e3?! { (0.35 → -0.25) Inaccuracy. Best move was Bg3. } (4. Bg3) 4... Be6?? { (-0.25 → 4.33) Blunder. Best move was Nxf4. } (4... Nxf4 5. exf4 e6 6. Nf3 Bd7 7. Bd3 c5 8. dxc5 Bxc5 9. Ne2 O-O 10. O-O Nc6 11. c3) 5. Qxh5 Bd7?? { (4.18 → 10.32) Blunder. Best move was c6. } (5... c6 6. Bd3 Nd7 7. Nge2 h6 8. h3 g6 9. Qf3 Bg7 10. Bh2 Nf6 11. Be5 O-O 12. Nf4) 6. e4?? { (10.32 → 5.69) Blunder. Best move was Nxd5. } (6. Nxd5 Qc8 7. Nxc7+ Kd8 8. Nf3 Nc6 9. Ng5 e5 10. Nxa8 Qxa8 11. Nxf7+ Kc8 12. Nxh8 exf4) 6... c6 7. exd5 cxd5?? { (5.59 → 9.73) Blunder. Best move was g6. } (7... g6 8. Qe5 f6 9. Qe3 cxd5 10. Nxd5 Qa5+ 11. Nc3 g5 12. Bg3 h5 13. h4 Nc6 14. Bd3) 8. Nxd5 Qa5+ 9. c3 Qd8?! { (9.36 → 12.92) Inaccuracy. Best move was e5. } (9... e5 10. Qxe5+ Kd8 11. Bg5+ f6 12. Bxf6+ gxf6 13. Qxf6+ Kc8 14. Qxh8 Qxd5 15. Qxf8+ Kc7 16. Qf4+) 10. Nc7+ Qxc7 11. Bxc7 Nc6 12. Bb5 g6 13. Qe2 a6 14. Bxc6 bxc6 15. O-O-O Bh6+ 16. Kb1 O-O 17. Qxe7 Bf5+ 18. Ka1 Ra7 19. Nf3 Bg4 20. Rhg1 Be6 21. Rge1 Rc8 22. Rxe6 Raxc7 23. Qf6?! { (12.89 → 9.30) Inaccuracy. Best move was Qh4. } (23. Qh4 fxe6 24. Qxh6 Re8 25. Qf4 Rd7 26. Qe5 Ree7 27. Qc5 Rc7 28. Qd6 Ra7 29. Qxc6 Kg7) 23... fxe6?! { (9.30 → 10.07) Inaccuracy. Best move was Bg7. } (23... Bg7 24. Qf4) 24. Ne5? { (10.07 → 8.73) Mistake. Best move was Qxe6+. } (24. Qxe6+ Kh8 25. Ne5 Rf8 26. Nd7 Rfc8 27. Nc5 Rf8 28. Qh3 Bf4 29. Ne6 Rf5 30. Nxc7 Bxc7) 24... Rg7? { (8.73 → 24.24) Mistake. Best move was Re8. } (24... Re8 25. Qf3) 25. d5 Rf8 26. Qxe6+ Kh8 27. h4?! { (17.04 → 9.09) Inaccuracy. Best move was dxc6. } (27. dxc6 Rc7) 27... Rf5?! { (9.09 → 54.97) Inaccuracy. Best move was cxd5. } (27... cxd5 28. Rxd5 Bf4 29. Rd7 Bxe5 30. Qxe5 Rg8 31. Kb1 h6 32. Ra7 Kh7 33. Rxa6 h5 34. Qe4) 28. Qe8+ Rg8 29. Nf7+ Rxf7 30. Qxf7 c5?! { (15.51 → Mate in 13) Checkmate is now unavoidable. Best move was cxd5. } (30... cxd5 31. Rxd5) 31. Re1 Bf8 32. Re8 h6 33. Qf6+?! { (Mate in 5 → Mate in 8) Not the best checkmate sequence. Best move was d6. } (33. d6 a5 34. d7 h5 35. d8=Q a4 36. Rxf8 Rxf8 37. Qdxf8#) 33... Bg7 34. Rxg8+ Kxg8 35. Qxg6 Kf8 36. f4 c4 37. d6 a5 38. d7 Ke7 39. Qxg7+ Kd8 40. f5?! { (Mate in 4 → Mate in 4) Not the best checkmate sequence. Best move was a4. } (40. a4 Kc7 41. Qe7 h5 42. d8=Q+ Kc6 43. Qdd6#) 40... a4 41. f6?! { (Mate in 4 → Mate in 4) Not the best checkmate sequence. Best move was Qd4. } (41. Qd4 h5 42. Qd5 a3 43. bxa3 Ke7 44. d8=Q#) 41... a3 42. f7?! { (Mate in 4 → Mate in 5) Not the best checkmate sequence. Best move was Qe7+. } (42. Qe7+ Kc7 43. d8=Q+ Kc6 44. Qc8+ Kb5 45. Qb4#) 42... axb2+ 43. Kxb2 h5 44. f8=Q+ Kc7 45. d8=Q+ Kc6 46. Qgd4?! { (Mate in 1 → Mate in 2) Not the best checkmate sequence. Best move was Qgd7#. } (46. Qgd7#) 46... Kb5 47. Qfc5+ Ka4 48. Qda5# { White wins by checkmate. } 1-0

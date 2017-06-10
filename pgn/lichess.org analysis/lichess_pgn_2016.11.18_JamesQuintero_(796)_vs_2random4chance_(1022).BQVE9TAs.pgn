@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "https://lichess.org/BQVE9TAs"]
+[Date "2016.11.18"]
+[Round "-"]
+[White "JamesQuintero (796)"]
+[Black "2random4chance (1022)"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "54"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 c5 2. c4 { B20 Sicilian Defense: Staunton-Cochrane Variation } e6 3. Bd3?! { (0.22 → -0.33) Inaccuracy. Best move was Nf3. } (3. Nf3 Nc6 4. Be2 Nf6 5. Nc3 d5 6. exd5 exd5 7. d4 cxd4 8. Nxd4 Bc5 9. Nb3 Bb4) 3... Nc6 4. Be2?! { (-0.12 → -0.64) Inaccuracy. Best move was Nf3. } (4. Nf3 Be7) 4... Nf6 5. d3 Nd4?! { (-0.58 → 0.23) Inaccuracy. Best move was d5. } (5... d5 6. cxd5 exd5 7. Nf3 Be7 8. O-O O-O 9. exd5 Nxd5 10. d4 Bf5 11. dxc5 Bxc5 12. Bg5) 6. Bg5 Nxe2 7. Nxe2 Be7 8. f4 Ng4?! { (-0.35 → 0.58) Inaccuracy. Best move was h6. } (8... h6 9. Bxf6 Bxf6 10. Nbc3 d6 11. O-O O-O 12. Qd2 Bd7 13. g3 Rc8 14. Kg2 Re8 15. b3) 9. Nbc3? { (0.58 → -1.10) Mistake. Best move was Bxe7. } (9. Bxe7 Qxe7) 9... Bxg5 10. fxg5 Qxg5 11. Nb5 Ne3?! { (-1.32 → -0.51) Inaccuracy. Best move was Ke7. } (11... Ke7 12. Qd2 Qxd2+ 13. Kxd2 d6 14. Nbc3 Ne5 15. Rhb1 h5 16. b4 cxb4 17. Rxb4 b6 18. Nd4) 12. Qa4?? { (-0.51 → -3.67) Blunder. Best move was Qc1. } (12. Qc1 O-O) 12... O-O 13. Nd6? { (-3.43 → -5.91) Mistake. Best move was g3. } (13. g3 f5 14. e5 Ng2+ 15. Kd1 b6 16. Nd6 Qe3 17. Qb3 Qxe5 18. Nxc8 Raxc8 19. Qc3 Qe3) 13... Qxg2? { (-5.91 → -4.62) Mistake. Best move was Nxg2+. } (13... Nxg2+ 14. Kd1 Ne3+ 15. Ke1 f5 16. Qb5 Qh6 17. Qxc5 fxe4 18. Nxe4 Nc2+ 19. Kd1 Nxa1 20. Qd4) 14. Kd2 Qg5 15. Rhf1?? { (-4.39 → -9.17) Blunder. Best move was Kc3. } (15. Kc3 f5) 15... Ng2+?? { (-9.17 → -5.22) Blunder. Best move was Nxf1+. } (15... Nxf1+) 16. Kc3? { (-5.22 → -6.51) Mistake. Best move was Kc2. } (16. Kc2 Ne3+ 17. Kb3 Nxf1 18. Rxf1 Qd2 19. Nc3 Qxh2 20. Nxc8 Rfxc8 21. a3 Rc6 22. Ka2 Rb6) 16... Qe5+ 17. Kd2 Qxd6 18. Qb5?! { (-6.44 → -7.18) Inaccuracy. Best move was Rf2. } (18. Rf2 Qxh2 19. Nf4 Qh6 20. Rxg2 Qxf4+ 21. Kc2 d5 22. Re1 b6 23. Rge2 dxe4 24. Rxe4 Qd6) 18... a6 19. Qb3 Qxh2 20. Qd1? { (-6.37 → -7.41) Mistake. Best move was Rh1. } (20. Rh1 Qe5 21. Rag1 Nf4 22. Nxf4 Qxf4+ 23. Kc2 d6 24. Kb1 Qe3 25. Qc3 e5 26. Rg2 Be6) 20... Qh6+ 21. Kc2? { (-7.38 → -13.83) Mistake. Best move was Kc3. } (21. Kc3 Ne3 22. Qd2 d5 23. Rh1 Qg5 24. exd5 exd5 25. Rag1 Bg4 26. Rxg4 Qe5+ 27. d4 cxd4+) 21... Ne3+ 22. Kd2 Nxd1+ 23. Kxd1 Qe3 24. Rg1 Qxd3+ 25. Ke1 Qxc4 26. Nf4 Qxe4+ 27. Kd1 Qxf4 { Black wins. } 0-1
